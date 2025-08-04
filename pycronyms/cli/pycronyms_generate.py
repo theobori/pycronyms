@@ -5,7 +5,7 @@ import shutil
 import sys
 
 from typing import NoReturn, Any, Dict, Tuple
-from argparse import ArgumentParser
+from argparse import ArgumentParser, _SubParsersAction
 from pathlib import Path
 from collections import defaultdict
 
@@ -54,14 +54,18 @@ def create_matrix_section(matrix: str, is_empty: bool) -> str:
     return section
 
 
-def create_parser() -> ArgumentParser:
-    """Creating a parser.
+def create_subparser_generate(
+    subparsers: "_SubParsersAction[ArgumentParser]",
+) -> ArgumentParser:
+    """Creating a subparser for the generate subcommand.
 
     Returns:
         ArgumentParser: The created parser.
     """
 
-    parser = ArgumentParser(description="Generate and write acronyms into a JSON file.")
+    parser = subparsers.add_parser(
+        "generate", help="Generate and write acronyms into a JSON file."
+    )
 
     parser.add_argument(
         "-d",
@@ -128,7 +132,7 @@ def create_matrix_markdown(acronyms_dict: AcronymsDict) -> Tuple[str, bool]:
     # Creating each row of the matrix
     #
     # On the first row, there is the language names
-    first_row = ["Category\\Language", *list(language_metrics.keys()), "Total"]
+    first_row = ["Category\\Language", *list(language_metrics), "Total"]
 
     rows = []
     for ck, cv in category_metrics.items():
@@ -219,9 +223,12 @@ def write_markdown_summary(acronyms_dict: AcronymsDict, dir: Path) -> NoReturn:
     )
 
 
-def main() -> NoReturn:
+def generate(dir: Path) -> NoReturn:
     """Fetched every acronyms with every available providers. Once it has been fetched,
     the objects representing them are going to be written in JSON files.
+
+    Args:
+        dir (Path): The output directory path.
     """
 
     logging.basicConfig(format="%(asctime)s - %(levelname)s - %(message)s")
@@ -231,16 +238,11 @@ def main() -> NoReturn:
 
     logger.setLevel(logging.DEBUG)
 
-    parser = create_parser()
-    args = parser.parse_args()
-
     pycronms = Pycronyms()
     pycronms.add_provider(Custom())
     pycronms.add_provider(Wikipedia())
 
     pycronms.fetch_all()
-
-    dir: Path = args.dir
 
     os.makedirs(dir, exist_ok=True)
     logger.info(f"Created the directory {dir.absolute()} if needed")

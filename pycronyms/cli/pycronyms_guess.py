@@ -4,10 +4,9 @@ import logging
 import sys
 import random
 
-from typing import NoReturn, Any, Optional, List, Dict, Tuple, Set
-from argparse import ArgumentParser, RawTextHelpFormatter
+from typing import NoReturn, Any, Optional, Tuple, Set
+from argparse import ArgumentParser, _SubParsersAction
 from pathlib import Path
-from enum import Enum
 
 from pycronyms.language import Language
 from pycronyms.category import Category
@@ -25,71 +24,42 @@ BASE_DIRPATH = Path(os.path.dirname(__file__))
 EMBEDDED_ACRONYMS_DIR = BASE_DIRPATH / ".." / OUTPUT_DIRNAME
 
 
-def _enum_description_list(
-    name: str, e: Optional[Enum] = None, values: Optional[List[str]] = None
-) -> str:
-    """This is an helper function used to list CLI choices represented
-    as an enum into Python string.
-
-    It returns a formatted string representing this list.
-
-    Args:
-        name (str): The list name.
-        e (Optional[Enum], optional): The optional enum. Defaults to None.
-        values (Optional[List[str]], optional): Optional values that override the enum. Defaults to None.
-
-    Returns:
-        str: The new formatted string.
-    """
-
-    values: List[str]
-
-    name = name.upper()
-
-    if not e is None:
-        values = e._member_map_.values()
-    else:
-        values = values or []
-
-    if len(values) == 0:
-        return f"No values are available for {name}."
-
-    values_str = [f"'{value}'\n" for value in values]
-    values_str = "- " + "- ".join(values_str)
-
-    description = f"""
-The following values for {name} are available.
-{values_str}"""
-
-    return description
-
-
-def create_parser() -> ArgumentParser:
-    """Creating a parser.
+def create_subparser_guess(
+    subparsers: "_SubParsersAction[ArgumentParser]",
+) -> ArgumentParser:
+    """Creating a subparser for the guess subcommand.
 
     Returns:
         ArgumentParser: The created parser.
     """
 
-    language_description = _enum_description_list(
-        "language", values=[l.iso_639_1_code for l in Language]
+    parser = subparsers.add_parser("guess", help="Guess acronym meanings.")
+
+    parser.add_argument(
+        "-l",
+        "--language",
+        required=False,
+        default=None,
+        type=str,
+        choices=[l.iso_639_1_code for l in Language],
     )
-    category_description = _enum_description_list("category", e=Category)
-
-    description = f"""
-Guess acronym meanings.
-
-{language_description}
-{category_description}
-"""
-
-    parser = ArgumentParser(
-        description=description, formatter_class=RawTextHelpFormatter
+    parser.add_argument(
+        "-c",
+        "--category",
+        required=False,
+        default=None,
+        type=str,
+        choices=Category._member_map_.values(),
     )
-
-    parser.add_argument("-l", "--language", required=False, default=None, type=str)
-    parser.add_argument("-c", "--category", required=False, default=None, type=str)
     parser.add_argument("-n", "--name", required=False, default=None, type=str)
+
+    parser.add_argument(
+        "-d",
+        "--dir",
+        required=False,
+        default=EMBEDDED_ACRONYMS_DIR,
+        type=Path,
+    )
 
     return parser
 
@@ -172,10 +142,10 @@ def get_meanings_controller(
                 "The name parameter should not be used without the others."
             )
 
-        language = random.choice(list(acronyms_dict.keys()))
+        language = random.choice(list(acronyms_dict))
         categories_dict = acronyms_dict[language]
 
-        category = random.choice(list(categories_dict.keys()))
+        category = random.choice(list(categories_dict))
         acronyms_dict = categories_dict[category]
     else:
         raise PycronymsError(
@@ -184,7 +154,7 @@ def get_meanings_controller(
 
     acronym_name: str
     if name is None:
-        acronym_name = random.choice(list(acronyms_dict.keys()))
+        acronym_name = random.choice(list(acronyms_dict))
     else:
         name = name.upper()
 
@@ -229,6 +199,9 @@ def guess_meanings(
     while meanings:
         meaning = input(f"Guess the meaning of '{name}'> ")
 
+        if len(meaning) == 0:
+            continue
+
         if meaning == "quit":
             print()
             print(f"The following meanings were missing.")
@@ -259,22 +232,25 @@ def guess_meanings(
     )
 
 
-def main() -> NoReturn:
-    """Guess game, the goal is to found the meaning of an selected acronym."""
+def guess(language: str, category: str, name: str, dir: Path) -> NoReturn:
+    """Guess game, the goal is to found the meaning of an selected acronym.
 
-    parser = create_parser()
-    args = parser.parse_args()
+    Args:
+        language (str): _description_
+        category (str): _description_
+        name (str): _description_
+        dir (Path): _description_
+    """
 
-    acronyms_dict = read_json_file(EMBEDDED_ACRONYMS_DIR / "all.json")
-
-    name: str
-    meanings: Set[str]
-    language: str
-    category: str
+    try:
+        acronyms_dict = read_json_file(dir / "all.json")
+    except Exception as e:
+        print(e, file=sys.stderr)
+        sys.exit(1)
 
     try:
         name, meanings, language, category = get_meanings_controller(
-            acronyms_dict, args.language, args.category, args.name
+            acronyms_dict, language, category, name
         )
     except PycronymsError as e:
         print(e, file=sys.stderr)

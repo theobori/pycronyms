@@ -28,8 +28,7 @@ classifiers = [
 ]
 
 [project.scripts]
-pycronyms-generate = "pycronyms.cli.pycronyms_generate:main"
-pycronyms-guess = "pycronyms.cli.pycronyms_guess:main"
+pycronyms = "pycronyms.cli.pycronyms:main"
 
 [project.urls]
 Homepage = "https://github.com/theobori/pycronyms"

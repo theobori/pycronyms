@@ -87,4 +87,4 @@ class Pycronyms(ProviderHelper):
 
     @property
     def provider_names(self) -> List[str]:
-        return self.__providers.keys()
+        return list(self.__providers)
