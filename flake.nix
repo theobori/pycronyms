@@ -30,6 +30,8 @@
               wikipedia
               pytestCheckHook
               setuptools
+              setuptools-scm
+              thefuzz
               ;
           };
         };
@@ -47,6 +49,7 @@
                 pip
                 venvShellHook
                 setuptools
+                setuptools-scm
                 pytest
               ])
               ++ defaultPkg.dependencies;

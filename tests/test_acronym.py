@@ -14,6 +14,8 @@ ACRONYM_MEANING_VALID = {
     "lol": "lot of laugh",
     "USR": "U.S. Robotics",
     "UART": "Universal Asynchronous Receiver/Transmitter",
+    "CSMA/CA": "Carrier sense multiple access / collision avoidance",
+    "com": "Collectivité d’outre-mer",
 }
 
 ACRONYM_MEANING_INVALID = {
@@ -22,6 +24,7 @@ ACRONYM_MEANING_INVALID = {
     "SD": "SecureDigital",
     "lol": "lot laugh",
     "lol": " Lot Of aLaugh",
+    "SSH": "Secure Shell",
 }
 
 

@@ -6,6 +6,8 @@
   wikipedia,
   pytestCheckHook,
   setuptools,
+  setuptools-scm,
+  thefuzz,
 }:
 buildPythonApplication {
   pname = "pycronyms";
@@ -14,12 +16,16 @@ buildPythonApplication {
 
   src = ./.;
 
-  build-system = [ setuptools ];
+  build-system = [
+    setuptools
+    setuptools-scm
+  ];
 
   dependencies = [
     orjson
     pydantic
     wikipedia
+    thefuzz
   ];
 
   nativeCheckInputs = [ pytestCheckHook ];
@@ -28,6 +34,6 @@ buildPythonApplication {
 
   meta = {
     license = lib.licenses.gpl3;
-    mainProgram = "pycronyms";
+    mainProgram = "pycronyms_guess";
   };
 }

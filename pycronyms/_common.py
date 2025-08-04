@@ -24,7 +24,7 @@ def remove_html_content(value: str) -> str:
         value (str): String object.
 
     Returns:
-        str: _description_
+        str: The new string.
     """
 
     p = re.compile(r"<.*>.*<.*?>")
@@ -57,8 +57,9 @@ def remove_parenthesis_content(value: str) -> str:
 
         st[-1] += ch
 
-    # Fix whitespaces by prevention
     out = "".join(st)
+
+    # Remove whitespaces by prevention
     out = " ".join(out.split())
 
     return out

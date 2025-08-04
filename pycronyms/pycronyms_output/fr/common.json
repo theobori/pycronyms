@@ -1,0 +1,18 @@
+{
+  "TGV": {
+    "name": "TGV",
+    "meaning": "Très Grande Vitesse",
+    "provider": "custom",
+    "extras": [
+      {
+        "meaning": "Train à Grande Vitesse",
+        "provider": "custom"
+      }
+    ]
+  },
+  "COM": {
+    "name": "COM",
+    "meaning": "Collectivité d’outre-mer",
+    "provider": "custom"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "common": {
+    "TGV": {
+      "name": "TGV",
+      "meaning": "Très Grande Vitesse",
+      "provider": "custom",
+      "extras": [
+        {
+          "meaning": "Train à Grande Vitesse",
+          "provider": "custom"
+        }
+      ]
+    },
+    "COM": {
+      "name": "COM",
+      "meaning": "Collectivité d’outre-mer",
+      "provider": "custom"
+    }
+  },
+  "computer_science": {
+    "DD": {
+      "name": "DD",
+      "meaning": "Disque dur",
+      "provider": "custom"
+    },
+    "UC": {
+      "name": "UC",
+      "meaning": "Unité Centrale",
+      "provider": "custom"
+    }
+  }
+}

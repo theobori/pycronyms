@@ -1,33 +1,40 @@
 [build-system]
-requires = ["setuptools"]
+requires = ["setuptools", "setuptools-scm"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "pycronyms"
 version = "0.0.1"
 dependencies = [
-    "orjson",
-    "pydantic",
-    "wikipedia",
+  "orjson",
+  "pydantic",
+  "wikipedia"
 ]
 requires-python = ">=3.13.5"
 authors = [
-  {name = "Théo Bori", email = "nagi@tilde.team"},
+  {name = "Théo Bori", email = "nagi@tilde.team"}
 ]
 maintainers = [
-  {name = "Théo Bori", email = "nagi@tilde.team"},
+  {name = "Théo Bori", email = "nagi@tilde.team"}
 ]
 description = ""
 readme = "README.md"
 license = "MIT"
-license-files = ["LICEN[CS]E.*"]
+license-files = ["LICENSE"]
 keywords = ["acronyms", "aggregator", "generation", "guess"]
 classifiers = [
   "Development Status :: 4 - Beta",
   "Programming Language :: Python"
 ]
 
+[project.scripts]
+pycronyms-generate = "pycronyms.cli.pycronyms_generate:main"
+pycronyms-guess = "pycronyms.cli.pycronyms_guess:main"
+
 [project.urls]
 Homepage = "https://github.com/theobori/pycronyms"
 Documentation = "https://github.com/theobori/pycronyms"
 Repository = "https://github.com/me/spam.git"
+
+[tool.setuptools]
+packages = ["pycronyms"]

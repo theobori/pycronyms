@@ -1,0 +1,7767 @@
+{
+  "computer_science": {
+    "ASCII": {
+      "name": "ASCII",
+      "meaning": "American Standard Code for Information Interchange",
+      "provider": "wikipedia"
+    },
+    "SQL": {
+      "name": "SQL",
+      "meaning": "Structured Query Language",
+      "provider": "wikipedia"
+    },
+    "RSA": {
+      "name": "RSA",
+      "meaning": "Rivest Shamir Adleman",
+      "provider": "wikipedia"
+    },
+    "DPI": {
+      "name": "DPI",
+      "meaning": "Dots per inch",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Deep packet inspection",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "IOC": {
+      "name": "IOC",
+      "meaning": "Indicator of compromise",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Inversion of control",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "MISD": {
+      "name": "MISD",
+      "meaning": "Multiple Instruction, Single Data",
+      "provider": "wikipedia"
+    },
+    "RTO": {
+      "name": "RTO",
+      "meaning": "Recovery Time Objective",
+      "provider": "wikipedia"
+    },
+    "EFS": {
+      "name": "EFS",
+      "meaning": "Encrypting File System",
+      "provider": "wikipedia"
+    },
+    "HMAC": {
+      "name": "HMAC",
+      "meaning": "Hash-based message authentication code",
+      "provider": "wikipedia"
+    },
+    "DSL": {
+      "name": "DSL",
+      "meaning": "Digital Subscriber Line",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Domain-Specific Language",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "AMOLED": {
+      "name": "AMOLED",
+      "meaning": "Active-Matrix Organic Light-Emitting Diode",
+      "provider": "wikipedia"
+    },
+    "WMI": {
+      "name": "WMI",
+      "meaning": "Windows Management Instrumentation",
+      "provider": "wikipedia"
+    },
+    "PNRP": {
+      "name": "PNRP",
+      "meaning": "Peer Name Resolution Protocol",
+      "provider": "wikipedia"
+    },
+    "FEC": {
+      "name": "FEC",
+      "meaning": "Forward Error Correction",
+      "provider": "wikipedia"
+    },
+    "PBS": {
+      "name": "PBS",
+      "meaning": "Portable Batch System",
+      "provider": "wikipedia"
+    },
+    "HDMI": {
+      "name": "HDMI",
+      "meaning": "High-Definition Multimedia Interface",
+      "provider": "wikipedia"
+    },
+    "RDOS": {
+      "name": "RDOS",
+      "meaning": "Real-time Disk Operating System",
+      "provider": "wikipedia"
+    },
+    "CTAN": {
+      "name": "CTAN",
+      "meaning": "Comprehensive TeX Archive Network",
+      "provider": "wikipedia"
+    },
+    "GPT": {
+      "name": "GPT",
+      "meaning": "GUID Partition Table",
+      "provider": "wikipedia"
+    },
+    "RIP": {
+      "name": "RIP",
+      "meaning": "Routing Information Protocol",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Raster Image Processor",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "NMI": {
+      "name": "NMI",
+      "meaning": "Non-Maskable Interrupt",
+      "provider": "wikipedia"
+    },
+    "ESR": {
+      "name": "ESR",
+      "meaning": "Eric Steven Raymond",
+      "provider": "wikipedia"
+    },
+    "COTS": {
+      "name": "COTS",
+      "meaning": "Commercial off-the-shelf",
+      "provider": "wikipedia"
+    },
+    "MNG": {
+      "name": "MNG",
+      "meaning": "Multiple-image Network Graphics",
+      "provider": "wikipedia"
+    },
+    "SASS": {
+      "name": "SASS",
+      "meaning": "Syntactically Awesome Style Sheets",
+      "provider": "wikipedia"
+    },
+    "FAT": {
+      "name": "FAT",
+      "meaning": "File Allocation Table",
+      "provider": "wikipedia"
+    },
+    "ISA": {
+      "name": "ISA",
+      "meaning": "Industry Standard Architecture",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Instruction Set Architecture",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "OBSAI": {
+      "name": "OBSAI",
+      "meaning": "Open Base Station Architecture Initiative",
+      "provider": "wikipedia"
+    },
+    "DMR": {
+      "name": "DMR",
+      "meaning": "Dennis M. Ritchie",
+      "provider": "wikipedia"
+    },
+    "DORA": {
+      "name": "DORA",
+      "meaning": "Discover, Offer, Request, Acknowledge",
+      "provider": "wikipedia"
+    },
+    "PLC": {
+      "name": "PLC",
+      "meaning": "Programmable logic controller",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Power-Line Communication",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "CTL": {
+      "name": "CTL",
+      "meaning": "Computation tree logic",
+      "provider": "wikipedia"
+    },
+    "SRAM": {
+      "name": "SRAM",
+      "meaning": "Static random access memory",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Static Random-Access Memory",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "AM": {
+      "name": "AM",
+      "meaning": "Active Matrix",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Allied Mastercomputer",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Amplitude Modulation",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Access Method",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Active Monitor",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "YARN": {
+      "name": "YARN",
+      "meaning": "Yet Another Resource Negotiator",
+      "provider": "wikipedia"
+    },
+    "ISAC": {
+      "name": "ISAC",
+      "meaning": "Information Sharing and Analysis Center",
+      "provider": "wikipedia"
+    },
+    "DPMS": {
+      "name": "DPMS",
+      "meaning": "Display Power Management Signaling",
+      "provider": "wikipedia"
+    },
+    "PAT": {
+      "name": "PAT",
+      "meaning": "Port address translation",
+      "provider": "wikipedia"
+    },
+    "NGSCB": {
+      "name": "NGSCB",
+      "meaning": "Next-Generation Secure Computing Base",
+      "provider": "wikipedia"
+    },
+    "ELF": {
+      "name": "ELF",
+      "meaning": "Executable and Linkable Format",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Extremely Low Frequency",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "AFP": {
+      "name": "AFP",
+      "meaning": "Apple Filing Protocol",
+      "provider": "wikipedia"
+    },
+    "NIC": {
+      "name": "NIC",
+      "meaning": "Network Interface Card",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Network Interface Controller or Network Interface Card",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "PHR": {
+      "name": "PHR",
+      "meaning": "Personal health record",
+      "provider": "wikipedia"
+    },
+    "UMPC": {
+      "name": "UMPC",
+      "meaning": "Ultra-Mobile Personal Computer",
+      "provider": "wikipedia"
+    },
+    "LGA": {
+      "name": "LGA",
+      "meaning": "Land Grid Array",
+      "provider": "wikipedia"
+    },
+    "RAIT": {
+      "name": "RAIT",
+      "meaning": "Redundant Array of Inexpensive Tapes",
+      "provider": "wikipedia"
+    },
+    "CGT": {
+      "name": "CGT",
+      "meaning": "Computational Graph Theory",
+      "provider": "wikipedia"
+    },
+    "POCO": {
+      "name": "POCO",
+      "meaning": "Plain Old Class Object",
+      "provider": "wikipedia"
+    },
+    "SMF": {
+      "name": "SMF",
+      "meaning": "Single-Mode Fiber",
+      "provider": "wikipedia"
+    },
+    "3GPP2": {
+      "name": "3GPP2",
+      "meaning": "3rd Generation Partnership Project 2",
+      "provider": "wikipedia"
+    },
+    "SSTP": {
+      "name": "SSTP",
+      "meaning": "Secure Socket Tunneling Protocol",
+      "provider": "wikipedia"
+    },
+    "OO": {
+      "name": "OO",
+      "meaning": "Object-Oriented",
+      "provider": "wikipedia"
+    },
+    "RFI": {
+      "name": "RFI",
+      "meaning": "Radio Frequency Interference",
+      "provider": "wikipedia"
+    },
+    "WSFL": {
+      "name": "WSFL",
+      "meaning": "Web Services Flow Language",
+      "provider": "wikipedia"
+    },
+    "RTD": {
+      "name": "RTD",
+      "meaning": "Round-trip delay",
+      "provider": "wikipedia"
+    },
+    "BCNF": {
+      "name": "BCNF",
+      "meaning": "Boyce–Codd normal form",
+      "provider": "wikipedia"
+    },
+    "CBRNG": {
+      "name": "CBRNG",
+      "meaning": "Counter-based random number generator",
+      "provider": "wikipedia"
+    },
+    "CRUD": {
+      "name": "CRUD",
+      "meaning": "Create, read, update and delete",
+      "provider": "wikipedia"
+    },
+    "ECMA": {
+      "name": "ECMA",
+      "meaning": "European Computer Manufacturers Association",
+      "provider": "wikipedia"
+    },
+    "MBR": {
+      "name": "MBR",
+      "meaning": "Master Boot Record",
+      "provider": "wikipedia"
+    },
+    "ZIP": {
+      "name": "ZIP",
+      "meaning": "ZIP file archive",
+      "provider": "wikipedia"
+    },
+    "SAM": {
+      "name": "SAM",
+      "meaning": "Security Account Manager",
+      "provider": "wikipedia"
+    },
+    "XCBL": {
+      "name": "XCBL",
+      "meaning": "XML Common Business Library",
+      "provider": "wikipedia"
+    },
+    "IPL": {
+      "name": "IPL",
+      "meaning": "Initial Program Load",
+      "provider": "wikipedia"
+    },
+    "ICS": {
+      "name": "ICS",
+      "meaning": "Internet Connection Sharing",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Industrial control system",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "FP": {
+      "name": "FP",
+      "meaning": "Function Programming",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Functional Programming",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "NVRAM": {
+      "name": "NVRAM",
+      "meaning": "Non-Volatile Random-Access Memory",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Non-volatile RAM",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "LCD": {
+      "name": "LCD",
+      "meaning": "Liquid Crystal Display",
+      "provider": "wikipedia"
+    },
+    "AD": {
+      "name": "AD",
+      "meaning": "Administrative Domain",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Active Directory",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "MBSS": {
+      "name": "MBSS",
+      "meaning": "Mesh basic service set",
+      "provider": "wikipedia"
+    },
+    "DSP": {
+      "name": "DSP",
+      "meaning": "Digital Signal Processor",
+      "provider": "wikipedia"
+    },
+    "DAM": {
+      "name": "DAM",
+      "meaning": "Digital asset management",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Database activity monitoring",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "EULA": {
+      "name": "EULA",
+      "meaning": "End User License Agreement",
+      "provider": "wikipedia"
+    },
+    "DNS": {
+      "name": "DNS",
+      "meaning": "Domain Name System",
+      "provider": "wikipedia"
+    },
+    "VFS": {
+      "name": "VFS",
+      "meaning": "Virtual File System",
+      "provider": "wikipedia"
+    },
+    "UVC": {
+      "name": "UVC",
+      "meaning": "Universal Virtual Computer",
+      "provider": "wikipedia"
+    },
+    "DML": {
+      "name": "DML",
+      "meaning": "Data Manipulation Language",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Definitive Media Library",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "WUSB": {
+      "name": "WUSB",
+      "meaning": "Wireless Universal Serial Bus",
+      "provider": "wikipedia"
+    },
+    "SLED": {
+      "name": "SLED",
+      "meaning": "SUSE Linux Enterprise Desktop",
+      "provider": "wikipedia"
+    },
+    "RTF": {
+      "name": "RTF",
+      "meaning": "Rich Text Format",
+      "provider": "wikipedia"
+    },
+    "NAS": {
+      "name": "NAS",
+      "meaning": "Network-Attached Storage",
+      "provider": "wikipedia"
+    },
+    "CCM": {
+      "name": "CCM",
+      "meaning": "Central control module",
+      "provider": "wikipedia"
+    },
+    "RIPE": {
+      "name": "RIPE",
+      "meaning": "Réseaux IP Européens",
+      "provider": "wikipedia"
+    },
+    "BI": {
+      "name": "BI",
+      "meaning": "Business Intelligence",
+      "provider": "wikipedia"
+    },
+    "SAS": {
+      "name": "SAS",
+      "meaning": "Serial attached SCSI",
+      "provider": "wikipedia"
+    },
+    "EDSAC": {
+      "name": "EDSAC",
+      "meaning": "Electronic Delay Storage Automatic Calculator",
+      "provider": "wikipedia"
+    },
+    "IR": {
+      "name": "IR",
+      "meaning": "Intermediate Representation",
+      "provider": "wikipedia"
+    },
+    "CSS": {
+      "name": "CSS",
+      "meaning": "Closed-source software",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Content-scrambling system",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Cascading style sheets",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "POS": {
+      "name": "POS",
+      "meaning": "Point of Sale",
+      "provider": "wikipedia"
+    },
+    "FYI": {
+      "name": "FYI",
+      "meaning": "For Your Information",
+      "provider": "wikipedia"
+    },
+    "SNP": {
+      "name": "SNP",
+      "meaning": "Secure Network Programming",
+      "provider": "wikipedia"
+    },
+    "DPO": {
+      "name": "DPO",
+      "meaning": "Data Protection Officer or Data Privacy Officer",
+      "provider": "wikipedia"
+    },
+    "BSS": {
+      "name": "BSS",
+      "meaning": "Basic service set",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Block Started by Symbol",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "TAO": {
+      "name": "TAO",
+      "meaning": "Track-At-Once",
+      "provider": "wikipedia"
+    },
+    "J2ME": {
+      "name": "J2ME",
+      "meaning": "Java 2 Micro Edition",
+      "provider": "wikipedia"
+    },
+    "CFG": {
+      "name": "CFG",
+      "meaning": "Context-free grammar",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Control-flow graph",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "CD": {
+      "name": "CD",
+      "meaning": "Compact Disc",
+      "provider": "wikipedia"
+    },
+    "URN": {
+      "name": "URN",
+      "meaning": "Uniform Resource Name",
+      "provider": "wikipedia"
+    },
+    "ARPA": {
+      "name": "ARPA",
+      "meaning": "Address and Routing Parameter Area",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Advanced Research Projects Agency",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "SIMM": {
+      "name": "SIMM",
+      "meaning": "Single Inline Memory Module",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Single In-line Memory Module",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "CIS": {
+      "name": "CIS",
+      "meaning": "Centre for Internet and Society",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Comodo Internet Security",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Center for Internet Security",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Continuous ink system",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Contact image sensor",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Computer and information science",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "ISP": {
+      "name": "ISP",
+      "meaning": "Internet Service Provider",
+      "provider": "wikipedia"
+    },
+    "NAC": {
+      "name": "NAC",
+      "meaning": "Network access control",
+      "provider": "wikipedia"
+    },
+    "PC": {
+      "name": "PC",
+      "meaning": "Personal Computer",
+      "provider": "wikipedia"
+    },
+    "SAE": {
+      "name": "SAE",
+      "meaning": "Simultaneous Authentication of Equals",
+      "provider": "wikipedia"
+    },
+    "ETM": {
+      "name": "ETM",
+      "meaning": "Encrypt-then-MAC",
+      "provider": "wikipedia"
+    },
+    "DFA": {
+      "name": "DFA",
+      "meaning": "Deterministic Finite Automaton",
+      "provider": "wikipedia"
+    },
+    "FAP": {
+      "name": "FAP",
+      "meaning": "FORTRAN Assembly Program",
+      "provider": "wikipedia"
+    },
+    "HURD": {
+      "name": "HURD",
+      "meaning": "Hird of Unix-Replacing Daemons",
+      "provider": "wikipedia"
+    },
+    "IDN": {
+      "name": "IDN",
+      "meaning": "Internationalized domain name",
+      "provider": "wikipedia"
+    },
+    "SHDSL": {
+      "name": "SHDSL",
+      "meaning": "Single-pair High-speed Digital Subscriber Line",
+      "provider": "wikipedia"
+    },
+    "VC": {
+      "name": "VC",
+      "meaning": "Virtual circuit",
+      "provider": "wikipedia"
+    },
+    "CVE": {
+      "name": "CVE",
+      "meaning": "Common Vulnerabilities and Exposures",
+      "provider": "wikipedia"
+    },
+    "GERAN": {
+      "name": "GERAN",
+      "meaning": "GSM EDGE Radio Access Network",
+      "provider": "wikipedia"
+    },
+    "HIDS": {
+      "name": "HIDS",
+      "meaning": "Host-based intrusion detection system",
+      "provider": "wikipedia"
+    },
+    "MSS": {
+      "name": "MSS",
+      "meaning": "Managed security service",
+      "provider": "wikipedia"
+    },
+    "GPFS": {
+      "name": "GPFS",
+      "meaning": "General Parallel File System",
+      "provider": "wikipedia"
+    },
+    "NIM": {
+      "name": "NIM",
+      "meaning": "No Internal Message",
+      "provider": "wikipedia"
+    },
+    "CSE": {
+      "name": "CSE",
+      "meaning": "Computer science and engineering",
+      "provider": "wikipedia"
+    },
+    "CC": {
+      "name": "CC",
+      "meaning": "C compiler",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Creative Commons",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Carbon copy",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "LSB": {
+      "name": "LSB",
+      "meaning": "Least Significant Bit",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Linux Standard Base",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "LM": {
+      "name": "LM",
+      "meaning": "Lan Manager",
+      "provider": "wikipedia"
+    },
+    "JAAS": {
+      "name": "JAAS",
+      "meaning": "Java Authentication and Authorization Service",
+      "provider": "wikipedia"
+    },
+    "DCL": {
+      "name": "DCL",
+      "meaning": "Data Control Language",
+      "provider": "wikipedia"
+    },
+    "UCS": {
+      "name": "UCS",
+      "meaning": "Universal Character Set",
+      "provider": "wikipedia"
+    },
+    "HVD": {
+      "name": "HVD",
+      "meaning": "Holographic Versatile Disc",
+      "provider": "wikipedia"
+    },
+    "IFL": {
+      "name": "IFL",
+      "meaning": "Integrated Facility for Linux",
+      "provider": "wikipedia"
+    },
+    "IAC": {
+      "name": "IAC",
+      "meaning": "Infrastructure as Code",
+      "provider": "wikipedia"
+    },
+    "MAU": {
+      "name": "MAU",
+      "meaning": "Media access unit",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Medium Attachment Unit",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "ECRS": {
+      "name": "ECRS",
+      "meaning": "Expense and Cost Recovery System",
+      "provider": "wikipedia"
+    },
+    "ARC": {
+      "name": "ARC",
+      "meaning": "Adaptive Replacement Cache",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Advanced RISC Computing",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "IPV4": {
+      "name": "IPV4",
+      "meaning": "Internet Protocol version 4",
+      "provider": "wikipedia"
+    },
+    "WIDE": {
+      "name": "WIDE",
+      "meaning": "Widely Integrated Distributed Environment",
+      "provider": "wikipedia"
+    },
+    "DSSSL": {
+      "name": "DSSSL",
+      "meaning": "Document Style Semantics and Specification Language",
+      "provider": "wikipedia"
+    },
+    "SE": {
+      "name": "SE",
+      "meaning": "Single Ended",
+      "provider": "wikipedia"
+    },
+    "TRON": {
+      "name": "TRON",
+      "meaning": "The Real-time Operating system Nucleus",
+      "provider": "wikipedia"
+    },
+    "VLIW": {
+      "name": "VLIW",
+      "meaning": "Very Long Instruction Word",
+      "provider": "wikipedia"
+    },
+    "MCTS": {
+      "name": "MCTS",
+      "meaning": "Microsoft Certified Technology Specialist",
+      "provider": "wikipedia"
+    },
+    "MU": {
+      "name": "MU",
+      "meaning": "Memory Unit",
+      "provider": "wikipedia"
+    },
+    "UAV": {
+      "name": "UAV",
+      "meaning": "Unmanned aerial vehicle",
+      "provider": "wikipedia"
+    },
+    "ACM": {
+      "name": "ACM",
+      "meaning": "Association for Computing Machinery",
+      "provider": "wikipedia"
+    },
+    "EPP": {
+      "name": "EPP",
+      "meaning": "Endpoint protection platform",
+      "provider": "wikipedia"
+    },
+    "OOTB": {
+      "name": "OOTB",
+      "meaning": "Out of the box",
+      "provider": "wikipedia"
+    },
+    "APT": {
+      "name": "APT",
+      "meaning": "Advanced persistent threat",
+      "provider": "wikipedia"
+    },
+    "SASE": {
+      "name": "SASE",
+      "meaning": "Secure access service edge",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Stand-alone synchronization equipment",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "EFM": {
+      "name": "EFM",
+      "meaning": "Ethernet in the first mile",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Eight-to-Fourteen Modulation",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "TDE": {
+      "name": "TDE",
+      "meaning": "Transparent data encryption",
+      "provider": "wikipedia"
+    },
+    "GIGO": {
+      "name": "GIGO",
+      "meaning": "Garbage In, Garbage Out",
+      "provider": "wikipedia"
+    },
+    "OUI": {
+      "name": "OUI",
+      "meaning": "Organization Unique Identifier",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Organizationally Unique Identifier",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "GPIB": {
+      "name": "GPIB",
+      "meaning": "General-Purpose Instrumentation Bus",
+      "provider": "wikipedia"
+    },
+    "EXT": {
+      "name": "EXT",
+      "meaning": "EXTended file system",
+      "provider": "wikipedia"
+    },
+    "SSSP": {
+      "name": "SSSP",
+      "meaning": "Single Source Shortest Path",
+      "provider": "wikipedia"
+    },
+    "CR": {
+      "name": "CR",
+      "meaning": "Carriage return",
+      "provider": "wikipedia"
+    },
+    "MPL": {
+      "name": "MPL",
+      "meaning": "Mozilla Public License",
+      "provider": "wikipedia"
+    },
+    "PCDOS": {
+      "name": "PCDOS",
+      "meaning": "Personal Computer Disc Operating System",
+      "provider": "wikipedia"
+    },
+    "MBCS": {
+      "name": "MBCS",
+      "meaning": "Multi Byte Character Set",
+      "provider": "wikipedia"
+    },
+    "SA": {
+      "name": "SA",
+      "meaning": "Security association",
+      "provider": "wikipedia"
+    },
+    "VPN": {
+      "name": "VPN",
+      "meaning": "Virtual private network",
+      "provider": "wikipedia"
+    },
+    "LCR": {
+      "name": "LCR",
+      "meaning": "Least Cost Routing",
+      "provider": "wikipedia"
+    },
+    "SCAP": {
+      "name": "SCAP",
+      "meaning": "Security Content Automation Protocol",
+      "provider": "wikipedia"
+    },
+    "MPEG": {
+      "name": "MPEG",
+      "meaning": "Motion Pictures Experts Group",
+      "provider": "wikipedia"
+    },
+    "SNMP": {
+      "name": "SNMP",
+      "meaning": "Simple Network Management Protocol",
+      "provider": "wikipedia"
+    },
+    "NEP": {
+      "name": "NEP",
+      "meaning": "Network Equipment Provider",
+      "provider": "wikipedia"
+    },
+    "VLF": {
+      "name": "VLF",
+      "meaning": "Very Low Frequency",
+      "provider": "wikipedia"
+    },
+    "CSMA/CA": {
+      "name": "CSMA/CA",
+      "meaning": "Carrier sense multiple access / collision avoidance",
+      "provider": "wikipedia"
+    },
+    "IRC": {
+      "name": "IRC",
+      "meaning": "Internet Relay Chat",
+      "provider": "wikipedia"
+    },
+    "NRZI": {
+      "name": "NRZI",
+      "meaning": "Non-return to zero inverted",
+      "provider": "wikipedia"
+    },
+    "RDS": {
+      "name": "RDS",
+      "meaning": "Remote Desktop Services",
+      "provider": "wikipedia"
+    },
+    "LPI": {
+      "name": "LPI",
+      "meaning": "Linux Professional Institute",
+      "provider": "wikipedia"
+    },
+    "AS": {
+      "name": "AS",
+      "meaning": "Access Server",
+      "provider": "wikipedia"
+    },
+    "DTE": {
+      "name": "DTE",
+      "meaning": "Data Terminal Equipment or data transfer rate",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Data Terminal Equipment",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "PDP": {
+      "name": "PDP",
+      "meaning": "Programmed Data Processor",
+      "provider": "wikipedia"
+    },
+    "ADC": {
+      "name": "ADC",
+      "meaning": "Analog-to-Digital Converter",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Apple Display Connector",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "ERP": {
+      "name": "ERP",
+      "meaning": "Enterprise Resource Planning",
+      "provider": "wikipedia"
+    },
+    "FTPS": {
+      "name": "FTPS",
+      "meaning": "FTP-SSL or FTP Secure",
+      "provider": "wikipedia"
+    },
+    "CSM": {
+      "name": "CSM",
+      "meaning": "Compatibility support module",
+      "provider": "wikipedia"
+    },
+    "UAS": {
+      "name": "UAS",
+      "meaning": "Unmanned aircraft system",
+      "provider": "wikipedia"
+    },
+    "IPMI": {
+      "name": "IPMI",
+      "meaning": "Intelligent Platform Management Interface",
+      "provider": "wikipedia"
+    },
+    "MVC": {
+      "name": "MVC",
+      "meaning": "Model-View-Controller",
+      "provider": "wikipedia"
+    },
+    "PPM": {
+      "name": "PPM",
+      "meaning": "Pages Per Minute",
+      "provider": "wikipedia"
+    },
+    "TCSEC": {
+      "name": "TCSEC",
+      "meaning": "Trusted Computer System Evaluation Criteria",
+      "provider": "wikipedia"
+    },
+    "CSV": {
+      "name": "CSV",
+      "meaning": "Comma-separated values",
+      "provider": "wikipedia"
+    },
+    "ECDH": {
+      "name": "ECDH",
+      "meaning": "Elliptic-curve Diffie–Hellman",
+      "provider": "wikipedia"
+    },
+    "VFAT": {
+      "name": "VFAT",
+      "meaning": "Virtual File Allocation Table",
+      "provider": "wikipedia"
+    },
+    "DSSS": {
+      "name": "DSSS",
+      "meaning": "Direct-sequence spread spectrum",
+      "provider": "wikipedia"
+    },
+    "LACP": {
+      "name": "LACP",
+      "meaning": "Link Aggregation Control Protocol",
+      "provider": "wikipedia"
+    },
+    "BEEP": {
+      "name": "BEEP",
+      "meaning": "Blocks Extensible Exchange Protocol",
+      "provider": "wikipedia"
+    },
+    "WMA": {
+      "name": "WMA",
+      "meaning": "Windows Media Audio",
+      "provider": "wikipedia"
+    },
+    "AAA": {
+      "name": "AAA",
+      "meaning": "Authentication, authorization, and accounting",
+      "provider": "wikipedia"
+    },
+    "AROS": {
+      "name": "AROS",
+      "meaning": "AROS Research Operating System",
+      "provider": "wikipedia"
+    },
+    "NIDS": {
+      "name": "NIDS",
+      "meaning": "Network intrusion detection systems",
+      "provider": "wikipedia"
+    },
+    "UTM": {
+      "name": "UTM",
+      "meaning": "Unified Threat Management",
+      "provider": "wikipedia"
+    },
+    "FTTH": {
+      "name": "FTTH",
+      "meaning": "Fiber To The Home",
+      "provider": "wikipedia"
+    },
+    "PDU": {
+      "name": "PDU",
+      "meaning": "Power distribution unit",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Protocol data unit",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "WPAN": {
+      "name": "WPAN",
+      "meaning": "Wireless Personal Area Network",
+      "provider": "wikipedia"
+    },
+    "MMF": {
+      "name": "MMF",
+      "meaning": "Multi-Mode Fiber",
+      "provider": "wikipedia"
+    },
+    "PSVI": {
+      "name": "PSVI",
+      "meaning": "Post-Schema-Validation Infoset",
+      "provider": "wikipedia"
+    },
+    "AMD": {
+      "name": "AMD",
+      "meaning": "Advanced Micro Devices",
+      "provider": "wikipedia"
+    },
+    "OSTG": {
+      "name": "OSTG",
+      "meaning": "Open Source Technology Group",
+      "provider": "wikipedia"
+    },
+    "MWC": {
+      "name": "MWC",
+      "meaning": "Mobile World Congress",
+      "provider": "wikipedia"
+    },
+    "FTP": {
+      "name": "FTP",
+      "meaning": "File Transfer Protocol",
+      "provider": "wikipedia"
+    },
+    "GNOME": {
+      "name": "GNOME",
+      "meaning": "GNU Network Object Model Environment",
+      "provider": "wikipedia"
+    },
+    "ICE": {
+      "name": "ICE",
+      "meaning": "In-Circuit Emulator",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Intrusion Countermeasure Electronics",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "PNG": {
+      "name": "PNG",
+      "meaning": "Portable Network Graphics",
+      "provider": "wikipedia"
+    },
+    "LRU": {
+      "name": "LRU",
+      "meaning": "Least Recently Used",
+      "provider": "wikipedia"
+    },
+    "RARP": {
+      "name": "RARP",
+      "meaning": "Reverse ARP",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Reverse Address Resolution Protocol",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "SCM": {
+      "name": "SCM",
+      "meaning": "Source Code Management",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Software Configuration Management",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "DAC": {
+      "name": "DAC",
+      "meaning": "Digital-to-analog converter",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Discretionary access control",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "AP": {
+      "name": "AP",
+      "meaning": "Access point",
+      "provider": "wikipedia"
+    },
+    "MCPD": {
+      "name": "MCPD",
+      "meaning": "Microsoft Certified Professional Developer",
+      "provider": "wikipedia"
+    },
+    "ISR": {
+      "name": "ISR",
+      "meaning": "Interrupt Service Routine",
+      "provider": "wikipedia"
+    },
+    "LCOS": {
+      "name": "LCOS",
+      "meaning": "Liquid Crystal On Silicon",
+      "provider": "wikipedia"
+    },
+    "DNP3": {
+      "name": "DNP3",
+      "meaning": "Distributed Network Protocol 3",
+      "provider": "wikipedia"
+    },
+    "OOM": {
+      "name": "OOM",
+      "meaning": "Out Of Memory",
+      "provider": "wikipedia"
+    },
+    "VSAM": {
+      "name": "VSAM",
+      "meaning": "Virtual Storage-Access Method",
+      "provider": "wikipedia"
+    },
+    "TUG": {
+      "name": "TUG",
+      "meaning": "TeX Users Group",
+      "provider": "wikipedia"
+    },
+    "ICANN": {
+      "name": "ICANN",
+      "meaning": "Internet Corporation for Assigned Names and Numbers",
+      "provider": "wikipedia"
+    },
+    "POCE": {
+      "name": "POCE",
+      "meaning": "Personally owned, company enabled",
+      "provider": "wikipedia"
+    },
+    "RIAA": {
+      "name": "RIAA",
+      "meaning": "Recording Industry Association of America",
+      "provider": "wikipedia"
+    },
+    "MTE": {
+      "name": "MTE",
+      "meaning": "MAC-then-Encrypt",
+      "provider": "wikipedia"
+    },
+    "PUA": {
+      "name": "PUA",
+      "meaning": "Potentially unwanted application",
+      "provider": "wikipedia"
+    },
+    "IBSS": {
+      "name": "IBSS",
+      "meaning": "Independent basic service set",
+      "provider": "wikipedia"
+    },
+    "PKI": {
+      "name": "PKI",
+      "meaning": "Public Key Infrastructure",
+      "provider": "wikipedia"
+    },
+    "CRLF": {
+      "name": "CRLF",
+      "meaning": "Carriage return line feed",
+      "provider": "wikipedia"
+    },
+    "XPS": {
+      "name": "XPS",
+      "meaning": "XML Paper Specification",
+      "provider": "wikipedia"
+    },
+    "NTLM": {
+      "name": "NTLM",
+      "meaning": "New Technology LAN Manager",
+      "provider": "wikipedia"
+    },
+    "LTL": {
+      "name": "LTL",
+      "meaning": "Linear Temporal Logic",
+      "provider": "wikipedia"
+    },
+    "IEEE": {
+      "name": "IEEE",
+      "meaning": "Institute for Electrical and Electronic Engineers",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Institute of Electrical and Electronics Engineers",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "QOTD": {
+      "name": "QOTD",
+      "meaning": "Quote of the Day",
+      "provider": "wikipedia"
+    },
+    "FLOPS": {
+      "name": "FLOPS",
+      "meaning": "FLoating-Point Operations Per Second",
+      "provider": "wikipedia"
+    },
+    "PIC": {
+      "name": "PIC",
+      "meaning": "Programmable Interrupt Controller",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Peripheral Interface Controller",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "DOM": {
+      "name": "DOM",
+      "meaning": "Document Object Model",
+      "provider": "wikipedia"
+    },
+    "OCR": {
+      "name": "OCR",
+      "meaning": "Optical Character Recognition",
+      "provider": "wikipedia"
+    },
+    "OS": {
+      "name": "OS",
+      "meaning": "Operating System",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Open Source",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "GUI": {
+      "name": "GUI",
+      "meaning": "Graphical user interface",
+      "provider": "wikipedia"
+    },
+    "IBCS": {
+      "name": "IBCS",
+      "meaning": "Intel Binary Compatibility Standard",
+      "provider": "wikipedia"
+    },
+    "FET": {
+      "name": "FET",
+      "meaning": "Field Effect Transistor",
+      "provider": "wikipedia"
+    },
+    "VFO": {
+      "name": "VFO",
+      "meaning": "Variable-frequency oscillator",
+      "provider": "wikipedia"
+    },
+    "APL": {
+      "name": "APL",
+      "meaning": "A Programming Language",
+      "provider": "wikipedia"
+    },
+    "ATM": {
+      "name": "ATM",
+      "meaning": "Asynchronous Transfer Mode",
+      "provider": "wikipedia"
+    },
+    "MFP": {
+      "name": "MFP",
+      "meaning": "Multi-function printer",
+      "provider": "wikipedia"
+    },
+    "MS": {
+      "name": "MS",
+      "meaning": "Memory Stick",
+      "provider": "wikipedia"
+    },
+    "IGMP": {
+      "name": "IGMP",
+      "meaning": "Internet Group Management Protocol",
+      "provider": "wikipedia"
+    },
+    "MMC": {
+      "name": "MMC",
+      "meaning": "Microsoft Management Console",
+      "provider": "wikipedia"
+    },
+    "IRI": {
+      "name": "IRI",
+      "meaning": "Internationalized Resource Identifier",
+      "provider": "wikipedia"
+    },
+    "I/O": {
+      "name": "I/O",
+      "meaning": "Input/output",
+      "provider": "wikipedia"
+    },
+    "IS": {
+      "name": "IS",
+      "meaning": "Information Systems",
+      "provider": "wikipedia"
+    },
+    "PS/2": {
+      "name": "PS/2",
+      "meaning": "Personal System/2",
+      "provider": "wikipedia"
+    },
+    "GEPOF": {
+      "name": "GEPOF",
+      "meaning": "Gigabit Ethernet Plastic Optical Fiber",
+      "provider": "wikipedia"
+    },
+    "JINI": {
+      "name": "JINI",
+      "meaning": "Jini Is Not Initials",
+      "provider": "wikipedia"
+    },
+    "AST": {
+      "name": "AST",
+      "meaning": "Abstract Syntax Tree",
+      "provider": "wikipedia"
+    },
+    "ECOS": {
+      "name": "ECOS",
+      "meaning": "Embedded Configurable Operating System",
+      "provider": "wikipedia"
+    },
+    "WZC": {
+      "name": "WZC",
+      "meaning": "Wireless Zero Configuration",
+      "provider": "wikipedia"
+    },
+    "AOP": {
+      "name": "AOP",
+      "meaning": "Aspect-Oriented Programming",
+      "provider": "wikipedia"
+    },
+    "CAPTCHA": {
+      "name": "CAPTCHA",
+      "meaning": "Completely automated public Turing test to tell computers and humans apart",
+      "provider": "wikipedia"
+    },
+    "RPG": {
+      "name": "RPG",
+      "meaning": "Report Program Generator",
+      "provider": "wikipedia"
+    },
+    "HAL": {
+      "name": "HAL",
+      "meaning": "Hardware Abstraction Layer",
+      "provider": "wikipedia"
+    },
+    "PIM": {
+      "name": "PIM",
+      "meaning": "Personal Information Manager",
+      "provider": "wikipedia"
+    },
+    "PLD": {
+      "name": "PLD",
+      "meaning": "Programmable logic device",
+      "provider": "wikipedia"
+    },
+    "RPA": {
+      "name": "RPA",
+      "meaning": "Robotic Process Automation",
+      "provider": "wikipedia"
+    },
+    "SMP": {
+      "name": "SMP",
+      "meaning": "Symmetric Multi-Processing",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Supplementary Multilingual Plane",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "SOE": {
+      "name": "SOE",
+      "meaning": "Standard Operating Environment",
+      "provider": "wikipedia"
+    },
+    "TCP": {
+      "name": "TCP",
+      "meaning": "Transmission Control Protocol",
+      "provider": "wikipedia"
+    },
+    "ADB": {
+      "name": "ADB",
+      "meaning": "Apple Desktop Bus",
+      "provider": "wikipedia"
+    },
+    "TUCOWS": {
+      "name": "TUCOWS",
+      "meaning": "The Ultimate Collection of Winsock Software",
+      "provider": "wikipedia"
+    },
+    "IOT": {
+      "name": "IOT",
+      "meaning": "Internet of Things",
+      "provider": "wikipedia"
+    },
+    "FPS": {
+      "name": "FPS",
+      "meaning": "Floating Point Systems",
+      "provider": "wikipedia"
+    },
+    "SLOC": {
+      "name": "SLOC",
+      "meaning": "Source Lines of Code",
+      "provider": "wikipedia"
+    },
+    "GCC": {
+      "name": "GCC",
+      "meaning": "GNU Compiler Collection",
+      "provider": "wikipedia"
+    },
+    "TRSDOS": {
+      "name": "TRSDOS",
+      "meaning": "Tandy Radio Shack – Disk Operating System",
+      "provider": "wikipedia"
+    },
+    "DFD": {
+      "name": "DFD",
+      "meaning": "Data Flow Diagram",
+      "provider": "wikipedia"
+    },
+    "BRR": {
+      "name": "BRR",
+      "meaning": "Business Readiness Rating",
+      "provider": "wikipedia"
+    },
+    "SOAP": {
+      "name": "SOAP",
+      "meaning": "Simple Object Access Protocol",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Symbolic Optimal Assembly Program",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "SSD": {
+      "name": "SSD",
+      "meaning": "Solid-State Drive",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Software Specification Document",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "NT": {
+      "name": "NT",
+      "meaning": "New Technology",
+      "provider": "wikipedia"
+    },
+    "RAM": {
+      "name": "RAM",
+      "meaning": "Random-Access Memory",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Reliability, Availability, and Maintainability",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Random Access Memory",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "SWT": {
+      "name": "SWT",
+      "meaning": "Standard Widget Toolkit",
+      "provider": "wikipedia"
+    },
+    "GMAC": {
+      "name": "GMAC",
+      "meaning": "Gigabit Ethernet Media Access Control",
+      "provider": "wikipedia"
+    },
+    "DLP": {
+      "name": "DLP",
+      "meaning": "Data loss prevention",
+      "provider": "wikipedia"
+    },
+    "SVC": {
+      "name": "SVC",
+      "meaning": "Scalable Video Coding",
+      "provider": "wikipedia"
+    },
+    "MCP": {
+      "name": "MCP",
+      "meaning": "Microsoft Certified Professional",
+      "provider": "wikipedia"
+    },
+    "MAAS": {
+      "name": "MAAS",
+      "meaning": "Monitoring as a service",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Mobility as a service",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "WTLS": {
+      "name": "WTLS",
+      "meaning": "Wireless Transport Layer Security",
+      "provider": "wikipedia"
+    },
+    "DAL": {
+      "name": "DAL",
+      "meaning": "Database Abstraction Layer",
+      "provider": "wikipedia"
+    },
+    "WYSIWYG": {
+      "name": "WYSIWYG",
+      "meaning": "What You See Is What You Get",
+      "provider": "wikipedia"
+    },
+    "CTFE": {
+      "name": "CTFE",
+      "meaning": "Compile-time function execution",
+      "provider": "wikipedia"
+    },
+    "WAP": {
+      "name": "WAP",
+      "meaning": "Wireless Access Point",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Wireless Application Protocol",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "AABB": {
+      "name": "AABB",
+      "meaning": "Axis Aligned Bounding Box",
+      "provider": "wikipedia"
+    },
+    "SRTP": {
+      "name": "SRTP",
+      "meaning": "Secure Real-time Transport Protocol",
+      "provider": "wikipedia"
+    },
+    "PID": {
+      "name": "PID",
+      "meaning": "Process ID",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Proportional-Integral-Derivative",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "PAM": {
+      "name": "PAM",
+      "meaning": "Privileged Access Management",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Pluggable Authentication Module",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "FQDN": {
+      "name": "FQDN",
+      "meaning": "Fully Qualified Domain Name",
+      "provider": "wikipedia"
+    },
+    "SMPS": {
+      "name": "SMPS",
+      "meaning": "Switch Mode Power Supply",
+      "provider": "wikipedia"
+    },
+    "AT": {
+      "name": "AT",
+      "meaning": "Access Time",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Advanced Technology",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Active Terminator",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "IT": {
+      "name": "IT",
+      "meaning": "Information Technology",
+      "provider": "wikipedia"
+    },
+    "WORA": {
+      "name": "WORA",
+      "meaning": "Write once, run anywhere",
+      "provider": "wikipedia"
+    },
+    "ESS": {
+      "name": "ESS",
+      "meaning": "Extended service set",
+      "provider": "wikipedia"
+    },
+    "GNUTLS": {
+      "name": "GNUTLS",
+      "meaning": "GNU Transport Layer Security",
+      "provider": "wikipedia"
+    },
+    "DVD-ROM": {
+      "name": "DVD-ROM",
+      "meaning": "DVD-Read-Only Memory",
+      "provider": "wikipedia"
+    },
+    "JCE": {
+      "name": "JCE",
+      "meaning": "Java Cryptography Extension",
+      "provider": "wikipedia"
+    },
+    "SIP": {
+      "name": "SIP",
+      "meaning": "Session Initiation Protocol",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Supplementary Ideographic Plane",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "OSS": {
+      "name": "OSS",
+      "meaning": "Operations Support System",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Open Sound System",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Open-Source Software",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "CMOS": {
+      "name": "CMOS",
+      "meaning": "Complementary metal-oxide semiconductor",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Complementary metal–oxide–semiconductor",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "LB": {
+      "name": "LB",
+      "meaning": "Load Balancer",
+      "provider": "wikipedia"
+    },
+    "ITU": {
+      "name": "ITU",
+      "meaning": "International Telecommunication Union",
+      "provider": "wikipedia"
+    },
+    "LDAP": {
+      "name": "LDAP",
+      "meaning": "Lightweight Directory Access Protocol",
+      "provider": "wikipedia"
+    },
+    "RD": {
+      "name": "RD",
+      "meaning": "Remote Desktop",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "remove directory",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "OES": {
+      "name": "OES",
+      "meaning": "Open Enterprise Server",
+      "provider": "wikipedia"
+    },
+    "FBDIMM": {
+      "name": "FBDIMM",
+      "meaning": "Fully Buffered Dual Inline Memory Module",
+      "provider": "wikipedia"
+    },
+    "VOLTE": {
+      "name": "VOLTE",
+      "meaning": "Voice Over Long Term Evolution",
+      "provider": "wikipedia"
+    },
+    "IDL": {
+      "name": "IDL",
+      "meaning": "Interface Definition Language",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Interactive Data Language",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "IDE": {
+      "name": "IDE",
+      "meaning": "Integrated Development Environment",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Integrated Drive Electronics",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "VLAN": {
+      "name": "VLAN",
+      "meaning": "Virtual Local Area Network",
+      "provider": "wikipedia"
+    },
+    "MFM": {
+      "name": "MFM",
+      "meaning": "Modified Frequency Modulation",
+      "provider": "wikipedia"
+    },
+    "JCP": {
+      "name": "JCP",
+      "meaning": "Java Community Process",
+      "provider": "wikipedia"
+    },
+    "JNDI": {
+      "name": "JNDI",
+      "meaning": "Java Naming and Directory Interface",
+      "provider": "wikipedia"
+    },
+    "AH": {
+      "name": "AH",
+      "meaning": "Authentication Header",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Active Hub",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "PD": {
+      "name": "PD",
+      "meaning": "Public Domain",
+      "provider": "wikipedia"
+    },
+    "CSRF": {
+      "name": "CSRF",
+      "meaning": "Cross-site request forgery",
+      "provider": "wikipedia"
+    },
+    "XDM": {
+      "name": "XDM",
+      "meaning": "X Window Display Manager",
+      "provider": "wikipedia"
+    },
+    "KVM": {
+      "name": "KVM",
+      "meaning": "Keyboard, Video, Mouse",
+      "provider": "wikipedia"
+    },
+    "WPS": {
+      "name": "WPS",
+      "meaning": "Wi-Fi Protected Setup",
+      "provider": "wikipedia"
+    },
+    "DTD": {
+      "name": "DTD",
+      "meaning": "Document Type Definition",
+      "provider": "wikipedia"
+    },
+    "IV": {
+      "name": "IV",
+      "meaning": "Initialization vector",
+      "provider": "wikipedia"
+    },
+    "POODLE": {
+      "name": "POODLE",
+      "meaning": "Padding Oracle On Downgraded Legacy Encryption",
+      "provider": "wikipedia"
+    },
+    "KRL": {
+      "name": "KRL",
+      "meaning": "Knowledge Representation Language",
+      "provider": "wikipedia"
+    },
+    "DTR": {
+      "name": "DTR",
+      "meaning": "Data Terminal Ready or Data transfer rate",
+      "provider": "wikipedia"
+    },
+    "BAAS": {
+      "name": "BAAS",
+      "meaning": "Backend as a service",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Blockchain as a service",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Banking as a service",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "HBA": {
+      "name": "HBA",
+      "meaning": "Host Bus Adapter",
+      "provider": "wikipedia"
+    },
+    "EKE": {
+      "name": "EKE",
+      "meaning": "Encrypted key exchange",
+      "provider": "wikipedia"
+    },
+    "ESI": {
+      "name": "ESI",
+      "meaning": "Electronically Stored Information",
+      "provider": "wikipedia"
+    },
+    "OASIS": {
+      "name": "OASIS",
+      "meaning": "Organization for the Advancement of Structured Information Standards",
+      "provider": "wikipedia"
+    },
+    "CVS": {
+      "name": "CVS",
+      "meaning": "Concurrent Versions System",
+      "provider": "wikipedia"
+    },
+    "RIMM": {
+      "name": "RIMM",
+      "meaning": "Rambus In-line Memory Module",
+      "provider": "wikipedia"
+    },
+    "SPM": {
+      "name": "SPM",
+      "meaning": "Software project management",
+      "provider": "wikipedia"
+    },
+    "FPGA": {
+      "name": "FPGA",
+      "meaning": "Field-programmable gate array",
+      "provider": "wikipedia"
+    },
+    "DOA": {
+      "name": "DOA",
+      "meaning": "Dead on Arrival",
+      "provider": "wikipedia"
+    },
+    "CMS": {
+      "name": "CMS",
+      "meaning": "Content management system",
+      "provider": "wikipedia"
+    },
+    "PGO": {
+      "name": "PGO",
+      "meaning": "Profile-Guided Optimization",
+      "provider": "wikipedia"
+    },
+    "MCA": {
+      "name": "MCA",
+      "meaning": "Microsoft Certified Architect",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Micro Channel Architecture",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "AMQP": {
+      "name": "AMQP",
+      "meaning": "Advanced Message Queuing Protocol",
+      "provider": "wikipedia"
+    },
+    "ISAM": {
+      "name": "ISAM",
+      "meaning": "Indexed Sequential Access Method",
+      "provider": "wikipedia"
+    },
+    "ECDHE": {
+      "name": "ECDHE",
+      "meaning": "Elliptic-curve Diffie–Hellman Ephemeral",
+      "provider": "wikipedia"
+    },
+    "TI": {
+      "name": "TI",
+      "meaning": "Texas Instruments",
+      "provider": "wikipedia"
+    },
+    "BPL": {
+      "name": "BPL",
+      "meaning": "Broadband over Power Lines",
+      "provider": "wikipedia"
+    },
+    "SDR": {
+      "name": "SDR",
+      "meaning": "Software-Defined Radio",
+      "provider": "wikipedia"
+    },
+    "OSDN": {
+      "name": "OSDN",
+      "meaning": "Open Source Development Network",
+      "provider": "wikipedia"
+    },
+    "WOL": {
+      "name": "WOL",
+      "meaning": "Wake-on-LAN",
+      "provider": "wikipedia"
+    },
+    "RTE": {
+      "name": "RTE",
+      "meaning": "Real-Time Enterprise",
+      "provider": "wikipedia"
+    },
+    "HHD": {
+      "name": "HHD",
+      "meaning": "Hybrid Hard Drive",
+      "provider": "wikipedia"
+    },
+    "WCF": {
+      "name": "WCF",
+      "meaning": "Windows Communication Foundation",
+      "provider": "wikipedia"
+    },
+    "JSE": {
+      "name": "JSE",
+      "meaning": "Java Standard Edition",
+      "provider": "wikipedia"
+    },
+    "JFC": {
+      "name": "JFC",
+      "meaning": "Java Foundation Classes",
+      "provider": "wikipedia"
+    },
+    "MTTF": {
+      "name": "MTTF",
+      "meaning": "Mean time to failure",
+      "provider": "wikipedia"
+    },
+    "TSO": {
+      "name": "TSO",
+      "meaning": "Time Sharing Option",
+      "provider": "wikipedia"
+    },
+    "EOS": {
+      "name": "EOS",
+      "meaning": "End of Support",
+      "provider": "wikipedia"
+    },
+    "NOS": {
+      "name": "NOS",
+      "meaning": "Network Operating System",
+      "provider": "wikipedia"
+    },
+    "CVC": {
+      "name": "CVC",
+      "meaning": "Card Verifiable Certificate",
+      "provider": "wikipedia"
+    },
+    "VRAM": {
+      "name": "VRAM",
+      "meaning": "Video Random-Access Memory",
+      "provider": "wikipedia"
+    },
+    "IDPS": {
+      "name": "IDPS",
+      "meaning": "Intrusion detection and prevention system",
+      "provider": "wikipedia"
+    },
+    "MT": {
+      "name": "MT",
+      "meaning": "Machine Translation",
+      "provider": "wikipedia"
+    },
+    "SDN": {
+      "name": "SDN",
+      "meaning": "Software-defined networking",
+      "provider": "wikipedia"
+    },
+    "DAS": {
+      "name": "DAS",
+      "meaning": "Direct Attached Storage",
+      "provider": "wikipedia"
+    },
+    "EIDE": {
+      "name": "EIDE",
+      "meaning": "Enhanced IDE",
+      "provider": "wikipedia"
+    },
+    "SISO": {
+      "name": "SISO",
+      "meaning": "Single-Input and Single-Output",
+      "provider": "wikipedia"
+    },
+    "CLR": {
+      "name": "CLR",
+      "meaning": "Common Language Runtime",
+      "provider": "wikipedia"
+    },
+    "NDS": {
+      "name": "NDS",
+      "meaning": "Novell Der irectory Services",
+      "provider": "wikipedia"
+    },
+    "ME": {
+      "name": "ME",
+      "meaning": "Microsoft Edge",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "[Windows] Millennium Edition",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "RTT": {
+      "name": "RTT",
+      "meaning": "Round-trip time",
+      "provider": "wikipedia"
+    },
+    "PLT": {
+      "name": "PLT",
+      "meaning": "Power-Line Telecommunications",
+      "provider": "wikipedia"
+    },
+    "PV": {
+      "name": "PV",
+      "meaning": "Physical Volume",
+      "provider": "wikipedia"
+    },
+    "PAC": {
+      "name": "PAC",
+      "meaning": "Proxy auto-config",
+      "provider": "wikipedia"
+    },
+    "EAP": {
+      "name": "EAP",
+      "meaning": "Extensible Authentication Protocol",
+      "provider": "wikipedia"
+    },
+    "DV": {
+      "name": "DV",
+      "meaning": "Domain-validated certificate",
+      "provider": "wikipedia"
+    },
+    "JVM": {
+      "name": "JVM",
+      "meaning": "Java Virtual Machine",
+      "provider": "wikipedia"
+    },
+    "DIMM": {
+      "name": "DIMM",
+      "meaning": "Dual Inline Memory Module",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Dual In-line Memory Module",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "ICL": {
+      "name": "ICL",
+      "meaning": "International Computers Limited",
+      "provider": "wikipedia"
+    },
+    "EBCDIC": {
+      "name": "EBCDIC",
+      "meaning": "Extended Binary Coded Decimal Interchange Code",
+      "provider": "wikipedia"
+    },
+    "VPC": {
+      "name": "VPC",
+      "meaning": "Virtual private cloud",
+      "provider": "wikipedia"
+    },
+    "MMIO": {
+      "name": "MMIO",
+      "meaning": "Memory-Mapped I/O",
+      "provider": "wikipedia"
+    },
+    "DOCSIS": {
+      "name": "DOCSIS",
+      "meaning": "Data Over Cable Service Interface Specification",
+      "provider": "wikipedia"
+    },
+    "IE": {
+      "name": "IE",
+      "meaning": "Internet Explorer",
+      "provider": "wikipedia"
+    },
+    "MFC": {
+      "name": "MFC",
+      "meaning": "Microsoft Foundation Classes",
+      "provider": "wikipedia"
+    },
+    "TGT": {
+      "name": "TGT",
+      "meaning": "Ticket Granting Ticket",
+      "provider": "wikipedia"
+    },
+    "NSS": {
+      "name": "NSS",
+      "meaning": "Network Security Services",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Novell Storage Service",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Name Service Switch",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "OOOE": {
+      "name": "OOOE",
+      "meaning": "Out-of-Order Execution",
+      "provider": "wikipedia"
+    },
+    "CRS": {
+      "name": "CRS",
+      "meaning": "Computer Reservations System",
+      "provider": "wikipedia"
+    },
+    "FIM": {
+      "name": "FIM",
+      "meaning": "File integrity monitoring",
+      "provider": "wikipedia"
+    },
+    "IPO": {
+      "name": "IPO",
+      "meaning": "Inter Procedural Optimization",
+      "provider": "wikipedia"
+    },
+    "SIMD": {
+      "name": "SIMD",
+      "meaning": "Single Instruction, Multiple Data",
+      "provider": "wikipedia"
+    },
+    "ETL": {
+      "name": "ETL",
+      "meaning": "Extract, Transform, Load",
+      "provider": "wikipedia"
+    },
+    "LEAP": {
+      "name": "LEAP",
+      "meaning": "Lightweight Extensible Authentication Protocol",
+      "provider": "wikipedia"
+    },
+    "WAN": {
+      "name": "WAN",
+      "meaning": "Wide-area network",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Wide Area Network",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "CDE": {
+      "name": "CDE",
+      "meaning": "Common Desktop Environment",
+      "provider": "wikipedia"
+    },
+    "TTS": {
+      "name": "TTS",
+      "meaning": "Text-to-Speech",
+      "provider": "wikipedia"
+    },
+    "JSP": {
+      "name": "JSP",
+      "meaning": "Jackson Structured Programming",
+      "provider": "wikipedia"
+    },
+    "MDF": {
+      "name": "MDF",
+      "meaning": "Main Distribution Frame",
+      "provider": "wikipedia"
+    },
+    "SMTP": {
+      "name": "SMTP",
+      "meaning": "Simple Mail Transfer Protocol",
+      "provider": "wikipedia"
+    },
+    "ERM": {
+      "name": "ERM",
+      "meaning": "Entity–Relationship Model",
+      "provider": "wikipedia"
+    },
+    "PAP": {
+      "name": "PAP",
+      "meaning": "Password Authentication Protocol",
+      "provider": "wikipedia"
+    },
+    "CVSS": {
+      "name": "CVSS",
+      "meaning": "Common Vulnerability Scoring System",
+      "provider": "wikipedia"
+    },
+    "ABM": {
+      "name": "ABM",
+      "meaning": "Asynchronous Balanced Mode",
+      "provider": "wikipedia"
+    },
+    "RAII": {
+      "name": "RAII",
+      "meaning": "Resource Acquisition Is Initialization",
+      "provider": "wikipedia"
+    },
+    "DIN": {
+      "name": "DIN",
+      "meaning": "Deutsches Institut für Normung",
+      "provider": "wikipedia"
+    },
+    "ETW": {
+      "name": "ETW",
+      "meaning": "Event Tracing for Windows",
+      "provider": "wikipedia"
+    },
+    "MOU": {
+      "name": "MOU",
+      "meaning": "Memorandum of understanding",
+      "provider": "wikipedia"
+    },
+    "FWS": {
+      "name": "FWS",
+      "meaning": "Folding White Space",
+      "provider": "wikipedia"
+    },
+    "IPS": {
+      "name": "IPS",
+      "meaning": "Intrusion Prevention System",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "In-Plane Switching",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Instructions Per Second",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "SP": {
+      "name": "SP",
+      "meaning": "Service Pack",
+      "provider": "wikipedia"
+    },
+    "DAO": {
+      "name": "DAO",
+      "meaning": "Data Access Objects",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Data Access Object",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Disk-At-Once",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "RIPEMD": {
+      "name": "RIPEMD",
+      "meaning": "RIPE Message Digest",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "RACE Integrity Primitives Evaluation Message Digest",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "CHS": {
+      "name": "CHS",
+      "meaning": "Cylinder–head–sector",
+      "provider": "wikipedia"
+    },
+    "TAP": {
+      "name": "TAP",
+      "meaning": "Test Access Port",
+      "provider": "wikipedia"
+    },
+    "PVR": {
+      "name": "PVR",
+      "meaning": "Personal Video Recorder",
+      "provider": "wikipedia"
+    },
+    "PCB": {
+      "name": "PCB",
+      "meaning": "Process Control Block",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Printed Circuit Board",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "TTL": {
+      "name": "TTL",
+      "meaning": "Transistor—Transistor Logic",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Time To Live",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "HSM": {
+      "name": "HSM",
+      "meaning": "Hierarchical storage management",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Hardware security module",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "ELM": {
+      "name": "ELM",
+      "meaning": "ELectronic Mail",
+      "provider": "wikipedia"
+    },
+    "RTOS": {
+      "name": "RTOS",
+      "meaning": "Real-Time Operating System",
+      "provider": "wikipedia"
+    },
+    "DCS": {
+      "name": "DCS",
+      "meaning": "Distributed Control System",
+      "provider": "wikipedia"
+    },
+    "MOP": {
+      "name": "MOP",
+      "meaning": "Meta-Object Protocol",
+      "provider": "wikipedia"
+    },
+    "DDL": {
+      "name": "DDL",
+      "meaning": "Data Definition Language",
+      "provider": "wikipedia"
+    },
+    "SLM": {
+      "name": "SLM",
+      "meaning": "Service Level Management",
+      "provider": "wikipedia"
+    },
+    "JIT": {
+      "name": "JIT",
+      "meaning": "Just-In-Time",
+      "provider": "wikipedia"
+    },
+    "CF": {
+      "name": "CF",
+      "meaning": "Compact Flash",
+      "provider": "wikipedia"
+    },
+    "DOS": {
+      "name": "DOS",
+      "meaning": "Denial of Service",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Disk Operating System",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "FCS": {
+      "name": "FCS",
+      "meaning": "Frame Check Sequence",
+      "provider": "wikipedia"
+    },
+    "PINE": {
+      "name": "PINE",
+      "meaning": "Program for Internet News and Email",
+      "provider": "wikipedia"
+    },
+    "HP": {
+      "name": "HP",
+      "meaning": "Hewlett-Packard",
+      "provider": "wikipedia"
+    },
+    "ISCSI": {
+      "name": "ISCSI",
+      "meaning": "Internet Small Computer System Interface",
+      "provider": "wikipedia"
+    },
+    "CPAN": {
+      "name": "CPAN",
+      "meaning": "Comprehensive Perl Archive Network",
+      "provider": "wikipedia"
+    },
+    "DCCA": {
+      "name": "DCCA",
+      "meaning": "Debian Common Core Alliance",
+      "provider": "wikipedia"
+    },
+    "MMI": {
+      "name": "MMI",
+      "meaning": "Man Machine Interface.",
+      "provider": "wikipedia"
+    },
+    "TEE": {
+      "name": "TEE",
+      "meaning": "Trusted execution environment",
+      "provider": "wikipedia"
+    },
+    "TNC": {
+      "name": "TNC",
+      "meaning": "Terminal Node Controller",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Threaded Neill-Concelman connector",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "VLB": {
+      "name": "VLB",
+      "meaning": "Vesa Local Bus",
+      "provider": "wikipedia"
+    },
+    "CPA": {
+      "name": "CPA",
+      "meaning": "Cell processor architecture",
+      "provider": "wikipedia"
+    },
+    "TCP/IP": {
+      "name": "TCP/IP",
+      "meaning": "Transmission Control Protocol/Internet Protocol",
+      "provider": "wikipedia"
+    },
+    "RLL": {
+      "name": "RLL",
+      "meaning": "Run-Length Limited",
+      "provider": "wikipedia"
+    },
+    "SDRAM": {
+      "name": "SDRAM",
+      "meaning": "Synchronous Dynamic Random-Access Memory",
+      "provider": "wikipedia"
+    },
+    "FDS": {
+      "name": "FDS",
+      "meaning": "Fedora Directory Server",
+      "provider": "wikipedia"
+    },
+    "PATA": {
+      "name": "PATA",
+      "meaning": "Parallel ATA",
+      "provider": "wikipedia"
+    },
+    "UAAG": {
+      "name": "UAAG",
+      "meaning": "User Agent Accessibility Guidelines",
+      "provider": "wikipedia"
+    },
+    "EOF": {
+      "name": "EOF",
+      "meaning": "End Of Frame",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "End of File",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "NI": {
+      "name": "NI",
+      "meaning": "National Instruments",
+      "provider": "wikipedia"
+    },
+    "FOSDEM": {
+      "name": "FOSDEM",
+      "meaning": "Free and Open-source Software Developers' European Meeting",
+      "provider": "wikipedia"
+    },
+    "SDP": {
+      "name": "SDP",
+      "meaning": "Software-defined protection",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Session Description Protocol",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "BASIC": {
+      "name": "BASIC",
+      "meaning": "Beginner's All-Purpose Symbolic Instruction Code",
+      "provider": "wikipedia"
+    },
+    "ORM": {
+      "name": "ORM",
+      "meaning": "Object–Relational Mapping",
+      "provider": "wikipedia"
+    },
+    "VT": {
+      "name": "VT",
+      "meaning": "Video Terminal",
+      "provider": "wikipedia"
+    },
+    "MDA": {
+      "name": "MDA",
+      "meaning": "Model-Driven Architecture",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Monochrome Display Adapter",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Mail Delivery Agent",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "PNA": {
+      "name": "PNA",
+      "meaning": "Personal Navigation Assistant",
+      "provider": "wikipedia"
+    },
+    "QOS": {
+      "name": "QOS",
+      "meaning": "Quality of Service",
+      "provider": "wikipedia"
+    },
+    "SFTP": {
+      "name": "SFTP",
+      "meaning": "SSH File Transfer Protocol",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Simple File Transfer Protocol",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Secure File Transfer Protocol",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "SCSI": {
+      "name": "SCSI",
+      "meaning": "Small Computer System Interface",
+      "provider": "wikipedia"
+    },
+    "FSM": {
+      "name": "FSM",
+      "meaning": "Finite State Machine",
+      "provider": "wikipedia"
+    },
+    "SCEP": {
+      "name": "SCEP",
+      "meaning": "Simple Certificate Enrollment Protocol",
+      "provider": "wikipedia"
+    },
+    "OFTC": {
+      "name": "OFTC",
+      "meaning": "Open and Free Technology Community",
+      "provider": "wikipedia"
+    },
+    "GIMPS": {
+      "name": "GIMPS",
+      "meaning": "Great Internet Mersenne Prime Search",
+      "provider": "wikipedia"
+    },
+    "NOC": {
+      "name": "NOC",
+      "meaning": "Network Operations Center",
+      "provider": "wikipedia"
+    },
+    "SGR": {
+      "name": "SGR",
+      "meaning": "Select Graphic Rendition]]",
+      "provider": "wikipedia"
+    },
+    "3GPP": {
+      "name": "3GPP",
+      "meaning": "3rd Generation Partnership Project – 3G comms",
+      "provider": "wikipedia"
+    },
+    "CTCP": {
+      "name": "CTCP",
+      "meaning": "Client-to-client protocol",
+      "provider": "wikipedia"
+    },
+    "PSA": {
+      "name": "PSA",
+      "meaning": "Professional Services Automation",
+      "provider": "wikipedia"
+    },
+    "ACR": {
+      "name": "ACR",
+      "meaning": "Attenuation to Crosstalk Ratio",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Allowed Cell Rate",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "IRP": {
+      "name": "IRP",
+      "meaning": "I/O Request Packet",
+      "provider": "wikipedia"
+    },
+    "CISO": {
+      "name": "CISO",
+      "meaning": "Chief information security officer",
+      "provider": "wikipedia"
+    },
+    "DN": {
+      "name": "DN",
+      "meaning": "Distinguished Name",
+      "provider": "wikipedia"
+    },
+    "FAQ": {
+      "name": "FAQ",
+      "meaning": "Frequently Asked Questions",
+      "provider": "wikipedia"
+    },
+    "VDU": {
+      "name": "VDU",
+      "meaning": "Visual Display Unit",
+      "provider": "wikipedia"
+    },
+    "TSR": {
+      "name": "TSR",
+      "meaning": "Terminate and Stay Resident",
+      "provider": "wikipedia"
+    },
+    "APR": {
+      "name": "APR",
+      "meaning": "Apache Portable Runtime",
+      "provider": "wikipedia"
+    },
+    "SMS": {
+      "name": "SMS",
+      "meaning": "Short Message Service",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "System Management Server",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "URI": {
+      "name": "URI",
+      "meaning": "Uniform Resource Identifier",
+      "provider": "wikipedia"
+    },
+    "EAI": {
+      "name": "EAI",
+      "meaning": "Enterprise Application Integration",
+      "provider": "wikipedia"
+    },
+    "CNC": {
+      "name": "CNC",
+      "meaning": "Computerized numerical control",
+      "provider": "wikipedia"
+    },
+    "WIDS": {
+      "name": "WIDS",
+      "meaning": "Wireless intrusion detection system",
+      "provider": "wikipedia"
+    },
+    "DR": {
+      "name": "DR",
+      "meaning": "Disaster Recovery",
+      "provider": "wikipedia"
+    },
+    "SDLC": {
+      "name": "SDLC",
+      "meaning": "Synchronous Data Link Control",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Software development life cycle",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "RDP": {
+      "name": "RDP",
+      "meaning": "Remote Desktop Protocol",
+      "provider": "wikipedia"
+    },
+    "BFD": {
+      "name": "BFD",
+      "meaning": "Bidirectional Forwarding Detection",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Binary File Descriptor",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "JRE": {
+      "name": "JRE",
+      "meaning": "Java Runtime Environment",
+      "provider": "wikipedia"
+    },
+    "OWASP": {
+      "name": "OWASP",
+      "meaning": "Open Worldwide Application Security Project",
+      "provider": "wikipedia"
+    },
+    "NNTP": {
+      "name": "NNTP",
+      "meaning": "Network News Transfer Protocol",
+      "provider": "wikipedia"
+    },
+    "CSI": {
+      "name": "CSI",
+      "meaning": "Common System Interface",
+      "provider": "wikipedia"
+    },
+    "IMAP": {
+      "name": "IMAP",
+      "meaning": "Internet Message Access Protocol",
+      "provider": "wikipedia"
+    },
+    "CRAN": {
+      "name": "CRAN",
+      "meaning": "Comprehensive R Archive Network",
+      "provider": "wikipedia"
+    },
+    "DDE": {
+      "name": "DDE",
+      "meaning": "Dynamic Data Exchange",
+      "provider": "wikipedia"
+    },
+    "EPIC": {
+      "name": "EPIC",
+      "meaning": "Explicitly Parallel Instruction Computing",
+      "provider": "wikipedia"
+    },
+    "TPM": {
+      "name": "TPM",
+      "meaning": "Trusted Platform Module",
+      "provider": "wikipedia"
+    },
+    "RMI": {
+      "name": "RMI",
+      "meaning": "Remote Method Invocation",
+      "provider": "wikipedia"
+    },
+    "DPMI": {
+      "name": "DPMI",
+      "meaning": "DOS Protected Mode Interface",
+      "provider": "wikipedia"
+    },
+    "VLSM": {
+      "name": "VLSM",
+      "meaning": "Variable-length subnet masking",
+      "provider": "wikipedia"
+    },
+    "RTU": {
+      "name": "RTU",
+      "meaning": "Remote Terminal Unit",
+      "provider": "wikipedia"
+    },
+    "DIP": {
+      "name": "DIP",
+      "meaning": "Dual In-line Package",
+      "provider": "wikipedia"
+    },
+    "TLS": {
+      "name": "TLS",
+      "meaning": "Thread-Local Storage",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Transport Layer Security",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "WIPS": {
+      "name": "WIPS",
+      "meaning": "Wireless intrusion prevention system",
+      "provider": "wikipedia"
+    },
+    "CJKV": {
+      "name": "CJKV",
+      "meaning": "Chinese, Japanese, Korean, and Vietnamese",
+      "provider": "wikipedia"
+    },
+    "HID": {
+      "name": "HID",
+      "meaning": "Human Interface Device",
+      "provider": "wikipedia"
+    },
+    "UMA": {
+      "name": "UMA",
+      "meaning": "Upper Memory Area",
+      "provider": "wikipedia"
+    },
+    "SSA": {
+      "name": "SSA",
+      "meaning": "Static Single Assignment",
+      "provider": "wikipedia"
+    },
+    "PGA": {
+      "name": "PGA",
+      "meaning": "Pin Grid Array",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Programmable Gate Array",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "AC": {
+      "name": "AC",
+      "meaning": "Acoustic Coupler",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Alternating Current",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Authorization certificate",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "POST": {
+      "name": "POST",
+      "meaning": "Power-On Self Test",
+      "provider": "wikipedia"
+    },
+    "ADCCP": {
+      "name": "ADCCP",
+      "meaning": "Advanced Data Communications Control Procedures",
+      "provider": "wikipedia"
+    },
+    "BAN": {
+      "name": "BAN",
+      "meaning": "Body area network",
+      "provider": "wikipedia"
+    },
+    "CORBA": {
+      "name": "CORBA",
+      "meaning": "Common Object Request Broker Architecture",
+      "provider": "wikipedia"
+    },
+    "CP/CMS": {
+      "name": "CP/CMS",
+      "meaning": "Control Program/Cambridge Monitor System",
+      "provider": "wikipedia"
+    },
+    "SOF": {
+      "name": "SOF",
+      "meaning": "Start of frame",
+      "provider": "wikipedia"
+    },
+    "BPM": {
+      "name": "BPM",
+      "meaning": "Business Process Modeling",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Business Process Management",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "IDF": {
+      "name": "IDF",
+      "meaning": "Intermediate Data Format",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Intermediate Distribution Frame",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "CM": {
+      "name": "CM",
+      "meaning": "Configuration management",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Content management",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "CAAS": {
+      "name": "CAAS",
+      "meaning": "Content as a service",
+      "provider": "wikipedia"
+    },
+    "ACE": {
+      "name": "ACE",
+      "meaning": "Advanced Computing Environment",
+      "provider": "wikipedia"
+    },
+    "OLPC": {
+      "name": "OLPC",
+      "meaning": "One Laptop per Child",
+      "provider": "wikipedia"
+    },
+    "MOM": {
+      "name": "MOM",
+      "meaning": "Message-Oriented Middleware",
+      "provider": "wikipedia"
+    },
+    "LTE": {
+      "name": "LTE",
+      "meaning": "Long Term Evolution",
+      "provider": "wikipedia"
+    },
+    "ICAAS": {
+      "name": "ICAAS",
+      "meaning": "Integration Capability as a Service",
+      "provider": "wikipedia"
+    },
+    "VM": {
+      "name": "VM",
+      "meaning": "Virtual Memory",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Virtual Machine",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "AL": {
+      "name": "AL",
+      "meaning": "Access List",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Active Link",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "SHA": {
+      "name": "SHA",
+      "meaning": "Secure Hash Algorithms",
+      "provider": "wikipedia"
+    },
+    "CIP": {
+      "name": "CIP",
+      "meaning": "Critical infrastructure protection",
+      "provider": "wikipedia"
+    },
+    "SMB": {
+      "name": "SMB",
+      "meaning": "Server Message Block",
+      "provider": "wikipedia"
+    },
+    "PPTP": {
+      "name": "PPTP",
+      "meaning": "Point-to-Point Tunneling Protocol",
+      "provider": "wikipedia"
+    },
+    "UPS": {
+      "name": "UPS",
+      "meaning": "Uninterruptible Power Supply or Uninterrupted Power Supply",
+      "provider": "wikipedia"
+    },
+    "ISNS": {
+      "name": "ISNS",
+      "meaning": "Internet Storage Name Service",
+      "provider": "wikipedia"
+    },
+    "PRC": {
+      "name": "PRC",
+      "meaning": "Procedure Remote Call",
+      "provider": "wikipedia"
+    },
+    "UEBA": {
+      "name": "UEBA",
+      "meaning": "User and entity behavior analytics",
+      "provider": "wikipedia"
+    },
+    "SWF": {
+      "name": "SWF",
+      "meaning": "Shock Wave Flash",
+      "provider": "wikipedia"
+    },
+    "WINS": {
+      "name": "WINS",
+      "meaning": "Windows Internet Name Service",
+      "provider": "wikipedia"
+    },
+    "DHCP": {
+      "name": "DHCP",
+      "meaning": "Dynamic Host Configuration Protocol",
+      "provider": "wikipedia"
+    },
+    "CLI": {
+      "name": "CLI",
+      "meaning": "Command line interface",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Command line interpreter",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "ISC": {
+      "name": "ISC",
+      "meaning": "Internet Storm Center",
+      "provider": "wikipedia"
+    },
+    "NTP": {
+      "name": "NTP",
+      "meaning": "Network Time Protocol",
+      "provider": "wikipedia"
+    },
+    "EOL": {
+      "name": "EOL",
+      "meaning": "End of Life",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "End of Line",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "JNZ": {
+      "name": "JNZ",
+      "meaning": "Jump non-zero",
+      "provider": "wikipedia"
+    },
+    "OOE": {
+      "name": "OOE",
+      "meaning": "Out-of-Order Execution",
+      "provider": "wikipedia"
+    },
+    "IM": {
+      "name": "IM",
+      "meaning": "Instant Message or Instant Messaging",
+      "provider": "wikipedia"
+    },
+    "FIRST": {
+      "name": "FIRST",
+      "meaning": "Forum of Incident Response and Security Teams",
+      "provider": "wikipedia"
+    },
+    "FIFO": {
+      "name": "FIFO",
+      "meaning": "First In First Out",
+      "provider": "wikipedia"
+    },
+    "OMR": {
+      "name": "OMR",
+      "meaning": "Optical Mark Reader",
+      "provider": "wikipedia"
+    },
+    "ICP": {
+      "name": "ICP",
+      "meaning": "Internet Cache Protocol",
+      "provider": "wikipedia"
+    },
+    "CES": {
+      "name": "CES",
+      "meaning": "Consumer Electronics Show",
+      "provider": "wikipedia"
+    },
+    "CBPRNG": {
+      "name": "CBPRNG",
+      "meaning": "Counter-based pseudo-random number generator",
+      "provider": "wikipedia"
+    },
+    "SSP": {
+      "name": "SSP",
+      "meaning": "Supplementary Special-purpose Plane",
+      "provider": "wikipedia"
+    },
+    "BIA": {
+      "name": "BIA",
+      "meaning": "Business impact analysis",
+      "provider": "wikipedia"
+    },
+    "CPE": {
+      "name": "CPE",
+      "meaning": "Customer premises equipment",
+      "provider": "wikipedia"
+    },
+    "SCTP": {
+      "name": "SCTP",
+      "meaning": "Stream Control Transmission Protocol",
+      "provider": "wikipedia"
+    },
+    "ASK": {
+      "name": "ASK",
+      "meaning": "Amplitude-shift keying",
+      "provider": "wikipedia"
+    },
+    "ANSI": {
+      "name": "ANSI",
+      "meaning": "American National Standards Institute",
+      "provider": "wikipedia"
+    },
+    "RAS": {
+      "name": "RAS",
+      "meaning": "Remote access service",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Reliability, Availability, and Serviceability",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "PTZ": {
+      "name": "PTZ",
+      "meaning": "Pan–tilt–zoom camera",
+      "provider": "wikipedia"
+    },
+    "NFA": {
+      "name": "NFA",
+      "meaning": "Nondeterministic Finite Automaton",
+      "provider": "wikipedia"
+    },
+    "MUD": {
+      "name": "MUD",
+      "meaning": "Multi-User Dungeon",
+      "provider": "wikipedia"
+    },
+    "CPRI": {
+      "name": "CPRI",
+      "meaning": "Common Public Radio Interface",
+      "provider": "wikipedia"
+    },
+    "UDDI": {
+      "name": "UDDI",
+      "meaning": "Universal Description, Discovery, and Integration",
+      "provider": "wikipedia"
+    },
+    "HMA": {
+      "name": "HMA",
+      "meaning": "High Memory Area",
+      "provider": "wikipedia"
+    },
+    "WAF": {
+      "name": "WAF",
+      "meaning": "Web application firewall",
+      "provider": "wikipedia"
+    },
+    "SGML": {
+      "name": "SGML",
+      "meaning": "Standard Generalized Markup Language",
+      "provider": "wikipedia"
+    },
+    "SME": {
+      "name": "SME",
+      "meaning": "Subject Matter Expert",
+      "provider": "wikipedia"
+    },
+    "PDH": {
+      "name": "PDH",
+      "meaning": "Plesiochronous Digital Hierarchy",
+      "provider": "wikipedia"
+    },
+    "PAAS": {
+      "name": "PAAS",
+      "meaning": "Platform as a Service",
+      "provider": "wikipedia"
+    },
+    "IETF": {
+      "name": "IETF",
+      "meaning": "Internet Engineering Task Force",
+      "provider": "wikipedia"
+    },
+    "SEI": {
+      "name": "SEI",
+      "meaning": "Software Engineering Institute",
+      "provider": "wikipedia"
+    },
+    "MIS": {
+      "name": "MIS",
+      "meaning": "Management Information Systems",
+      "provider": "wikipedia"
+    },
+    "AWT": {
+      "name": "AWT",
+      "meaning": "Abstract Window Toolkit",
+      "provider": "wikipedia"
+    },
+    "KPOP": {
+      "name": "KPOP",
+      "meaning": "Kerberized Post Office Protocol",
+      "provider": "wikipedia"
+    },
+    "SPMD": {
+      "name": "SPMD",
+      "meaning": "Single Program, Multiple Data",
+      "provider": "wikipedia"
+    },
+    "CDP": {
+      "name": "CDP",
+      "meaning": "Continuous data protection",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Cisco Discovery Protocol",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "MAN": {
+      "name": "MAN",
+      "meaning": "Metropolitan Area Network",
+      "provider": "wikipedia"
+    },
+    "DBCS": {
+      "name": "DBCS",
+      "meaning": "Double Byte Character Set",
+      "provider": "wikipedia"
+    },
+    "HIRD": {
+      "name": "HIRD",
+      "meaning": "Hurd of Interfaces Representing Depth",
+      "provider": "wikipedia"
+    },
+    "IME": {
+      "name": "IME",
+      "meaning": "Input Method Editor",
+      "provider": "wikipedia"
+    },
+    "ISAKMP": {
+      "name": "ISAKMP",
+      "meaning": "Internet Security Association and Key Management Protocol",
+      "provider": "wikipedia"
+    },
+    "MCM": {
+      "name": "MCM",
+      "meaning": "Microsoft Certified Master",
+      "provider": "wikipedia"
+    },
+    "SPOF": {
+      "name": "SPOF",
+      "meaning": "Single point of failure",
+      "provider": "wikipedia"
+    },
+    "TDMA": {
+      "name": "TDMA",
+      "meaning": "Time-Division Multiple Access",
+      "provider": "wikipedia"
+    },
+    "ESB": {
+      "name": "ESB",
+      "meaning": "Enterprise service bus",
+      "provider": "wikipedia"
+    },
+    "HIPS": {
+      "name": "HIPS",
+      "meaning": "Host-based intrusion prevention system",
+      "provider": "wikipedia"
+    },
+    "MICR": {
+      "name": "MICR",
+      "meaning": "Magnetic Ink Character Recognition or Magnetic Ink Character Reader",
+      "provider": "wikipedia"
+    },
+    "MIMO": {
+      "name": "MIMO",
+      "meaning": "Multiple-Input Multiple-Output",
+      "provider": "wikipedia"
+    },
+    "LIFO": {
+      "name": "LIFO",
+      "meaning": "Last In First Out",
+      "provider": "wikipedia"
+    },
+    "GPL": {
+      "name": "GPL",
+      "meaning": "General Public License",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "General-Purpose Language",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "USR": {
+      "name": "USR",
+      "meaning": "User System Resources",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "U.S. Robotics",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "MSI": {
+      "name": "MSI",
+      "meaning": "Medium-Scale Integration",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Message Signaled Interrupt",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "RHL": {
+      "name": "RHL",
+      "meaning": "Red Hat Linux",
+      "provider": "wikipedia"
+    },
+    "AALC": {
+      "name": "AALC",
+      "meaning": "ATM Adaptation Layer Connection",
+      "provider": "wikipedia"
+    },
+    "ZIFS": {
+      "name": "ZIFS",
+      "meaning": "Zero Insertion Force Socket",
+      "provider": "wikipedia"
+    },
+    "RISC": {
+      "name": "RISC",
+      "meaning": "Reduced Instruction Set Computer",
+      "provider": "wikipedia"
+    },
+    "SDK": {
+      "name": "SDK",
+      "meaning": "Software Development Kit",
+      "provider": "wikipedia"
+    },
+    "FSB": {
+      "name": "FSB",
+      "meaning": "Front-Side Bus",
+      "provider": "wikipedia"
+    },
+    "YACC": {
+      "name": "YACC",
+      "meaning": "Yet Another Compiler Compiler",
+      "provider": "wikipedia"
+    },
+    "OOP": {
+      "name": "OOP",
+      "meaning": "Object-Oriented Programming",
+      "provider": "wikipedia"
+    },
+    "RAD": {
+      "name": "RAD",
+      "meaning": "Rapid Application Development",
+      "provider": "wikipedia"
+    },
+    "SIGCAT": {
+      "name": "SIGCAT",
+      "meaning": "Special Interest Group on CD-ROM Applications and Technology",
+      "provider": "wikipedia"
+    },
+    "SOC": {
+      "name": "SOC",
+      "meaning": "System and Organization Controls",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "System on a chip",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Security operations center",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "VDSL": {
+      "name": "VDSL",
+      "meaning": "Very High Bitrate Digital Subscriber Line",
+      "provider": "wikipedia"
+    },
+    "BTAM": {
+      "name": "BTAM",
+      "meaning": "Basic Telecommunications Access Method",
+      "provider": "wikipedia"
+    },
+    "FDMA": {
+      "name": "FDMA",
+      "meaning": "Frequency-Division Multiple Access",
+      "provider": "wikipedia"
+    },
+    "CG": {
+      "name": "CG",
+      "meaning": "Computer graphics",
+      "provider": "wikipedia"
+    },
+    "LUN": {
+      "name": "LUN",
+      "meaning": "Logical Unit Number",
+      "provider": "wikipedia"
+    },
+    "HSDPA": {
+      "name": "HSDPA",
+      "meaning": "High-Speed Downlink Packet Access",
+      "provider": "wikipedia"
+    },
+    "DRI": {
+      "name": "DRI",
+      "meaning": "Direct Rendering Infrastructure",
+      "provider": "wikipedia"
+    },
+    "OTP": {
+      "name": "OTP",
+      "meaning": "One-time password",
+      "provider": "wikipedia"
+    },
+    "DSN": {
+      "name": "DSN",
+      "meaning": "Data Set Name",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Database Source Name",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "VPS": {
+      "name": "VPS",
+      "meaning": "Virtual private server",
+      "provider": "wikipedia"
+    },
+    "RMF": {
+      "name": "RMF",
+      "meaning": "Risk Management Framework",
+      "provider": "wikipedia"
+    },
+    "FSF": {
+      "name": "FSF",
+      "meaning": "Free Software Foundation",
+      "provider": "wikipedia"
+    },
+    "SOI": {
+      "name": "SOI",
+      "meaning": "Silicon On Insulator",
+      "provider": "wikipedia"
+    },
+    "MDM": {
+      "name": "MDM",
+      "meaning": "Master data management",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Mobile device management",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "UML": {
+      "name": "UML",
+      "meaning": "Unified Modeling Language",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "User-Mode Linux",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "TOFU": {
+      "name": "TOFU",
+      "meaning": "Trust On First Use",
+      "provider": "wikipedia"
+    },
+    "MAPI": {
+      "name": "MAPI",
+      "meaning": "Messaging Application Programming Interface",
+      "provider": "wikipedia"
+    },
+    "JEE": {
+      "name": "JEE",
+      "meaning": "Java Enterprise Edition",
+      "provider": "wikipedia"
+    },
+    "CASB": {
+      "name": "CASB",
+      "meaning": "Cloud access security broker",
+      "provider": "wikipedia"
+    },
+    "OEM": {
+      "name": "OEM",
+      "meaning": "Original Equipment Manufacturer",
+      "provider": "wikipedia"
+    },
+    "OKV": {
+      "name": "OKV",
+      "meaning": "Oracle Key Vault",
+      "provider": "wikipedia"
+    },
+    "PE": {
+      "name": "PE",
+      "meaning": "Portable Executable",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Physical Extents",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "BFS": {
+      "name": "BFS",
+      "meaning": "Breadth-First Search",
+      "provider": "wikipedia"
+    },
+    "CAP": {
+      "name": "CAP",
+      "meaning": "Consistency availability partition tolerance",
+      "provider": "wikipedia"
+    },
+    "RC": {
+      "name": "RC",
+      "meaning": "Release Candidate",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Run Commands",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Region Code",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "MIMD": {
+      "name": "MIMD",
+      "meaning": "Multiple Instruction, Multiple Data",
+      "provider": "wikipedia"
+    },
+    "RTSP": {
+      "name": "RTSP",
+      "meaning": "Real-Time Streaming Protocol",
+      "provider": "wikipedia"
+    },
+    "J2EE": {
+      "name": "J2EE",
+      "meaning": "Java 2 Enterprise Edition",
+      "provider": "wikipedia"
+    },
+    "WMV": {
+      "name": "WMV",
+      "meaning": "Windows Media Video",
+      "provider": "wikipedia"
+    },
+    "GDPR": {
+      "name": "GDPR",
+      "meaning": "General Data Protection Regulation",
+      "provider": "wikipedia"
+    },
+    "IED": {
+      "name": "IED",
+      "meaning": "Intelligent electronic device",
+      "provider": "wikipedia"
+    },
+    "RCS": {
+      "name": "RCS",
+      "meaning": "Revision Control System",
+      "provider": "wikipedia"
+    },
+    "BIOS": {
+      "name": "BIOS",
+      "meaning": "Basic Input Output System",
+      "provider": "wikipedia"
+    },
+    "IKE": {
+      "name": "IKE",
+      "meaning": "Internet Key Exchange",
+      "provider": "wikipedia"
+    },
+    "LSI": {
+      "name": "LSI",
+      "meaning": "Large-Scale Integration",
+      "provider": "wikipedia"
+    },
+    "OCSP": {
+      "name": "OCSP",
+      "meaning": "Online Certificate Status Protocol",
+      "provider": "wikipedia"
+    },
+    "FOLDOC": {
+      "name": "FOLDOC",
+      "meaning": "Free On-line Dictionary of Computing",
+      "provider": "wikipedia"
+    },
+    "CAPA": {
+      "name": "CAPA",
+      "meaning": "Corrective and preventive action",
+      "provider": "wikipedia"
+    },
+    "CS": {
+      "name": "CS",
+      "meaning": "Computer Science",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Cable Select",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "DIF": {
+      "name": "DIF",
+      "meaning": "Data Integrity Field",
+      "provider": "wikipedia"
+    },
+    "EMCC": {
+      "name": "EMCC",
+      "meaning": "Eckert–Mauchly Computer Corporation",
+      "provider": "wikipedia"
+    },
+    "CAID": {
+      "name": "CAID",
+      "meaning": "Computer-aided industrial design",
+      "provider": "wikipedia"
+    },
+    "EISA": {
+      "name": "EISA",
+      "meaning": "Extended Industry Standard Architecture",
+      "provider": "wikipedia"
+    },
+    "FOSS": {
+      "name": "FOSS",
+      "meaning": "Free and Open-Source Software",
+      "provider": "wikipedia"
+    },
+    "EMS": {
+      "name": "EMS",
+      "meaning": "Expanded Memory Specification",
+      "provider": "wikipedia"
+    },
+    "URL": {
+      "name": "URL",
+      "meaning": "Uniform Resource Locator",
+      "provider": "wikipedia"
+    },
+    "DCMI": {
+      "name": "DCMI",
+      "meaning": "Dublin Core Metadata Initiative",
+      "provider": "wikipedia"
+    },
+    "KDC": {
+      "name": "KDC",
+      "meaning": "Key distribution center",
+      "provider": "wikipedia"
+    },
+    "EIGRP": {
+      "name": "EIGRP",
+      "meaning": "Enhanced Interior Gateway Routing Protocol",
+      "provider": "wikipedia"
+    },
+    "HLS": {
+      "name": "HLS",
+      "meaning": "HTTP Live Streaming",
+      "provider": "wikipedia"
+    },
+    "IDS": {
+      "name": "IDS",
+      "meaning": "Intrusion Detection System",
+      "provider": "wikipedia"
+    },
+    "IIS": {
+      "name": "IIS",
+      "meaning": "Internet Information Services",
+      "provider": "wikipedia"
+    },
+    "RLE": {
+      "name": "RLE",
+      "meaning": "Run-Length Encoding",
+      "provider": "wikipedia"
+    },
+    "TAPI": {
+      "name": "TAPI",
+      "meaning": "Telephony Application Programming Interface",
+      "provider": "wikipedia"
+    },
+    "SOPA": {
+      "name": "SOPA",
+      "meaning": "Stop Online Piracy Act",
+      "provider": "wikipedia"
+    },
+    "MWN": {
+      "name": "MWN",
+      "meaning": "Municipal wireless network",
+      "provider": "wikipedia"
+    },
+    "KDF": {
+      "name": "KDF",
+      "meaning": "Key derivation function",
+      "provider": "wikipedia"
+    },
+    "DARPA": {
+      "name": "DARPA",
+      "meaning": "Defense Advanced Research Projects Agency",
+      "provider": "wikipedia"
+    },
+    "ADT": {
+      "name": "ADT",
+      "meaning": "Abstract Data Type",
+      "provider": "wikipedia"
+    },
+    "RDC": {
+      "name": "RDC",
+      "meaning": "Remote Desktop Connection",
+      "provider": "wikipedia"
+    },
+    "NCSA": {
+      "name": "NCSA",
+      "meaning": "National Center for Supercomputing Applications",
+      "provider": "wikipedia"
+    },
+    "TACACS": {
+      "name": "TACACS",
+      "meaning": "Terminal Access Controller Access-Control System",
+      "provider": "wikipedia"
+    },
+    "UMTS": {
+      "name": "UMTS",
+      "meaning": "Universal Mobile Telecommunications System",
+      "provider": "wikipedia"
+    },
+    "JAXP": {
+      "name": "JAXP",
+      "meaning": "Java API for XML Processing",
+      "provider": "wikipedia"
+    },
+    "FHS": {
+      "name": "FHS",
+      "meaning": "Filesystem Hierarchy Standard",
+      "provider": "wikipedia"
+    },
+    "PCIDSS": {
+      "name": "PCIDSS",
+      "meaning": "Payment Card Industry Data Security Standard",
+      "provider": "wikipedia"
+    },
+    "WWN": {
+      "name": "WWN",
+      "meaning": "World Wide Name",
+      "provider": "wikipedia"
+    },
+    "ICMP": {
+      "name": "ICMP",
+      "meaning": "Internet Control Message Protocol",
+      "provider": "wikipedia"
+    },
+    "SVG": {
+      "name": "SVG",
+      "meaning": "Scalable Vector Graphics",
+      "provider": "wikipedia"
+    },
+    "RTEMS": {
+      "name": "RTEMS",
+      "meaning": "Real-Time Executive for Multiprocessor Systems",
+      "provider": "wikipedia"
+    },
+    "GNU": {
+      "name": "GNU",
+      "meaning": "GNU's Not Unix",
+      "provider": "wikipedia"
+    },
+    "SDDC": {
+      "name": "SDDC",
+      "meaning": "Software-defined data center",
+      "provider": "wikipedia"
+    },
+    "CMMI": {
+      "name": "CMMI",
+      "meaning": "Capability Maturity Model Integration",
+      "provider": "wikipedia"
+    },
+    "SLIP": {
+      "name": "SLIP",
+      "meaning": "Serial Line Internet Protocol",
+      "provider": "wikipedia"
+    },
+    "BOINC": {
+      "name": "BOINC",
+      "meaning": "Berkeley Open Infrastructure for Network Computing",
+      "provider": "wikipedia"
+    },
+    "MAM": {
+      "name": "MAM",
+      "meaning": "Media access management",
+      "provider": "wikipedia"
+    },
+    "TDP": {
+      "name": "TDP",
+      "meaning": "Thermal Design Power",
+      "provider": "wikipedia"
+    },
+    "PG": {
+      "name": "PG",
+      "meaning": "Peripheral Gateway",
+      "provider": "wikipedia"
+    },
+    "KINK": {
+      "name": "KINK",
+      "meaning": "Kerberized Internet Negotiation of Keys",
+      "provider": "wikipedia"
+    },
+    "WCAG": {
+      "name": "WCAG",
+      "meaning": "Web Content Accessibility Guidelines",
+      "provider": "wikipedia"
+    },
+    "TKIP": {
+      "name": "TKIP",
+      "meaning": "Temporal Key Integrity Protocol",
+      "provider": "wikipedia"
+    },
+    "PCM": {
+      "name": "PCM",
+      "meaning": "Pulse-Code Modulation",
+      "provider": "wikipedia"
+    },
+    "RJE": {
+      "name": "RJE",
+      "meaning": "Remote Job Entry",
+      "provider": "wikipedia"
+    },
+    "DSCP": {
+      "name": "DSCP",
+      "meaning": "Differentiated services code point",
+      "provider": "wikipedia"
+    },
+    "ARO": {
+      "name": "ARO",
+      "meaning": "Annualized rate of occurrence",
+      "provider": "wikipedia"
+    },
+    "BCD": {
+      "name": "BCD",
+      "meaning": "Binary Coded Decimal",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Boot Configuration Data",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "UDP": {
+      "name": "UDP",
+      "meaning": "User Datagram Protocol",
+      "provider": "wikipedia"
+    },
+    "GFDL": {
+      "name": "GFDL",
+      "meaning": "GNU Free Documentation License",
+      "provider": "wikipedia"
+    },
+    "EBML": {
+      "name": "EBML",
+      "meaning": "Extensible Binary Meta Language",
+      "provider": "wikipedia"
+    },
+    "SPI": {
+      "name": "SPI",
+      "meaning": "Serial Peripheral Interface",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Stateful Packet Inspection",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "DNAT": {
+      "name": "DNAT",
+      "meaning": "Destination network address translation",
+      "provider": "wikipedia"
+    },
+    "NAPT": {
+      "name": "NAPT",
+      "meaning": "Network address and port translation",
+      "provider": "wikipedia"
+    },
+    "POE": {
+      "name": "POE",
+      "meaning": "Power over Ethernet",
+      "provider": "wikipedia"
+    },
+    "DEP": {
+      "name": "DEP",
+      "meaning": "Data Execution Prevention",
+      "provider": "wikipedia"
+    },
+    "SDIO": {
+      "name": "SDIO",
+      "meaning": "Secure Digital Input Output",
+      "provider": "wikipedia"
+    },
+    "SDH": {
+      "name": "SDH",
+      "meaning": "Synchronous Digital Hierarchy",
+      "provider": "wikipedia"
+    },
+    "IANA": {
+      "name": "IANA",
+      "meaning": "Internet Assigned Number Authority",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Internet Assigned Numbers Authority",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "ISOC": {
+      "name": "ISOC",
+      "meaning": "Information security operations center",
+      "provider": "wikipedia"
+    },
+    "PPPOE": {
+      "name": "PPPOE",
+      "meaning": "PPP over Ethernet",
+      "provider": "wikipedia"
+    },
+    "LAMP": {
+      "name": "LAMP",
+      "meaning": "Linux Apache MySQL PHP",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Linux Apache MySQL Python",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Linux Apache MySQL Perl",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "RSS": {
+      "name": "RSS",
+      "meaning": "Remote service software",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Radio Service Software",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Rich Site Summary, RDF Site Summary, or Really Simple Syndication",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "AOE": {
+      "name": "AOE",
+      "meaning": "ATA over Ethernet",
+      "provider": "wikipedia"
+    },
+    "CUA": {
+      "name": "CUA",
+      "meaning": "Common User Access",
+      "provider": "wikipedia"
+    },
+    "UAC": {
+      "name": "UAC",
+      "meaning": "User Account Control",
+      "provider": "wikipedia"
+    },
+    "FCC": {
+      "name": "FCC",
+      "meaning": "Federal Communications Commission",
+      "provider": "wikipedia"
+    },
+    "NCQ": {
+      "name": "NCQ",
+      "meaning": "Native Command Queuing",
+      "provider": "wikipedia"
+    },
+    "GDI": {
+      "name": "GDI",
+      "meaning": "Graphics Device Interface",
+      "provider": "wikipedia"
+    },
+    "MIME": {
+      "name": "MIME",
+      "meaning": "Multipurpose Internet Mail Extensions",
+      "provider": "wikipedia"
+    },
+    "UNC": {
+      "name": "UNC",
+      "meaning": "Universal Naming Convention",
+      "provider": "wikipedia"
+    },
+    "DE": {
+      "name": "DE",
+      "meaning": "Desktop environment",
+      "provider": "wikipedia"
+    },
+    "ESN": {
+      "name": "ESN",
+      "meaning": "Electronic serial number",
+      "provider": "wikipedia"
+    },
+    "ACME": {
+      "name": "ACME",
+      "meaning": "Automated Classification of Medical Entities",
+      "provider": "wikipedia"
+    },
+    "MGCP": {
+      "name": "MGCP",
+      "meaning": "Media Gateway Control Protocol",
+      "provider": "wikipedia"
+    },
+    "HCI": {
+      "name": "HCI",
+      "meaning": "Human—Computer Interaction",
+      "provider": "wikipedia"
+    },
+    "MSP": {
+      "name": "MSP",
+      "meaning": "Managed service provider",
+      "provider": "wikipedia"
+    },
+    "EEPROM": {
+      "name": "EEPROM",
+      "meaning": "Electronically Erasable Programmable Read-Only Memory",
+      "provider": "wikipedia"
+    },
+    "TWAIN": {
+      "name": "TWAIN",
+      "meaning": "Technology Without An Interesting Name",
+      "provider": "wikipedia"
+    },
+    "ICH": {
+      "name": "ICH",
+      "meaning": "I/O Controller Hub",
+      "provider": "wikipedia"
+    },
+    "VB": {
+      "name": "VB",
+      "meaning": "Visual Basic",
+      "provider": "wikipedia"
+    },
+    "AE": {
+      "name": "AE",
+      "meaning": "Adaptive Equalizer",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Authenticated encryption",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "GRE": {
+      "name": "GRE",
+      "meaning": "Generic routing encapsulation",
+      "provider": "wikipedia"
+    },
+    "ETDR": {
+      "name": "ETDR",
+      "meaning": "Endpoint threat detection and response",
+      "provider": "wikipedia"
+    },
+    "CGI": {
+      "name": "CGI",
+      "meaning": "Common Gateway Interface",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Computer-generated imagery",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "VDS": {
+      "name": "VDS",
+      "meaning": "Virtual dedicated server",
+      "provider": "wikipedia"
+    },
+    "SQLI": {
+      "name": "SQLI",
+      "meaning": "SQL injection",
+      "provider": "wikipedia"
+    },
+    "WWW": {
+      "name": "WWW",
+      "meaning": "World Wide Web",
+      "provider": "wikipedia"
+    },
+    "RACF": {
+      "name": "RACF",
+      "meaning": "Resource Access Control Facility",
+      "provider": "wikipedia"
+    },
+    "CAD": {
+      "name": "CAD",
+      "meaning": "Computer-aided design",
+      "provider": "wikipedia"
+    },
+    "DTLS": {
+      "name": "DTLS",
+      "meaning": "Datagram Transport Layer Security",
+      "provider": "wikipedia"
+    },
+    "DRP": {
+      "name": "DRP",
+      "meaning": "Disaster recovery plan",
+      "provider": "wikipedia"
+    },
+    "GSM": {
+      "name": "GSM",
+      "meaning": "Global System for Mobile Communications",
+      "provider": "wikipedia"
+    },
+    "MMDS": {
+      "name": "MMDS",
+      "meaning": "Multichannel Multipoint Distribution Service",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Mortality Medical Data System",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "FICON": {
+      "name": "FICON",
+      "meaning": "FIber CONnectivity",
+      "provider": "wikipedia"
+    },
+    "NLS": {
+      "name": "NLS",
+      "meaning": "Native Language Support",
+      "provider": "wikipedia"
+    },
+    "CSP": {
+      "name": "CSP",
+      "meaning": "Cloud service provider",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Communicating sequential processes",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "EGP": {
+      "name": "EGP",
+      "meaning": "Exterior Gateway Protocol",
+      "provider": "wikipedia"
+    },
+    "LF": {
+      "name": "LF",
+      "meaning": "Low Frequency",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Line Feed",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "WWDC": {
+      "name": "WWDC",
+      "meaning": "World Wide Developer Conference",
+      "provider": "wikipedia"
+    },
+    "RTBH": {
+      "name": "RTBH",
+      "meaning": "Remote Triggered Black Hole Filtering",
+      "provider": "wikipedia"
+    },
+    "PARC": {
+      "name": "PARC",
+      "meaning": "Palo Alto Research Center",
+      "provider": "wikipedia"
+    },
+    "MVP": {
+      "name": "MVP",
+      "meaning": "Most Valuable Professional",
+      "provider": "wikipedia"
+    },
+    "PPP": {
+      "name": "PPP",
+      "meaning": "Point-to-Point Protocol",
+      "provider": "wikipedia"
+    },
+    "SDI": {
+      "name": "SDI",
+      "meaning": "Single-Document Interface",
+      "provider": "wikipedia"
+    },
+    "ALSA": {
+      "name": "ALSA",
+      "meaning": "Advanced Linux Sound Architecture",
+      "provider": "wikipedia"
+    },
+    "SCID": {
+      "name": "SCID",
+      "meaning": "Source Code in Database",
+      "provider": "wikipedia"
+    },
+    "EDVAC": {
+      "name": "EDVAC",
+      "meaning": "Electronic Discrete Variable Automatic Computer",
+      "provider": "wikipedia"
+    },
+    "LBA": {
+      "name": "LBA",
+      "meaning": "Logical Block Addressing",
+      "provider": "wikipedia"
+    },
+    "CISC": {
+      "name": "CISC",
+      "meaning": "Complex-instruction-set computer",
+      "provider": "wikipedia"
+    },
+    "S/MIME": {
+      "name": "S/MIME",
+      "meaning": "Secure/Multipurpose Internet Mail Extensions",
+      "provider": "wikipedia"
+    },
+    "NPL": {
+      "name": "NPL",
+      "meaning": "Netscape Public License",
+      "provider": "wikipedia"
+    },
+    "DMI": {
+      "name": "DMI",
+      "meaning": "Desktop Management Interface",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Direct Media Interface",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "FLOSS": {
+      "name": "FLOSS",
+      "meaning": "Free/Libre/Open-Source Software",
+      "provider": "wikipedia"
+    },
+    "MMORPG": {
+      "name": "MMORPG",
+      "meaning": "Massively Multiplayer Online Role-Playing Game",
+      "provider": "wikipedia"
+    },
+    "CTSS": {
+      "name": "CTSS",
+      "meaning": "Compatible Time-Sharing System",
+      "provider": "wikipedia"
+    },
+    "CIDR": {
+      "name": "CIDR",
+      "meaning": "Classless inter-domain routing",
+      "provider": "wikipedia"
+    },
+    "BJT": {
+      "name": "BJT",
+      "meaning": "Bipolar Junction Transistor",
+      "provider": "wikipedia"
+    },
+    "PSM": {
+      "name": "PSM",
+      "meaning": "Platform Specific Model",
+      "provider": "wikipedia"
+    },
+    "CRT": {
+      "name": "CRT",
+      "meaning": "Cathode-ray tube",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Cathode Ray Tube",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "MBD": {
+      "name": "MBD",
+      "meaning": "Model-Based Design",
+      "provider": "wikipedia"
+    },
+    "TCU": {
+      "name": "TCU",
+      "meaning": "Telecommunication Control Unit|",
+      "provider": "wikipedia"
+    },
+    "DFS": {
+      "name": "DFS",
+      "meaning": "Distributed File System",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Depth-First Search",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "ONS": {
+      "name": "ONS",
+      "meaning": "Oracle Net Services",
+      "provider": "wikipedia"
+    },
+    "AEAD": {
+      "name": "AEAD",
+      "meaning": "Authenticated encryption with associated data",
+      "provider": "wikipedia"
+    },
+    "GPU": {
+      "name": "GPU",
+      "meaning": "Graphics Processing Unit",
+      "provider": "wikipedia"
+    },
+    "SED": {
+      "name": "SED",
+      "meaning": "Self-encrypting drive",
+      "provider": "wikipedia"
+    },
+    "LLC": {
+      "name": "LLC",
+      "meaning": "Logical link control",
+      "provider": "wikipedia"
+    },
+    "JFS": {
+      "name": "JFS",
+      "meaning": "IBM Journaling File System",
+      "provider": "wikipedia"
+    },
+    "WORE": {
+      "name": "WORE",
+      "meaning": "Write once, run everywhere",
+      "provider": "wikipedia"
+    },
+    "DMARC": {
+      "name": "DMARC",
+      "meaning": "Domain-based Message Authentication, Reporting and Conformance",
+      "provider": "wikipedia"
+    },
+    "WAI": {
+      "name": "WAI",
+      "meaning": "Web Accessibility Initiative",
+      "provider": "wikipedia"
+    },
+    "2B1Q": {
+      "name": "2B1Q",
+      "meaning": "2 binary 1 quaternary",
+      "provider": "wikipedia"
+    },
+    "NTFS": {
+      "name": "NTFS",
+      "meaning": "New Technology File System",
+      "provider": "wikipedia"
+    },
+    "SDSL": {
+      "name": "SDSL",
+      "meaning": "Symmetric digital subscriber line",
+      "provider": "wikipedia"
+    },
+    "ISV": {
+      "name": "ISV",
+      "meaning": "Independent Software Vendor",
+      "provider": "wikipedia"
+    },
+    "XUL": {
+      "name": "XUL",
+      "meaning": "XML User Interface Language",
+      "provider": "wikipedia"
+    },
+    "BSA": {
+      "name": "BSA",
+      "meaning": "Business Software Alliance",
+      "provider": "wikipedia"
+    },
+    "DRBG": {
+      "name": "DRBG",
+      "meaning": "Deterministic random bit generator",
+      "provider": "wikipedia"
+    },
+    "MIDI": {
+      "name": "MIDI",
+      "meaning": "Musical Instrument Digital Interface",
+      "provider": "wikipedia"
+    },
+    "UMB": {
+      "name": "UMB",
+      "meaning": "Upper Memory Block",
+      "provider": "wikipedia"
+    },
+    "MUA": {
+      "name": "MUA",
+      "meaning": "Mail User Agent",
+      "provider": "wikipedia"
+    },
+    "CCMP": {
+      "name": "CCMP",
+      "meaning": "CCM mode Protocol",
+      "provider": "wikipedia"
+    },
+    "VGA": {
+      "name": "VGA",
+      "meaning": "Video Graphics Array",
+      "provider": "wikipedia"
+    },
+    "WEP": {
+      "name": "WEP",
+      "meaning": "Wired Equivalent Privacy",
+      "provider": "wikipedia"
+    },
+    "LAPB": {
+      "name": "LAPB",
+      "meaning": "Link Access Procedure, Balanced",
+      "provider": "wikipedia"
+    },
+    "FHSS": {
+      "name": "FHSS",
+      "meaning": "Frequency-hopping spread spectrum",
+      "provider": "wikipedia"
+    },
+    "KDE": {
+      "name": "KDE",
+      "meaning": "K Desktop Environment",
+      "provider": "wikipedia"
+    },
+    "RA": {
+      "name": "RA",
+      "meaning": "Registration authority",
+      "provider": "wikipedia"
+    },
+    "SSI": {
+      "name": "SSI",
+      "meaning": "Single-System Image",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Small-Scale Integration",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Server Side Includes",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "RTMP": {
+      "name": "RTMP",
+      "meaning": "Real Time Messaging Protocol",
+      "provider": "wikipedia"
+    },
+    "GCJ": {
+      "name": "GCJ",
+      "meaning": "GNU Compiler for Java",
+      "provider": "wikipedia"
+    },
+    "RTS": {
+      "name": "RTS",
+      "meaning": "Ready To Send",
+      "provider": "wikipedia"
+    },
+    "GIS": {
+      "name": "GIS",
+      "meaning": "Geographic Information System",
+      "provider": "wikipedia"
+    },
+    "EMAC": {
+      "name": "EMAC",
+      "meaning": "Ethernet Media Access Control",
+      "provider": "wikipedia"
+    },
+    "ECDSA": {
+      "name": "ECDSA",
+      "meaning": "Elliptic Curve Digital Signature Algorithm",
+      "provider": "wikipedia"
+    },
+    "DLNA": {
+      "name": "DLNA",
+      "meaning": "Digital Living Network Alliance",
+      "provider": "wikipedia"
+    },
+    "ASR": {
+      "name": "ASR",
+      "meaning": "Asynchronous Signal Routine",
+      "provider": "wikipedia"
+    },
+    "MTBF": {
+      "name": "MTBF",
+      "meaning": "Mean time between failures",
+      "provider": "wikipedia"
+    },
+    "SSTC": {
+      "name": "SSTC",
+      "meaning": "Security Services Technical Committee",
+      "provider": "wikipedia"
+    },
+    "MSSP": {
+      "name": "MSSP",
+      "meaning": "Managed security service provider",
+      "provider": "wikipedia"
+    },
+    "OSPF": {
+      "name": "OSPF",
+      "meaning": "Open Shortest Path First",
+      "provider": "wikipedia"
+    },
+    "ATA": {
+      "name": "ATA",
+      "meaning": "Advanced Technology Attachment",
+      "provider": "wikipedia"
+    },
+    "BRMS": {
+      "name": "BRMS",
+      "meaning": "Business Rule Management System",
+      "provider": "wikipedia"
+    },
+    "ANN": {
+      "name": "ANN",
+      "meaning": "Artificial Neural Network",
+      "provider": "wikipedia"
+    },
+    "GIF": {
+      "name": "GIF",
+      "meaning": "Graphics Interchange Format",
+      "provider": "wikipedia"
+    },
+    "PPPOA": {
+      "name": "PPPOA",
+      "meaning": "PPP over ATM",
+      "provider": "wikipedia"
+    },
+    "UDMA": {
+      "name": "UDMA",
+      "meaning": "Ultra DMA",
+      "provider": "wikipedia"
+    },
+    "AVI": {
+      "name": "AVI",
+      "meaning": "Audio Video Interleaved",
+      "provider": "wikipedia"
+    },
+    "MOCA": {
+      "name": "MOCA",
+      "meaning": "Multimedia over Coax Alliance",
+      "provider": "wikipedia"
+    },
+    "KPK": {
+      "name": "KPK",
+      "meaning": "Key production key",
+      "provider": "wikipedia"
+    },
+    "OMF": {
+      "name": "OMF",
+      "meaning": "Object Module Format",
+      "provider": "wikipedia"
+    },
+    "RMS": {
+      "name": "RMS",
+      "meaning": "Richard Matthew Stallman",
+      "provider": "wikipedia"
+    },
+    "TTLS": {
+      "name": "TTLS",
+      "meaning": "Tunneled Transport Layer Security",
+      "provider": "wikipedia"
+    },
+    "IPV6": {
+      "name": "IPV6",
+      "meaning": "Internet Protocol version 6",
+      "provider": "wikipedia"
+    },
+    "IEC": {
+      "name": "IEC",
+      "meaning": "International Electrotechnical Commission",
+      "provider": "wikipedia"
+    },
+    "TLA": {
+      "name": "TLA",
+      "meaning": "Three-Letter Acronym",
+      "provider": "wikipedia"
+    },
+    "ROM": {
+      "name": "ROM",
+      "meaning": "Read-Only Memory",
+      "provider": "wikipedia"
+    },
+    "ASLR": {
+      "name": "ASLR",
+      "meaning": "Address Space Layout Randomization",
+      "provider": "wikipedia"
+    },
+    "DISM": {
+      "name": "DISM",
+      "meaning": "Deployment Image and Service Management Tool",
+      "provider": "wikipedia"
+    },
+    "LTR": {
+      "name": "LTR",
+      "meaning": "Left-to-Right",
+      "provider": "wikipedia"
+    },
+    "EDO": {
+      "name": "EDO",
+      "meaning": "Extended Data Out",
+      "provider": "wikipedia"
+    },
+    "JAXB": {
+      "name": "JAXB",
+      "meaning": "Java Architecture for XML Binding",
+      "provider": "wikipedia"
+    },
+    "SOA": {
+      "name": "SOA",
+      "meaning": "Service-Oriented Architecture",
+      "provider": "wikipedia"
+    },
+    "BC": {
+      "name": "BC",
+      "meaning": "Business Continuity",
+      "provider": "wikipedia"
+    },
+    "PUP": {
+      "name": "PUP",
+      "meaning": "Potentially unwanted program",
+      "provider": "wikipedia"
+    },
+    "BMP": {
+      "name": "BMP",
+      "meaning": "Basic Multilingual Plane",
+      "provider": "wikipedia"
+    },
+    "RGB": {
+      "name": "RGB",
+      "meaning": "Red, Green, Blue",
+      "provider": "wikipedia"
+    },
+    "APIPA": {
+      "name": "APIPA",
+      "meaning": "Automatic Private IP Addressing",
+      "provider": "wikipedia"
+    },
+    "TLV": {
+      "name": "TLV",
+      "meaning": "Type—length—value",
+      "provider": "wikipedia"
+    },
+    "SGI": {
+      "name": "SGI",
+      "meaning": "Silicon Graphics, Incorporated",
+      "provider": "wikipedia"
+    },
+    "ICT": {
+      "name": "ICT",
+      "meaning": "Information and Communication Technology",
+      "provider": "wikipedia"
+    },
+    "JNI": {
+      "name": "JNI",
+      "meaning": "Java Native Interface",
+      "provider": "wikipedia"
+    },
+    "EOM": {
+      "name": "EOM",
+      "meaning": "End of Message",
+      "provider": "wikipedia"
+    },
+    "IAB": {
+      "name": "IAB",
+      "meaning": "Internet Architecture Board",
+      "provider": "wikipedia"
+    },
+    "PBKDF2": {
+      "name": "PBKDF2",
+      "meaning": "Password-Based Key Derivation Function 2",
+      "provider": "wikipedia"
+    },
+    "PROM": {
+      "name": "PROM",
+      "meaning": "Programmable Read-Only Memory",
+      "provider": "wikipedia"
+    },
+    "CRM": {
+      "name": "CRM",
+      "meaning": "Customer Relationship Management",
+      "provider": "wikipedia"
+    },
+    "ACPI": {
+      "name": "ACPI",
+      "meaning": "Advanced Configuration and Power Interface",
+      "provider": "wikipedia"
+    },
+    "RWD": {
+      "name": "RWD",
+      "meaning": "Responsive Web Design",
+      "provider": "wikipedia"
+    },
+    "SPA": {
+      "name": "SPA",
+      "meaning": "Single Page Application",
+      "provider": "wikipedia"
+    },
+    "AWS": {
+      "name": "AWS",
+      "meaning": "Amazon Web Services",
+      "provider": "wikipedia"
+    },
+    "VNC": {
+      "name": "VNC",
+      "meaning": "Virtual Network Computing",
+      "provider": "wikipedia"
+    },
+    "RSTP": {
+      "name": "RSTP",
+      "meaning": "Rapid Spanning Tree Protocol",
+      "provider": "wikipedia"
+    },
+    "FOSI": {
+      "name": "FOSI",
+      "meaning": "Formatted Output Specification Instance",
+      "provider": "wikipedia"
+    },
+    "PCRE": {
+      "name": "PCRE",
+      "meaning": "Perl Compatible Regular Expressions",
+      "provider": "wikipedia"
+    },
+    "ZISC": {
+      "name": "ZISC",
+      "meaning": "Zero Instruction Set Computer",
+      "provider": "wikipedia"
+    },
+    "APIC": {
+      "name": "APIC",
+      "meaning": "Advanced Programmable Interrupt Controller",
+      "provider": "wikipedia"
+    },
+    "LIB": {
+      "name": "LIB",
+      "meaning": "LIBrary",
+      "provider": "wikipedia"
+    },
+    "ETA": {
+      "name": "ETA",
+      "meaning": "Estimated Time of Arrival",
+      "provider": "wikipedia"
+    },
+    "CD-R": {
+      "name": "CD-R",
+      "meaning": "CD-Recordable",
+      "provider": "wikipedia"
+    },
+    "SEH": {
+      "name": "SEH",
+      "meaning": "Structured Exception Handling",
+      "provider": "wikipedia"
+    },
+    "UTF": {
+      "name": "UTF",
+      "meaning": "Unicode Transformation Format",
+      "provider": "wikipedia"
+    },
+    "IAM": {
+      "name": "IAM",
+      "meaning": "Identity and access management",
+      "provider": "wikipedia"
+    },
+    "SMBIOS": {
+      "name": "SMBIOS",
+      "meaning": "System Management BIOS",
+      "provider": "wikipedia"
+    },
+    "DVI": {
+      "name": "DVI",
+      "meaning": "Digital Visual Interface",
+      "provider": "wikipedia"
+    },
+    "LIF": {
+      "name": "LIF",
+      "meaning": "Low Insertion Force",
+      "provider": "wikipedia"
+    },
+    "TEAP": {
+      "name": "TEAP",
+      "meaning": "Tunnel Extensible Authentication Protocol",
+      "provider": "wikipedia"
+    },
+    "SWG": {
+      "name": "SWG",
+      "meaning": "Secure Web Gateway",
+      "provider": "wikipedia"
+    },
+    "UB": {
+      "name": "UB",
+      "meaning": "Undefined Behavior",
+      "provider": "wikipedia"
+    },
+    "RF": {
+      "name": "RF",
+      "meaning": "Radio Frequency",
+      "provider": "wikipedia"
+    },
+    "SOHO": {
+      "name": "SOHO",
+      "meaning": "Small Office/Home Office",
+      "provider": "wikipedia"
+    },
+    "HTTPS": {
+      "name": "HTTPS",
+      "meaning": "HTTP Secure",
+      "provider": "wikipedia"
+    },
+    "EHA": {
+      "name": "EHA",
+      "meaning": "Ethernet Hardware Address",
+      "provider": "wikipedia"
+    },
+    "RADIUS": {
+      "name": "RADIUS",
+      "meaning": "Remote Authentication Dial-In User Service",
+      "provider": "wikipedia"
+    },
+    "DMCA": {
+      "name": "DMCA",
+      "meaning": "Digital Millennium Copyright Act",
+      "provider": "wikipedia"
+    },
+    "WNS": {
+      "name": "WNS",
+      "meaning": "Windows Push Notification Service",
+      "provider": "wikipedia"
+    },
+    "RFC": {
+      "name": "RFC",
+      "meaning": "Request For Comments",
+      "provider": "wikipedia"
+    },
+    "EFF": {
+      "name": "EFF",
+      "meaning": "Electronic Frontier Foundation",
+      "provider": "wikipedia"
+    },
+    "ADO": {
+      "name": "ADO",
+      "meaning": "ActiveX Data Objects",
+      "provider": "wikipedia"
+    },
+    "HTC": {
+      "name": "HTC",
+      "meaning": "High-Throughput Computing",
+      "provider": "wikipedia"
+    },
+    "SISD": {
+      "name": "SISD",
+      "meaning": "Single Instruction, Single Data",
+      "provider": "wikipedia"
+    },
+    "DMA": {
+      "name": "DMA",
+      "meaning": "Direct Memory Access",
+      "provider": "wikipedia"
+    },
+    "CAI": {
+      "name": "CAI",
+      "meaning": "Computer-aided instruction",
+      "provider": "wikipedia"
+    },
+    "TCL": {
+      "name": "TCL",
+      "meaning": "Tool Command Language",
+      "provider": "wikipedia"
+    },
+    "JMS": {
+      "name": "JMS",
+      "meaning": "Java Message Service",
+      "provider": "wikipedia"
+    },
+    "CNG": {
+      "name": "CNG",
+      "meaning": "Cryptographic Next Generation",
+      "provider": "wikipedia"
+    },
+    "GCP": {
+      "name": "GCP",
+      "meaning": "Google Cloud Platform",
+      "provider": "wikipedia"
+    },
+    "L2TP": {
+      "name": "L2TP",
+      "meaning": "Layer 2 Tunneling Protocol",
+      "provider": "wikipedia"
+    },
+    "ISPF": {
+      "name": "ISPF",
+      "meaning": "Interactive System Productivity Facility",
+      "provider": "wikipedia"
+    },
+    "UWP": {
+      "name": "UWP",
+      "meaning": "Universal Windows Platform",
+      "provider": "wikipedia"
+    },
+    "SLA": {
+      "name": "SLA",
+      "meaning": "Service-level agreement",
+      "provider": "wikipedia"
+    },
+    "MOUS": {
+      "name": "MOUS",
+      "meaning": "Microsoft Office User Specialist",
+      "provider": "wikipedia"
+    },
+    "RCA": {
+      "name": "RCA",
+      "meaning": "Root Cause Analysis",
+      "provider": "wikipedia"
+    },
+    "PDF": {
+      "name": "PDF",
+      "meaning": "Portable Document Format",
+      "provider": "wikipedia"
+    },
+    "WDDM": {
+      "name": "WDDM",
+      "meaning": "Windows Display Driver Model",
+      "provider": "wikipedia"
+    },
+    "HDL": {
+      "name": "HDL",
+      "meaning": "Hardware Description Language",
+      "provider": "wikipedia"
+    },
+    "FDE": {
+      "name": "FDE",
+      "meaning": "Full disk encryption",
+      "provider": "wikipedia"
+    },
+    "LBAC": {
+      "name": "LBAC",
+      "meaning": "Lattice-based access control",
+      "provider": "wikipedia"
+    },
+    "BGP": {
+      "name": "BGP",
+      "meaning": "Border Gateway Protocol",
+      "provider": "wikipedia"
+    },
+    "CIM": {
+      "name": "CIM",
+      "meaning": "Common Information Model",
+      "provider": "wikipedia"
+    },
+    "PCMCIA": {
+      "name": "PCMCIA",
+      "meaning": "Personal Computer Memory Card International Association",
+      "provider": "wikipedia"
+    },
+    "PVST": {
+      "name": "PVST",
+      "meaning": "Per-VLAN Spanning Tree",
+      "provider": "wikipedia"
+    },
+    "PSU": {
+      "name": "PSU",
+      "meaning": "Power Supply Unit",
+      "provider": "wikipedia"
+    },
+    "CA": {
+      "name": "CA",
+      "meaning": "Computer Associates International, Inc.",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Certificate authority",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "AJAX": {
+      "name": "AJAX",
+      "meaning": "Asynchronous JavaScript and XML",
+      "provider": "wikipedia"
+    },
+    "ZMA": {
+      "name": "ZMA",
+      "meaning": "Zone Multicast Address",
+      "provider": "wikipedia"
+    },
+    "EID": {
+      "name": "EID",
+      "meaning": "electronic ID card",
+      "provider": "wikipedia"
+    },
+    "CSMA/CD": {
+      "name": "CSMA/CD",
+      "meaning": "Carrier sense multiple access / collision detection",
+      "provider": "wikipedia"
+    },
+    "DSLAM": {
+      "name": "DSLAM",
+      "meaning": "Digital Subscriber Line Access Multiplexer",
+      "provider": "wikipedia"
+    },
+    "SPICE": {
+      "name": "SPICE",
+      "meaning": "Simple Protocol for Independent Computing Environments",
+      "provider": "wikipedia"
+    },
+    "ATAG": {
+      "name": "ATAG",
+      "meaning": "Authoring Tool Accessibility Guidelines",
+      "provider": "wikipedia"
+    },
+    "PTT": {
+      "name": "PTT",
+      "meaning": "Public Telephone and Telegraph",
+      "provider": "wikipedia"
+    },
+    "FDC": {
+      "name": "FDC",
+      "meaning": "Floppy-Disk Controller",
+      "provider": "wikipedia"
+    },
+    "DVR": {
+      "name": "DVR",
+      "meaning": "Digital Video Recorder",
+      "provider": "wikipedia"
+    },
+    "ACD": {
+      "name": "ACD",
+      "meaning": "Automatic Call Distributor",
+      "provider": "wikipedia"
+    },
+    "COPE": {
+      "name": "COPE",
+      "meaning": "Corporate-owned, personally enabled",
+      "provider": "wikipedia"
+    },
+    "AMR": {
+      "name": "AMR",
+      "meaning": "Audio Modem Riser",
+      "provider": "wikipedia"
+    },
+    "LVM": {
+      "name": "LVM",
+      "meaning": "Logical Volume Management",
+      "provider": "wikipedia"
+    },
+    "UHF": {
+      "name": "UHF",
+      "meaning": "Ultra High Frequency",
+      "provider": "wikipedia"
+    },
+    "QSOP": {
+      "name": "QSOP",
+      "meaning": "Quarter-size small-outline package",
+      "provider": "wikipedia"
+    },
+    "EWMH": {
+      "name": "EWMH",
+      "meaning": "Extended Window Manager Hints",
+      "provider": "wikipedia"
+    },
+    "BPA": {
+      "name": "BPA",
+      "meaning": "Oracle Business Process Analysis Suite",
+      "provider": "wikipedia"
+    },
+    "VBS": {
+      "name": "VBS",
+      "meaning": "Visual Basic Script",
+      "provider": "wikipedia"
+    },
+    "RTC": {
+      "name": "RTC",
+      "meaning": "Real-Time Clock",
+      "provider": "wikipedia"
+    },
+    "SAAS": {
+      "name": "SAAS",
+      "meaning": "Software as a Service",
+      "provider": "wikipedia"
+    },
+    "AAC": {
+      "name": "AAC",
+      "meaning": "Advanced Audio Coding",
+      "provider": "wikipedia"
+    },
+    "EUC": {
+      "name": "EUC",
+      "meaning": "Extended Unix Code",
+      "provider": "wikipedia"
+    },
+    "NACK": {
+      "name": "NACK",
+      "meaning": "Negative ACKnowledgement",
+      "provider": "wikipedia"
+    },
+    "SFP": {
+      "name": "SFP",
+      "meaning": "Small Form-factor Pluggable",
+      "provider": "wikipedia"
+    },
+    "RDM": {
+      "name": "RDM",
+      "meaning": "Relational Data Model",
+      "provider": "wikipedia"
+    },
+    "NP": {
+      "name": "NP",
+      "meaning": "Nondeterministic Polynomial time",
+      "provider": "wikipedia"
+    },
+    "CIA": {
+      "name": "CIA",
+      "meaning": "Confidentiality, Integrity, Availability",
+      "provider": "wikipedia"
+    },
+    "ECU": {
+      "name": "ECU",
+      "meaning": "Electronic control unit",
+      "provider": "wikipedia"
+    },
+    "GPG": {
+      "name": "GPG",
+      "meaning": "GNU Privacy Guard",
+      "provider": "wikipedia"
+    },
+    "TDM": {
+      "name": "TDM",
+      "meaning": "Time-division multiplexing",
+      "provider": "wikipedia"
+    },
+    "SNA": {
+      "name": "SNA",
+      "meaning": "Systems Network Architecture",
+      "provider": "wikipedia"
+    },
+    "TLD": {
+      "name": "TLD",
+      "meaning": "Top-Level Domain",
+      "provider": "wikipedia"
+    },
+    "DCE": {
+      "name": "DCE",
+      "meaning": "Data communications equipment",
+      "provider": "wikipedia"
+    },
+    "LGPL": {
+      "name": "LGPL",
+      "meaning": "Lesser General Public License",
+      "provider": "wikipedia"
+    },
+    "RAID": {
+      "name": "RAID",
+      "meaning": "Redundant Array of Independent Disks",
+      "provider": "wikipedia"
+    },
+    "IP": {
+      "name": "IP",
+      "meaning": "Intellectual Property",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Internet Protocol",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "VCPI": {
+      "name": "VCPI",
+      "meaning": "Virtual Control Program Interface",
+      "provider": "wikipedia"
+    },
+    "ADSL": {
+      "name": "ADSL",
+      "meaning": "Asymmetric Digital Subscriber Line",
+      "provider": "wikipedia"
+    },
+    "MIB": {
+      "name": "MIB",
+      "meaning": "Management Information Base",
+      "provider": "wikipedia"
+    },
+    "PCL": {
+      "name": "PCL",
+      "meaning": "Printer Command Language",
+      "provider": "wikipedia"
+    },
+    "NDPS": {
+      "name": "NDPS",
+      "meaning": "Novell Distributed Print Services",
+      "provider": "wikipedia"
+    },
+    "ULSI": {
+      "name": "ULSI",
+      "meaning": "Ultra Large Scale Integration",
+      "provider": "wikipedia"
+    },
+    "DRM": {
+      "name": "DRM",
+      "meaning": "Direct rendering manager",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Digital rights management",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "ECS": {
+      "name": "ECS",
+      "meaning": "Entity-Component-System",
+      "provider": "wikipedia"
+    },
+    "TDES": {
+      "name": "TDES",
+      "meaning": "Triple Data Encryption Standard",
+      "provider": "wikipedia"
+    },
+    "DVD": {
+      "name": "DVD",
+      "meaning": "Digital Versatile Disc or Digital Video Disc",
+      "provider": "wikipedia"
+    },
+    "RBAC": {
+      "name": "RBAC",
+      "meaning": "Role-based access control",
+      "provider": "wikipedia"
+    },
+    "POP3": {
+      "name": "POP3",
+      "meaning": "Post Office Protocol, version 3",
+      "provider": "wikipedia"
+    },
+    "DRAM": {
+      "name": "DRAM",
+      "meaning": "Dynamic Random-Access Memory",
+      "provider": "wikipedia"
+    },
+    "SSSE": {
+      "name": "SSSE",
+      "meaning": "Supplementary Streaming SIMD Extensions",
+      "provider": "wikipedia"
+    },
+    "WBEM": {
+      "name": "WBEM",
+      "meaning": "Web-Based Enterprise Management",
+      "provider": "wikipedia"
+    },
+    "NSIS": {
+      "name": "NSIS",
+      "meaning": "Nullsoft Scriptable Install System",
+      "provider": "wikipedia"
+    },
+    "NCP": {
+      "name": "NCP",
+      "meaning": "NetWare Core Protocol",
+      "provider": "wikipedia"
+    },
+    "WAFS": {
+      "name": "WAFS",
+      "meaning": "Wide Area File Services",
+      "provider": "wikipedia"
+    },
+    "ECC": {
+      "name": "ECC",
+      "meaning": "Elliptic-curve cryptography",
+      "provider": "wikipedia"
+    },
+    "LE": {
+      "name": "LE",
+      "meaning": "Logical Extents",
+      "provider": "wikipedia"
+    },
+    "CFD": {
+      "name": "CFD",
+      "meaning": "Computational fluid dynamics",
+      "provider": "wikipedia"
+    },
+    "BAS": {
+      "name": "BAS",
+      "meaning": "Building automation systems",
+      "provider": "wikipedia"
+    },
+    "BFT": {
+      "name": "BFT",
+      "meaning": "Byzantine Fault Tolerant",
+      "provider": "wikipedia"
+    },
+    "NFS": {
+      "name": "NFS",
+      "meaning": "Network File System",
+      "provider": "wikipedia"
+    },
+    "IL": {
+      "name": "IL",
+      "meaning": "Intermediate Language",
+      "provider": "wikipedia"
+    },
+    "ISSA": {
+      "name": "ISSA",
+      "meaning": "Information Systems Security Association",
+      "provider": "wikipedia"
+    },
+    "TDEA": {
+      "name": "TDEA",
+      "meaning": "Triple Data Encryption Algorithm",
+      "provider": "wikipedia"
+    },
+    "DLL": {
+      "name": "DLL",
+      "meaning": "Dynamic-link library",
+      "provider": "wikipedia"
+    },
+    "NFC": {
+      "name": "NFC",
+      "meaning": "Near-field communication",
+      "provider": "wikipedia"
+    },
+    "DVD-R": {
+      "name": "DVD-R",
+      "meaning": "DVD-Recordable",
+      "provider": "wikipedia"
+    },
+    "APCI": {
+      "name": "APCI",
+      "meaning": "Application-Layer Protocol Control Information",
+      "provider": "wikipedia"
+    },
+    "GUID": {
+      "name": "GUID",
+      "meaning": "Globally Unique IDentifier",
+      "provider": "wikipedia"
+    },
+    "CERT": {
+      "name": "CERT",
+      "meaning": "Computer emergency response team",
+      "provider": "wikipedia"
+    },
+    "OMG": {
+      "name": "OMG",
+      "meaning": "Object Management Group",
+      "provider": "wikipedia"
+    },
+    "FIPS": {
+      "name": "FIPS",
+      "meaning": "Federal Information Processing Standards",
+      "provider": "wikipedia"
+    },
+    "MIPS": {
+      "name": "MIPS",
+      "meaning": "Million Instructions Per Second",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Microprocessor without Interlocked Pipeline Stages",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "SLARP": {
+      "name": "SLARP",
+      "meaning": "Serial Line ARP",
+      "provider": "wikipedia"
+    },
+    "ZIF": {
+      "name": "ZIF",
+      "meaning": "Zero Insertion Force",
+      "provider": "wikipedia"
+    },
+    "ABI": {
+      "name": "ABI",
+      "meaning": "Application Binary Interface",
+      "provider": "wikipedia"
+    },
+    "MDI": {
+      "name": "MDI",
+      "meaning": "Multiple-Document Interface",
+      "provider": "wikipedia"
+    },
+    "CPF": {
+      "name": "CPF",
+      "meaning": "Control Program Facility",
+      "provider": "wikipedia"
+    },
+    "CGA": {
+      "name": "CGA",
+      "meaning": "Color graphics array",
+      "provider": "wikipedia"
+    },
+    "SVGA": {
+      "name": "SVGA",
+      "meaning": "Super Video Graphics Array",
+      "provider": "wikipedia"
+    },
+    "TPF": {
+      "name": "TPF",
+      "meaning": "Transaction Processing Facility",
+      "provider": "wikipedia"
+    },
+    "DDOS": {
+      "name": "DDOS",
+      "meaning": "Distributed Denial of Service",
+      "provider": "wikipedia"
+    },
+    "IHV": {
+      "name": "IHV",
+      "meaning": "Independent Hardware Vendor",
+      "provider": "wikipedia"
+    },
+    "CIO": {
+      "name": "CIO",
+      "meaning": "Chief information officer",
+      "provider": "wikipedia"
+    },
+    "JME": {
+      "name": "JME",
+      "meaning": "Java Micro Edition",
+      "provider": "wikipedia"
+    },
+    "MVS": {
+      "name": "MVS",
+      "meaning": "Multiple Virtual Storage",
+      "provider": "wikipedia"
+    },
+    "DES": {
+      "name": "DES",
+      "meaning": "Data Encryption Standard",
+      "provider": "wikipedia"
+    },
+    "JDK": {
+      "name": "JDK",
+      "meaning": "Java Development Kit",
+      "provider": "wikipedia"
+    },
+    "MAC": {
+      "name": "MAC",
+      "meaning": "Mandatory access control",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Message authentication code",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Media access control",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Medium access control",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "LPT": {
+      "name": "LPT",
+      "meaning": "Line Print Terminal",
+      "provider": "wikipedia"
+    },
+    "MSB": {
+      "name": "MSB",
+      "meaning": "Most Significant Bit",
+      "provider": "wikipedia"
+    },
+    "EDGE": {
+      "name": "EDGE",
+      "meaning": "Enhanced Data rates for GSM Evolution",
+      "provider": "wikipedia"
+    },
+    "TIA": {
+      "name": "TIA",
+      "meaning": "Telecommunications Industry Alliance",
+      "provider": "wikipedia"
+    },
+    "SD": {
+      "name": "SD",
+      "meaning": "Secure Digital",
+      "provider": "wikipedia"
+    },
+    "OAT": {
+      "name": "OAT",
+      "meaning": "Operational Acceptance Testing",
+      "provider": "wikipedia"
+    },
+    "ECN": {
+      "name": "ECN",
+      "meaning": "Explicit Congestion Notification",
+      "provider": "wikipedia"
+    },
+    "ZOPE": {
+      "name": "ZOPE",
+      "meaning": "Z Object Publishing Environment",
+      "provider": "wikipedia"
+    },
+    "XSD": {
+      "name": "XSD",
+      "meaning": "XML Schema Definition",
+      "provider": "wikipedia"
+    },
+    "OPML": {
+      "name": "OPML",
+      "meaning": "Outline Processor Markup Language",
+      "provider": "wikipedia"
+    },
+    "WORM": {
+      "name": "WORM",
+      "meaning": "Write Once Read Many",
+      "provider": "wikipedia"
+    },
+    "SCRAM": {
+      "name": "SCRAM",
+      "meaning": "Salted Challenge Response Authentication Mechanism",
+      "provider": "wikipedia"
+    },
+    "USB": {
+      "name": "USB",
+      "meaning": "Universal Serial Bus",
+      "provider": "wikipedia"
+    },
+    "ASP": {
+      "name": "ASP",
+      "meaning": "Active Server Pages",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Application Service Provider",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "HTM": {
+      "name": "HTM",
+      "meaning": "Hierarchical Temporal Memory",
+      "provider": "wikipedia"
+    },
+    "ADDS": {
+      "name": "ADDS",
+      "meaning": "Applied Digital Data Systems",
+      "provider": "wikipedia"
+    },
+    "SECC": {
+      "name": "SECC",
+      "meaning": "Single-Edged Contact Cartridge",
+      "provider": "wikipedia"
+    },
+    "RAT": {
+      "name": "RAT",
+      "meaning": "Radio access technology",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Remote access trojan",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "IDEA": {
+      "name": "IDEA",
+      "meaning": "International Data Encryption Algorithm",
+      "provider": "wikipedia"
+    },
+    "BCP": {
+      "name": "BCP",
+      "meaning": "Business continuity planning",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Best Current Practice",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "CP/M": {
+      "name": "CP/M",
+      "meaning": "Control Program/Monitor",
+      "provider": "wikipedia"
+    },
+    "VLSI": {
+      "name": "VLSI",
+      "meaning": "Very-Large-Scale Integration",
+      "provider": "wikipedia"
+    },
+    "AOT": {
+      "name": "AOT",
+      "meaning": "Ahead-Of-Time",
+      "provider": "wikipedia"
+    },
+    "SAX": {
+      "name": "SAX",
+      "meaning": "Simple API for XML",
+      "provider": "wikipedia"
+    },
+    "FDDI": {
+      "name": "FDDI",
+      "meaning": "Fiber Distributed Data Interface",
+      "provider": "wikipedia"
+    },
+    "DD": {
+      "name": "DD",
+      "meaning": "Double Density",
+      "provider": "wikipedia"
+    },
+    "SBOD": {
+      "name": "SBOD",
+      "meaning": "Spinning Beachball of Death",
+      "provider": "wikipedia"
+    },
+    "ABAC": {
+      "name": "ABAC",
+      "meaning": "Attribute-Based Access Control",
+      "provider": "wikipedia"
+    },
+    "VAR": {
+      "name": "VAR",
+      "meaning": "Value at risk",
+      "provider": "wikipedia"
+    },
+    "CNR": {
+      "name": "CNR",
+      "meaning": "Communications and Networking Riser",
+      "provider": "wikipedia"
+    },
+    "FLAC": {
+      "name": "FLAC",
+      "meaning": "Free Lossless Audio Codec",
+      "provider": "wikipedia"
+    },
+    "STP": {
+      "name": "STP",
+      "meaning": "Spanning Tree Protocol",
+      "provider": "wikipedia"
+    },
+    "DCCP": {
+      "name": "DCCP",
+      "meaning": "Datagram Congestion Control Protocol",
+      "provider": "wikipedia"
+    },
+    "BAL": {
+      "name": "BAL",
+      "meaning": "Basic Assembly Language",
+      "provider": "wikipedia"
+    },
+    "HECI": {
+      "name": "HECI",
+      "meaning": "Host Embedded Controller Interface",
+      "provider": "wikipedia"
+    },
+    "PR": {
+      "name": "PR",
+      "meaning": "Pull Request",
+      "provider": "wikipedia"
+    },
+    "NOOB": {
+      "name": "NOOB",
+      "meaning": "Nibble out-of-band authentication",
+      "provider": "wikipedia"
+    },
+    "AVC": {
+      "name": "AVC",
+      "meaning": "Advanced Video Coding",
+      "provider": "wikipedia"
+    },
+    "NRZ": {
+      "name": "NRZ",
+      "meaning": "Non-return-to-zero",
+      "provider": "wikipedia"
+    },
+    "RSR": {
+      "name": "RSR",
+      "meaning": "Rapid Security Response",
+      "provider": "wikipedia"
+    },
+    "SSE": {
+      "name": "SSE",
+      "meaning": "Streaming SIMD Extensions",
+      "provider": "wikipedia"
+    },
+    "ABR": {
+      "name": "ABR",
+      "meaning": "Area Border Router",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Auto Baud-Rate detection",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "NIST": {
+      "name": "NIST",
+      "meaning": "National Institute of Standards and Technology",
+      "provider": "wikipedia"
+    },
+    "BAM": {
+      "name": "BAM",
+      "meaning": "Block Availability Map",
+      "provider": "wikipedia"
+    },
+    "CN": {
+      "name": "CN",
+      "meaning": "Canonical Name",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Common Name",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "AES": {
+      "name": "AES",
+      "meaning": "Advanced Encryption Standard",
+      "provider": "wikipedia"
+    },
+    "NURBS": {
+      "name": "NURBS",
+      "meaning": "Non-Uniform Rational B-Spline",
+      "provider": "wikipedia"
+    },
+    "BPS": {
+      "name": "BPS",
+      "meaning": "bits per second",
+      "provider": "wikipedia"
+    },
+    "DAP": {
+      "name": "DAP",
+      "meaning": "Directory Access Protocol",
+      "provider": "wikipedia"
+    },
+    "GPRS": {
+      "name": "GPRS",
+      "meaning": "General Packet Radio Service",
+      "provider": "wikipedia"
+    },
+    "DPC": {
+      "name": "DPC",
+      "meaning": "Deferred Procedure Call",
+      "provider": "wikipedia"
+    },
+    "PEAP": {
+      "name": "PEAP",
+      "meaning": "Protected Extensible Authentication Protocol",
+      "provider": "wikipedia"
+    },
+    "DSA": {
+      "name": "DSA",
+      "meaning": "Digital Signature Algorithm",
+      "provider": "wikipedia"
+    },
+    "SUSE": {
+      "name": "SUSE",
+      "meaning": "Software und System-Entwicklung",
+      "provider": "wikipedia"
+    },
+    "PERL": {
+      "name": "PERL",
+      "meaning": "Practical Extraction and Reporting Language",
+      "provider": "wikipedia"
+    },
+    "CPU": {
+      "name": "CPU",
+      "meaning": "Central processing unit",
+      "provider": "wikipedia"
+    },
+    "IAAS": {
+      "name": "IAAS",
+      "meaning": "Infrastructure as a Service",
+      "provider": "wikipedia"
+    },
+    "ORB": {
+      "name": "ORB",
+      "meaning": "Object Request Broker",
+      "provider": "wikipedia"
+    },
+    "MTU": {
+      "name": "MTU",
+      "meaning": "Maximum Transmission Unit",
+      "provider": "wikipedia"
+    },
+    "VOD": {
+      "name": "VOD",
+      "meaning": "Video On Demand",
+      "provider": "wikipedia"
+    },
+    "NLP": {
+      "name": "NLP",
+      "meaning": "Natural Language Processing",
+      "provider": "wikipedia"
+    },
+    "VHD": {
+      "name": "VHD",
+      "meaning": "Virtual Hard Disk",
+      "provider": "wikipedia"
+    },
+    "MSA": {
+      "name": "MSA",
+      "meaning": "Message submission agent",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Master service agreement",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "FDD": {
+      "name": "FDD",
+      "meaning": "Frequency-Division Duplexing",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Floppy Disk Drive",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "SSO": {
+      "name": "SSO",
+      "meaning": "Single sign-on",
+      "provider": "wikipedia"
+    },
+    "UTRAN": {
+      "name": "UTRAN",
+      "meaning": "Universal Terrestrial Radio Access Network",
+      "provider": "wikipedia"
+    },
+    "KB": {
+      "name": "KB",
+      "meaning": "Knowledge Base",
+      "provider": "wikipedia"
+    },
+    "CTS": {
+      "name": "CTS",
+      "meaning": "Clear to send",
+      "provider": "wikipedia"
+    },
+    "MFA": {
+      "name": "MFA",
+      "meaning": "Multi-factor authentication",
+      "provider": "wikipedia"
+    },
+    "VOIP": {
+      "name": "VOIP",
+      "meaning": "Voice over Internet Protocol",
+      "provider": "wikipedia"
+    },
+    "VESA": {
+      "name": "VESA",
+      "meaning": "Video Electronics Standards Association",
+      "provider": "wikipedia"
+    },
+    "CIR": {
+      "name": "CIR",
+      "meaning": "Committed information rate",
+      "provider": "wikipedia"
+    },
+    "BSOD": {
+      "name": "BSOD",
+      "meaning": "Blue Screen of Death",
+      "provider": "wikipedia"
+    },
+    "SAN": {
+      "name": "SAN",
+      "meaning": "Subject Alternative Name",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Storage Area Network",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "CSU": {
+      "name": "CSU",
+      "meaning": "Channel service unit",
+      "provider": "wikipedia"
+    },
+    "ARIN": {
+      "name": "ARIN",
+      "meaning": "American Registry for Internet Numbers",
+      "provider": "wikipedia"
+    },
+    "MIC": {
+      "name": "MIC",
+      "meaning": "Message integrity code",
+      "provider": "wikipedia"
+    },
+    "VDI": {
+      "name": "VDI",
+      "meaning": "Virtual Desktop Infrastructure",
+      "provider": "wikipedia"
+    },
+    "AARP": {
+      "name": "AARP",
+      "meaning": "AppleTalk Address Resolution Protocol",
+      "provider": "wikipedia"
+    },
+    "ISATAP": {
+      "name": "ISATAP",
+      "meaning": "Intra-Site Automatic Tunnel Addressing Protocol",
+      "provider": "wikipedia"
+    },
+    "EPROM": {
+      "name": "EPROM",
+      "meaning": "Erasable Programmable Read-Only Memory",
+      "provider": "wikipedia"
+    },
+    "WLC": {
+      "name": "WLC",
+      "meaning": "Wireless LAN Controller",
+      "provider": "wikipedia"
+    },
+    "HDDVD": {
+      "name": "HDDVD",
+      "meaning": "High Definition DVD",
+      "provider": "wikipedia"
+    },
+    "RSI": {
+      "name": "RSI",
+      "meaning": "Repetitive Strain Injury",
+      "provider": "wikipedia"
+    },
+    "HASP": {
+      "name": "HASP",
+      "meaning": "Houston Automatic Spooling Priority",
+      "provider": "wikipedia"
+    },
+    "PFS": {
+      "name": "PFS",
+      "meaning": "Perfect forward secrecy",
+      "provider": "wikipedia"
+    },
+    "UI": {
+      "name": "UI",
+      "meaning": "User Interface",
+      "provider": "wikipedia"
+    },
+    "VDE": {
+      "name": "VDE",
+      "meaning": "Virtual Desktop Environment",
+      "provider": "wikipedia"
+    },
+    "BER": {
+      "name": "BER",
+      "meaning": "Basic Encoding Rules",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Bit Error Rate",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "ISDN": {
+      "name": "ISDN",
+      "meaning": "Integrated Services Digital Network",
+      "provider": "wikipedia"
+    },
+    "TFT": {
+      "name": "TFT",
+      "meaning": "Thin-Film Transistor",
+      "provider": "wikipedia"
+    },
+    "MFD": {
+      "name": "MFD",
+      "meaning": "Multi-function device",
+      "provider": "wikipedia"
+    },
+    "CQRS": {
+      "name": "CQRS",
+      "meaning": "Command Query Responsibility Segregation",
+      "provider": "wikipedia"
+    },
+    "MF": {
+      "name": "MF",
+      "meaning": "Medium Frequency",
+      "provider": "wikipedia"
+    },
+    "SCP": {
+      "name": "SCP",
+      "meaning": "Secure copy protocol",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Seattle Computer Products",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "ALE": {
+      "name": "ALE",
+      "meaning": "Annualized loss expectancy",
+      "provider": "wikipedia"
+    },
+    "ZCS": {
+      "name": "ZCS",
+      "meaning": "Zero Code Suppression",
+      "provider": "wikipedia"
+    },
+    "XPI": {
+      "name": "XPI",
+      "meaning": "XPInstall",
+      "provider": "wikipedia"
+    },
+    "VG": {
+      "name": "VG",
+      "meaning": "Volume Group",
+      "provider": "wikipedia"
+    },
+    "EGA": {
+      "name": "EGA",
+      "meaning": "Enhanced Graphics Array",
+      "provider": "wikipedia"
+    },
+    "IC": {
+      "name": "IC",
+      "meaning": "Integrated Circuit",
+      "provider": "wikipedia"
+    },
+    "VHF": {
+      "name": "VHF",
+      "meaning": "Very High Frequency",
+      "provider": "wikipedia"
+    },
+    "BSD": {
+      "name": "BSD",
+      "meaning": "Berkeley Software Distribution",
+      "provider": "wikipedia"
+    },
+    "ERD": {
+      "name": "ERD",
+      "meaning": "Entity–Relationship Diagram",
+      "provider": "wikipedia"
+    },
+    "MTS": {
+      "name": "MTS",
+      "meaning": "Michigan Terminal System",
+      "provider": "wikipedia"
+    },
+    "DER": {
+      "name": "DER",
+      "meaning": "Distinguished Encoding Rules",
+      "provider": "wikipedia"
+    },
+    "SEO": {
+      "name": "SEO",
+      "meaning": "Search Engine Optimization",
+      "provider": "wikipedia"
+    },
+    "GCM": {
+      "name": "GCM",
+      "meaning": "Galois/Counter Mode",
+      "provider": "wikipedia"
+    },
+    "EDR": {
+      "name": "EDR",
+      "meaning": "Endpoint detection and response",
+      "provider": "wikipedia"
+    },
+    "NBMA": {
+      "name": "NBMA",
+      "meaning": "Non-Broadcast Multiple Access",
+      "provider": "wikipedia"
+    },
+    "OLE": {
+      "name": "OLE",
+      "meaning": "Object Linking and Embedding",
+      "provider": "wikipedia"
+    },
+    "LFS": {
+      "name": "LFS",
+      "meaning": "Linux From Scratch",
+      "provider": "wikipedia"
+    },
+    "RRAS": {
+      "name": "RRAS",
+      "meaning": "Routing and Remote Access Service",
+      "provider": "wikipedia"
+    },
+    "CJK": {
+      "name": "CJK",
+      "meaning": "Chinese, Japanese, and Korean",
+      "provider": "wikipedia"
+    },
+    "LPC": {
+      "name": "LPC",
+      "meaning": "Lars Pensjö C",
+      "provider": "wikipedia"
+    },
+    "HOTP": {
+      "name": "HOTP",
+      "meaning": "HMAC-based one-time password",
+      "provider": "wikipedia"
+    },
+    "BRM": {
+      "name": "BRM",
+      "meaning": "Business Reference Model",
+      "provider": "wikipedia"
+    },
+    "SCCM": {
+      "name": "SCCM",
+      "meaning": "System Center Configuration Manager",
+      "provider": "wikipedia"
+    },
+    "HDD": {
+      "name": "HDD",
+      "meaning": "Hard Disk Drive",
+      "provider": "wikipedia"
+    },
+    "OAS": {
+      "name": "OAS",
+      "meaning": "Oracle Advanced Security",
+      "provider": "wikipedia"
+    },
+    "RTTI": {
+      "name": "RTTI",
+      "meaning": "Run-time Type Information",
+      "provider": "wikipedia"
+    },
+    "BBS": {
+      "name": "BBS",
+      "meaning": "Bulletin Board System",
+      "provider": "wikipedia"
+    },
+    "SIEM": {
+      "name": "SIEM",
+      "meaning": "Security information and event management",
+      "provider": "wikipedia"
+    },
+    "IRT": {
+      "name": "IRT",
+      "meaning": "Incident response team",
+      "provider": "wikipedia"
+    },
+    "CDN": {
+      "name": "CDN",
+      "meaning": "Content delivery network",
+      "provider": "wikipedia"
+    },
+    "RIR": {
+      "name": "RIR",
+      "meaning": "Regional Internet registry",
+      "provider": "wikipedia"
+    },
+    "IPAM": {
+      "name": "IPAM",
+      "meaning": "IP Address Management",
+      "provider": "wikipedia"
+    },
+    "MOSFET": {
+      "name": "MOSFET",
+      "meaning": "Metal-Oxide Semiconductor Field Effect Transistor",
+      "provider": "wikipedia"
+    },
+    "KC": {
+      "name": "KC",
+      "meaning": "Keyboard computer",
+      "provider": "wikipedia"
+    },
+    "PSTN": {
+      "name": "PSTN",
+      "meaning": "Public Switched Telephone Network",
+      "provider": "wikipedia"
+    },
+    "OSI": {
+      "name": "OSI",
+      "meaning": "Open System Interconnect",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Open Source Initiative",
+          "provider": "wikipedia"
+        },
+        {
+          "meaning": "Open Systems Interconnection",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "PVG": {
+      "name": "PVG",
+      "meaning": "Physical Volume Group",
+      "provider": "wikipedia"
+    },
+    "DSDL": {
+      "name": "DSDL",
+      "meaning": "Document Schema Definition Languages",
+      "provider": "wikipedia"
+    },
+    "CIT": {
+      "name": "CIT",
+      "meaning": "Computer Information Technology",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Center for Information Technology",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "PKCS": {
+      "name": "PKCS",
+      "meaning": "Public Key Cryptography Standards",
+      "provider": "wikipedia"
+    },
+    "API": {
+      "name": "API",
+      "meaning": "Application Programming Interface",
+      "provider": "wikipedia"
+    },
+    "BPDU": {
+      "name": "BPDU",
+      "meaning": "Bridge Protocol Data Units",
+      "provider": "wikipedia"
+    },
+    "NPTL": {
+      "name": "NPTL",
+      "meaning": "Native POSIX Thread Library",
+      "provider": "wikipedia"
+    },
+    "CFF": {
+      "name": "CFF",
+      "meaning": "Compact Font Format",
+      "provider": "wikipedia"
+    },
+    "HD": {
+      "name": "HD",
+      "meaning": "High Density",
+      "provider": "wikipedia"
+    },
+    "KEK": {
+      "name": "KEK",
+      "meaning": "Key encryption key",
+      "provider": "wikipedia"
+    },
+    "ACL": {
+      "name": "ACL",
+      "meaning": "Access Control List",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Active Current Loop",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "AI": {
+      "name": "AI",
+      "meaning": "Artificial Intelligence",
+      "provider": "wikipedia"
+    },
+    "ABCL": {
+      "name": "ABCL",
+      "meaning": "Actor-Based Concurrent Language",
+      "provider": "wikipedia"
+    },
+    "EDA": {
+      "name": "EDA",
+      "meaning": "Electronic Design Automation",
+      "provider": "wikipedia"
+    },
+    "DH": {
+      "name": "DH",
+      "meaning": "Diffie–Hellman",
+      "provider": "wikipedia"
+    },
+    "TFTP": {
+      "name": "TFTP",
+      "meaning": "Trivial File Transfer Protocol",
+      "provider": "wikipedia"
+    },
+    "BYOD": {
+      "name": "BYOD",
+      "meaning": "Bring Your Own Device",
+      "provider": "wikipedia"
+    },
+    "CTI": {
+      "name": "CTI",
+      "meaning": "Computer telephony integration",
+      "provider": "wikipedia"
+    },
+    "NAP": {
+      "name": "NAP",
+      "meaning": "Network Access Protection",
+      "provider": "wikipedia"
+    },
+    "PII": {
+      "name": "PII",
+      "meaning": "Personally identifiable information",
+      "provider": "wikipedia"
+    },
+    "NCR": {
+      "name": "NCR",
+      "meaning": "National Cash Register",
+      "provider": "wikipedia"
+    },
+    "IIOP": {
+      "name": "IIOP",
+      "meaning": "Internet Inter-Orb Protocol",
+      "provider": "wikipedia"
+    },
+    "OV": {
+      "name": "OV",
+      "meaning": "Organization validation",
+      "provider": "wikipedia"
+    },
+    "OSCON": {
+      "name": "OSCON",
+      "meaning": "O'Reilly Open Source CONvention",
+      "provider": "wikipedia"
+    },
+    "MPAA": {
+      "name": "MPAA",
+      "meaning": "Motion Picture Association of America",
+      "provider": "wikipedia"
+    },
+    "QFP": {
+      "name": "QFP",
+      "meaning": "Quad Flat Package",
+      "provider": "wikipedia"
+    },
+    "BOM": {
+      "name": "BOM",
+      "meaning": "Byte Order Mark",
+      "provider": "wikipedia"
+    },
+    "GML": {
+      "name": "GML",
+      "meaning": "Geography Markup Language",
+      "provider": "wikipedia"
+    },
+    "OLED": {
+      "name": "OLED",
+      "meaning": "Organic Light Emitting Diode",
+      "provider": "wikipedia"
+    },
+    "SPF": {
+      "name": "SPF",
+      "meaning": "Sender Policy Framework",
+      "provider": "wikipedia"
+    },
+    "ITL": {
+      "name": "ITL",
+      "meaning": "Interval Temporal Logic",
+      "provider": "wikipedia"
+    },
+    "UEM": {
+      "name": "UEM",
+      "meaning": "Unified endpoint management",
+      "provider": "wikipedia"
+    },
+    "MOO": {
+      "name": "MOO",
+      "meaning": "MUD Object Oriented",
+      "provider": "wikipedia"
+    },
+    "SIM": {
+      "name": "SIM",
+      "meaning": "Subscriber Identity Module",
+      "provider": "wikipedia"
+    },
+    "AWK": {
+      "name": "AWK",
+      "meaning": "Aho Weinberger Kernighan",
+      "provider": "wikipedia"
+    },
+    "MMS": {
+      "name": "MMS",
+      "meaning": "Multimedia Message Service",
+      "provider": "wikipedia"
+    },
+    "HPC": {
+      "name": "HPC",
+      "meaning": "High-Performance Computing",
+      "provider": "wikipedia"
+    },
+    "MIT": {
+      "name": "MIT",
+      "meaning": "Massachusetts Institute of Technology",
+      "provider": "wikipedia"
+    },
+    "VDM": {
+      "name": "VDM",
+      "meaning": "Virtual DOS machine",
+      "provider": "wikipedia"
+    },
+    "HPFS": {
+      "name": "HPFS",
+      "meaning": "High Performance File System",
+      "provider": "wikipedia"
+    },
+    "IPC": {
+      "name": "IPC",
+      "meaning": "Inter-Process Communication",
+      "provider": "wikipedia"
+    },
+    "FPU": {
+      "name": "FPU",
+      "meaning": "Floating-Point Unit",
+      "provider": "wikipedia"
+    },
+    "POTS": {
+      "name": "POTS",
+      "meaning": "Plain old telephone service",
+      "provider": "wikipedia"
+    },
+    "LVD": {
+      "name": "LVD",
+      "meaning": "Low Voltage Differential",
+      "provider": "wikipedia"
+    },
+    "ASG": {
+      "name": "ASG",
+      "meaning": "Abstract Semantic Graph",
+      "provider": "wikipedia"
+    },
+    "OFDM": {
+      "name": "OFDM",
+      "meaning": "Orthogonal frequency-division multiplexing",
+      "provider": "wikipedia"
+    },
+    "MTA": {
+      "name": "MTA",
+      "meaning": "Microsoft Technology Associate",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Mail Transfer Agent",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "RC4": {
+      "name": "RC4",
+      "meaning": "Rivest Cipher 4",
+      "provider": "wikipedia"
+    },
+    "WPA": {
+      "name": "WPA",
+      "meaning": "Wi-Fi Protected Access",
+      "provider": "wikipedia"
+    },
+    "EIA": {
+      "name": "EIA",
+      "meaning": "Electronics Industry Alliance",
+      "provider": "wikipedia"
+    },
+    "AAL": {
+      "name": "AAL",
+      "meaning": "ATM Adaptation Layer",
+      "provider": "wikipedia"
+    },
+    "RAN": {
+      "name": "RAN",
+      "meaning": "Radio access network",
+      "provider": "wikipedia"
+    },
+    "UEFI": {
+      "name": "UEFI",
+      "meaning": "Unified Extensible Firmware Interface",
+      "provider": "wikipedia"
+    },
+    "WFI": {
+      "name": "WFI",
+      "meaning": "Wait For Interrupt",
+      "provider": "wikipedia"
+    },
+    "AF": {
+      "name": "AF",
+      "meaning": "Anisotropic Filtering",
+      "provider": "wikipedia"
+    },
+    "SLI": {
+      "name": "SLI",
+      "meaning": "Scalable Link Interface",
+      "provider": "wikipedia"
+    },
+    "RPC": {
+      "name": "RPC",
+      "meaning": "Remote Procedure Call",
+      "provider": "wikipedia"
+    },
+    "AUP": {
+      "name": "AUP",
+      "meaning": "Acceptable use policy",
+      "provider": "wikipedia"
+    },
+    "ALAC": {
+      "name": "ALAC",
+      "meaning": "Apple Lossless Audio Codec",
+      "provider": "wikipedia"
+    },
+    "ASIC": {
+      "name": "ASIC",
+      "meaning": "Application-Specific Integrated Circuit",
+      "provider": "wikipedia"
+    },
+    "PSK": {
+      "name": "PSK",
+      "meaning": "Pre-shared key",
+      "provider": "wikipedia"
+    },
+    "RTL": {
+      "name": "RTL",
+      "meaning": "Right-to-Left",
+      "provider": "wikipedia"
+    },
+    "SLES": {
+      "name": "SLES",
+      "meaning": "SUSE Linux Enterprise Server",
+      "provider": "wikipedia"
+    },
+    "FL": {
+      "name": "FL",
+      "meaning": "Function Level",
+      "provider": "wikipedia"
+    },
+    "COM": {
+      "name": "COM",
+      "meaning": "Component Object Model or communication",
+      "provider": "wikipedia"
+    },
+    "SLE": {
+      "name": "SLE",
+      "meaning": "Single-loss expectancy",
+      "provider": "wikipedia"
+    },
+    "HT": {
+      "name": "HT",
+      "meaning": "Hyper Threading",
+      "provider": "wikipedia"
+    },
+    "NOP": {
+      "name": "NOP",
+      "meaning": "No OPeration",
+      "provider": "wikipedia"
+    },
+    "SOAR": {
+      "name": "SOAR",
+      "meaning": "Security orchestration, automation and response",
+      "provider": "wikipedia"
+    },
+    "EFI": {
+      "name": "EFI",
+      "meaning": "Extensible Firmware Interface",
+      "provider": "wikipedia"
+    },
+    "HA": {
+      "name": "HA",
+      "meaning": "High availability",
+      "provider": "wikipedia"
+    },
+    "PIR": {
+      "name": "PIR",
+      "meaning": "Public Interest Registry",
+      "provider": "wikipedia"
+    },
+    "NLE": {
+      "name": "NLE",
+      "meaning": "Non-Linear Editing system",
+      "provider": "wikipedia"
+    },
+    "CEI": {
+      "name": "CEI",
+      "meaning": "Comparably efficient interconnection",
+      "provider": "wikipedia"
+    },
+    "SMIL": {
+      "name": "SMIL",
+      "meaning": "Synchronized Multimedia Integration Language",
+      "provider": "wikipedia"
+    },
+    "AGP": {
+      "name": "AGP",
+      "meaning": "Accelerated Graphics Port",
+      "provider": "wikipedia"
+    },
+    "LISP": {
+      "name": "LISP",
+      "meaning": "LISt Processing",
+      "provider": "wikipedia"
+    },
+    "SCADA": {
+      "name": "SCADA",
+      "meaning": "Supervisory Control and Data Acquisition",
+      "provider": "wikipedia"
+    },
+    "CBC": {
+      "name": "CBC",
+      "meaning": "Cipher block chaining",
+      "provider": "wikipedia"
+    },
+    "BIND": {
+      "name": "BIND",
+      "meaning": "Berkeley Internet Name Domain",
+      "provider": "wikipedia"
+    },
+    "FAST": {
+      "name": "FAST",
+      "meaning": "Flexible Authenication via Secure Tunneling",
+      "provider": "wikipedia"
+    },
+    "GWT": {
+      "name": "GWT",
+      "meaning": "Google Web Toolkit",
+      "provider": "wikipedia"
+    },
+    "EV": {
+      "name": "EV",
+      "meaning": "Extended Validation Certificate",
+      "provider": "wikipedia"
+    },
+    "FS": {
+      "name": "FS",
+      "meaning": "Forward secrecy",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "File System",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "RIA": {
+      "name": "RIA",
+      "meaning": "Rich Internet Application",
+      "provider": "wikipedia"
+    },
+    "VDC": {
+      "name": "VDC",
+      "meaning": "Virtual data center",
+      "provider": "wikipedia"
+    },
+    "CAM": {
+      "name": "CAM",
+      "meaning": "Computer-aided manufacturing",
+      "provider": "wikipedia"
+    },
+    "GCR": {
+      "name": "GCR",
+      "meaning": "Group Coded Recording",
+      "provider": "wikipedia"
+    },
+    "VBA": {
+      "name": "VBA",
+      "meaning": "Visual Basic for Applications",
+      "provider": "wikipedia"
+    },
+    "YAST": {
+      "name": "YAST",
+      "meaning": "Yet another Setup Tool",
+      "provider": "wikipedia"
+    },
+    "FTTC": {
+      "name": "FTTC",
+      "meaning": "Fiber To The Curb",
+      "provider": "wikipedia"
+    },
+    "CAE": {
+      "name": "CAE",
+      "meaning": "Computer-aided engineering",
+      "provider": "wikipedia"
+    },
+    "LOC": {
+      "name": "LOC",
+      "meaning": "Lines of Code",
+      "provider": "wikipedia"
+    },
+    "MMU": {
+      "name": "MMU",
+      "meaning": "Memory Management Unit",
+      "provider": "wikipedia"
+    },
+    "PPI": {
+      "name": "PPI",
+      "meaning": "Pixels Per Inch",
+      "provider": "wikipedia"
+    },
+    "SNTP": {
+      "name": "SNTP",
+      "meaning": "Simple Network Time Protocol",
+      "provider": "wikipedia"
+    },
+    "CICS": {
+      "name": "CICS",
+      "meaning": "Customer Information Control System",
+      "provider": "wikipedia"
+    },
+    "J2SE": {
+      "name": "J2SE",
+      "meaning": "Java 2 Standard Edition",
+      "provider": "wikipedia"
+    },
+    "MII": {
+      "name": "MII",
+      "meaning": "Media-independent Interface",
+      "provider": "wikipedia"
+    },
+    "CSR": {
+      "name": "CSR",
+      "meaning": "Certificate signing request",
+      "provider": "wikipedia"
+    },
+    "LUG": {
+      "name": "LUG",
+      "meaning": "Linux User Group",
+      "provider": "wikipedia"
+    },
+    "MCITP": {
+      "name": "MCITP",
+      "meaning": "Microsoft Certified Information Technology Professional",
+      "provider": "wikipedia"
+    },
+    "LKML": {
+      "name": "LKML",
+      "meaning": "Linux Kernel Mailing List",
+      "provider": "wikipedia"
+    },
+    "MFT": {
+      "name": "MFT",
+      "meaning": "Master File Table",
+      "provider": "wikipedia"
+    },
+    "ALU": {
+      "name": "ALU",
+      "meaning": "Arithmetic and Logical Unit",
+      "provider": "wikipedia"
+    },
+    "VTL": {
+      "name": "VTL",
+      "meaning": "Virtual Tape Library",
+      "provider": "wikipedia"
+    },
+    "ARM": {
+      "name": "ARM",
+      "meaning": "Advanced RISC Machines",
+      "provider": "wikipedia"
+    },
+    "HF": {
+      "name": "HF",
+      "meaning": "High Frequency",
+      "provider": "wikipedia"
+    },
+    "IEN": {
+      "name": "IEN",
+      "meaning": "Internet Experiment Note",
+      "provider": "wikipedia"
+    },
+    "HIG": {
+      "name": "HIG",
+      "meaning": "Human Interface Guidelines",
+      "provider": "wikipedia"
+    },
+    "GPGPU": {
+      "name": "GPGPU",
+      "meaning": "General-Purpose Computing on Graphics Processing Units",
+      "provider": "wikipedia"
+    },
+    "HCL": {
+      "name": "HCL",
+      "meaning": "Hardware Compatibility List",
+      "provider": "wikipedia"
+    },
+    "UAT": {
+      "name": "UAT",
+      "meaning": "User Acceptance Testing",
+      "provider": "wikipedia"
+    },
+    "JCL": {
+      "name": "JCL",
+      "meaning": "Job Control Language",
+      "provider": "wikipedia"
+    },
+    "PCI": {
+      "name": "PCI",
+      "meaning": "Peripheral Component Interconnect",
+      "provider": "wikipedia"
+    },
+    "NDIS": {
+      "name": "NDIS",
+      "meaning": "Network Driver Interface Specification",
+      "provider": "wikipedia"
+    },
+    "SAML": {
+      "name": "SAML",
+      "meaning": "Security Assertion Markup Language",
+      "provider": "wikipedia"
+    },
+    "CORS": {
+      "name": "CORS",
+      "meaning": "Cross-origin resource sharing",
+      "provider": "wikipedia"
+    },
+    "PMM": {
+      "name": "PMM",
+      "meaning": "POST Memory Manager",
+      "provider": "wikipedia"
+    },
+    "LV": {
+      "name": "LV",
+      "meaning": "Logical Volume",
+      "provider": "wikipedia"
+    },
+    "ARP": {
+      "name": "ARP",
+      "meaning": "Address Resolution Protocol",
+      "provider": "wikipedia"
+    },
+    "YAGNI": {
+      "name": "YAGNI",
+      "meaning": "You Aren't Gonna Need It",
+      "provider": "wikipedia"
+    },
+    "RDF": {
+      "name": "RDF",
+      "meaning": "Resource Description Framework",
+      "provider": "wikipedia"
+    },
+    "SFD": {
+      "name": "SFD",
+      "meaning": "Start-of-frame delimiter",
+      "provider": "wikipedia"
+    },
+    "OT": {
+      "name": "OT",
+      "meaning": "Operational technology",
+      "provider": "wikipedia"
+    },
+    "ACK": {
+      "name": "ACK",
+      "meaning": "Amsterdam Compiler Kit",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "ACKnowledgement",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "PNAC": {
+      "name": "PNAC",
+      "meaning": "Port-based network access control",
+      "provider": "wikipedia"
+    },
+    "LAN": {
+      "name": "LAN",
+      "meaning": "Local Area Network",
+      "provider": "wikipedia"
+    },
+    "SUS": {
+      "name": "SUS",
+      "meaning": "Single UNIX Specification",
+      "provider": "wikipedia"
+    },
+    "NVR": {
+      "name": "NVR",
+      "meaning": "Network Video Recorder",
+      "provider": "wikipedia"
+    },
+    "BCC": {
+      "name": "BCC",
+      "meaning": "Blind Carbon Copy",
+      "provider": "wikipedia"
+    },
+    "TOTP": {
+      "name": "TOTP",
+      "meaning": "Time-based one-time password",
+      "provider": "wikipedia"
+    },
+    "JES": {
+      "name": "JES",
+      "meaning": "Job Entry Subsystem",
+      "provider": "wikipedia"
+    },
+    "NSN": {
+      "name": "NSN",
+      "meaning": "Network service name",
+      "provider": "wikipedia"
+    },
+    "SVD": {
+      "name": "SVD",
+      "meaning": "Structured VLSI Design",
+      "provider": "wikipedia"
+    },
+    "SDDL": {
+      "name": "SDDL",
+      "meaning": "Security Descriptor Definition Language",
+      "provider": "wikipedia"
+    },
+    "WDM": {
+      "name": "WDM",
+      "meaning": "Wavelength-Division Multiplexing",
+      "provider": "wikipedia"
+    },
+    "WLAN": {
+      "name": "WLAN",
+      "meaning": "Wireless Local Area Network",
+      "provider": "wikipedia"
+    },
+    "HFS": {
+      "name": "HFS",
+      "meaning": "Hierarchical File System",
+      "provider": "wikipedia"
+    },
+    "JPEG": {
+      "name": "JPEG",
+      "meaning": "Joint Photographic Experts Group",
+      "provider": "wikipedia"
+    },
+    "ANT": {
+      "name": "ANT",
+      "meaning": "Another Neat Tool",
+      "provider": "wikipedia"
+    },
+    "CRL": {
+      "name": "CRL",
+      "meaning": "Certificate revocation list",
+      "provider": "wikipedia"
+    },
+    "FTTP": {
+      "name": "FTTP",
+      "meaning": "Fiber To The Premises",
+      "provider": "wikipedia"
+    },
+    "ACID": {
+      "name": "ACID",
+      "meaning": "Atomicity Consistency Isolation Durability",
+      "provider": "wikipedia"
+    },
+    "SASL": {
+      "name": "SASL",
+      "meaning": "Simple Authentication and Security Layer",
+      "provider": "wikipedia"
+    },
+    "CSU/DSU": {
+      "name": "CSU/DSU",
+      "meaning": "Channel service unit / data service unit",
+      "provider": "wikipedia"
+    },
+    "OVAL": {
+      "name": "OVAL",
+      "meaning": "Open Vulnerability and Assessment Language",
+      "provider": "wikipedia"
+    },
+    "WOR": {
+      "name": "WOR",
+      "meaning": "Wake-on-Ring",
+      "provider": "wikipedia"
+    },
+    "DSDM": {
+      "name": "DSDM",
+      "meaning": "Dynamic Systems Development Method",
+      "provider": "wikipedia"
+    },
+    "DTO": {
+      "name": "DTO",
+      "meaning": "Data Transfer Object",
+      "provider": "wikipedia"
+    },
+    "VTAM": {
+      "name": "VTAM",
+      "meaning": "Virtual Telecommunications Access Method",
+      "provider": "wikipedia"
+    },
+    "FRU": {
+      "name": "FRU",
+      "meaning": "Field-Replaceable Unit",
+      "provider": "wikipedia"
+    },
+    "WSDL": {
+      "name": "WSDL",
+      "meaning": "Web Services Description Language",
+      "provider": "wikipedia"
+    },
+    "WPF": {
+      "name": "WPF",
+      "meaning": "Windows Presentation Foundation",
+      "provider": "wikipedia"
+    },
+    "ZPL": {
+      "name": "ZPL",
+      "meaning": "Z-level Programming Language",
+      "provider": "wikipedia"
+    },
+    "BPEL": {
+      "name": "BPEL",
+      "meaning": "Business Process Execution Language",
+      "provider": "wikipedia"
+    },
+    "ESP": {
+      "name": "ESP",
+      "meaning": "Encapsulating Security Payload",
+      "provider": "wikipedia"
+    },
+    "QC": {
+      "name": "QC",
+      "meaning": "Quality control",
+      "provider": "wikipedia",
+      "extras": [
+        {
+          "meaning": "Quick Charge",
+          "provider": "wikipedia"
+        }
+      ]
+    },
+    "NAN": {
+      "name": "NAN",
+      "meaning": "Not a Number",
+      "provider": "wikipedia"
+    },
+    "SATA": {
+      "name": "SATA",
+      "meaning": "Serial AT Attachment",
+      "provider": "wikipedia"
+    },
+    "ACP": {
+      "name": "ACP",
+      "meaning": "Airline Control Program",
+      "provider": "wikipedia"
+    },
+    "PDA": {
+      "name": "PDA",
+      "meaning": "Personal Digital Assistant",
+      "provider": "wikipedia"
+    },
+    "HDLC": {
+      "name": "HDLC",
+      "meaning": "High-level Data Link Control",
+      "provider": "wikipedia"
+    },
+    "PGP": {
+      "name": "PGP",
+      "meaning": "Pretty Good Privacy",
+      "provider": "wikipedia"
+    },
+    "ENIAC": {
+      "name": "ENIAC",
+      "meaning": "Electronic Numerical Integrator And Computer",
+      "provider": "wikipedia"
+    },
+    "NAT": {
+      "name": "NAT",
+      "meaning": "Network address translation",
+      "provider": "wikipedia"
+    },
+    "IBM": {
+      "name": "IBM",
+      "meaning": "International Business Machines",
+      "provider": "wikipedia"
+    },
+    "RSBAC": {
+      "name": "RSBAC",
+      "meaning": "Rule-set-based access control",
+      "provider": "wikipedia"
+    },
+    "UTP": {
+      "name": "UTP",
+      "meaning": "Unshielded Twisted Pair",
+      "provider": "wikipedia"
+    },
+    "LZW": {
+      "name": "LZW",
+      "meaning": "Lempel-Ziv-Welch",
+      "provider": "wikipedia"
+    },
+    "WAIS": {
+      "name": "WAIS",
+      "meaning": "Wide Area Information Server",
+      "provider": "wikipedia"
+    },
+    "GPO": {
+      "name": "GPO",
+      "meaning": "Group Policy Object",
+      "provider": "wikipedia"
+    },
+    "BNC": {
+      "name": "BNC",
+      "meaning": "Baby Neill Constant",
+      "provider": "wikipedia"
+    },
+    "CT": {
+      "name": "CT",
+      "meaning": "Computerized tomography",
+      "provider": "wikipedia"
+    },
+    "DW": {
+      "name": "DW",
+      "meaning": "Data Warehouse",
+      "provider": "wikipedia"
+    },
+    "POP": {
+      "name": "POP",
+      "meaning": "Point of Presence",
+      "provider": "wikipedia"
+    },
+    "ML": {
+      "name": "ML",
+      "meaning": "Machine Learning",
+      "provider": "wikipedia"
+    },
+    "GIMP": {
+      "name": "GIMP",
+      "meaning": "GNU Image Manipulation Program",
+      "provider": "wikipedia"
+    },
+    "NIPS": {
+      "name": "NIPS",
+      "meaning": "Network-based intrusion prevention system",
+      "provider": "wikipedia"
+    },
+    "XNS": {
+      "name": "XNS",
+      "meaning": "Xerox Network Systems",
+      "provider": "wikipedia"
+    },
+    "TIFF": {
+      "name": "TIFF",
+      "meaning": "Tagged Image File Format",
+      "provider": "wikipedia"
+    },
+    "CER": {
+      "name": "CER",
+      "meaning": "Canonical Encoding Rules",
+      "provider": "wikipedia"
+    },
+    "DP": {
+      "name": "DP",
+      "meaning": "Dot Pitch",
+      "provider": "wikipedia"
+    },
+    "SDL": {
+      "name": "SDL",
+      "meaning": "Simple DirectMedia Layer",
+      "provider": "wikipedia"
+    },
+    "VRML": {
+      "name": "VRML",
+      "meaning": "Virtual Reality Modeling Language",
+      "provider": "wikipedia"
+    },
+    "DCC": {
+      "name": "DCC",
+      "meaning": "Direct Client-to-Client",
+      "provider": "wikipedia"
+    },
+    "PAN": {
+      "name": "PAN",
+      "meaning": "Personal Area Network",
+      "provider": "wikipedia"
+    },
+    "NNRP": {
+      "name": "NNRP",
+      "meaning": "Network News Reader Protocol",
+      "provider": "wikipedia"
+    },
+    "JBOD": {
+      "name": "JBOD",
+      "meaning": "Just a Bunch of Disks",
+      "provider": "wikipedia"
+    },
+    "MTTR": {
+      "name": "MTTR",
+      "meaning": "Mean time to repair",
+      "provider": "wikipedia"
+    },
+    "SVOT": {
+      "name": "SVOT",
+      "meaning": "Single version of the truth",
+      "provider": "wikipedia"
+    },
+    "IPP": {
+      "name": "IPP",
+      "meaning": "Internet Printing Protocol",
+      "provider": "wikipedia"
+    },
+    "RPO": {
+      "name": "RPO",
+      "meaning": "Recovery Point Objective",
+      "provider": "wikipedia"
+    },
+    "CAQ": {
+      "name": "CAQ",
+      "meaning": "Computer-aided quality assurance",
+      "provider": "wikipedia"
+    },
+    "NPU": {
+      "name": "NPU",
+      "meaning": "Network Processing Unit",
+      "provider": "wikipedia"
+    },
+    "LED": {
+      "name": "LED",
+      "meaning": "Light-Emitting Diode",
+      "provider": "wikipedia"
+    },
+    "FUD": {
+      "name": "FUD",
+      "meaning": "Fear Uncertainty Doubt",
+      "provider": "wikipedia"
+    },
+    "ASM": {
+      "name": "ASM",
+      "meaning": "Algorithmic State Machine",
+      "provider": "wikipedia"
+    },
+    "AGI": {
+      "name": "AGI",
+      "meaning": "Artificial General Intelligence",
+      "provider": "wikipedia"
+    },
+    "WWAN": {
+      "name": "WWAN",
+      "meaning": "Wireless Wide Area Network",
+      "provider": "wikipedia"
+    },
+    "DEC": {
+      "name": "DEC",
+      "meaning": "Digital Equipment Corporation",
+      "provider": "wikipedia"
+    },
+    "UART": {
+      "name": "UART",
+      "meaning": "Universal Asynchronous Receiver/Transmitter",
+      "provider": "wikipedia"
+    },
+    "CDMA": {
+      "name": "CDMA",
+      "meaning": "Code-division multiple access",
+      "provider": "wikipedia"
+    },
+    "JDS": {
+      "name": "JDS",
+      "meaning": "Java Desktop System",
+      "provider": "wikipedia"
+    },
+    "PIO": {
+      "name": "PIO",
+      "meaning": "Programmed Input/Output",
+      "provider": "wikipedia"
+    },
+    "RISCOS": {
+      "name": "RISCOS",
+      "meaning": "Reduced Instruction Set Computer Operating System",
+      "provider": "wikipedia"
+    },
+    "CRC": {
+      "name": "CRC",
+      "meaning": "Cyclic redundancy check",
+      "provider": "wikipedia"
+    },
+    "ULA": {
+      "name": "ULA",
+      "meaning": "Uncommitted Logic Array",
+      "provider": "wikipedia"
+    },
+    "TSP": {
+      "name": "TSP",
+      "meaning": "Traveling Salesman Problem",
+      "provider": "wikipedia"
+    },
+    "OMTP": {
+      "name": "OMTP",
+      "meaning": "Open Mobile Terminal Platform",
+      "provider": "wikipedia"
+    },
+    "RTAI": {
+      "name": "RTAI",
+      "meaning": "Real-Time Application Interface",
+      "provider": "wikipedia"
+    },
+    "CTM": {
+      "name": "CTM",
+      "meaning": "Close To Metal",
+      "provider": "wikipedia"
+    },
+    "CPS": {
+      "name": "CPS",
+      "meaning": "Characters per second",
+      "provider": "wikipedia"
+    },
+    "CSO": {
+      "name": "CSO",
+      "meaning": "Chief security officer]]",
+      "provider": "wikipedia"
+    },
+    "QA": {
+      "name": "QA",
+      "meaning": "Quality assurance",
+      "provider": "wikipedia"
+    },
+    "EDI": {
+      "name": "EDI",
+      "meaning": "Electronic Data Interchange",
+      "provider": "wikipedia"
+    },
+    "ITIL": {
+      "name": "ITIL",
+      "meaning": "Information Technology Infrastructure Library",
+      "provider": "wikipedia"
+    },
+    "NIO": {
+      "name": "NIO",
+      "meaning": "Non-blocking I/O",
+      "provider": "wikipedia"
+    },
+    "DDR": {
+      "name": "DDR",
+      "meaning": "Double Data Rate",
+      "provider": "wikipedia"
+    },
+    "MOTD": {
+      "name": "MOTD",
+      "meaning": "Message Of The Day",
+      "provider": "wikipedia"
+    },
+    "CAT": {
+      "name": "CAT",
+      "meaning": "Computer-aided translation",
+      "provider": "wikipedia"
+    },
+    "ZCAV": {
+      "name": "ZCAV",
+      "meaning": "Zone Constant Angular Velocity",
+      "provider": "wikipedia"
+    },
+    "CDSA": {
+      "name": "CDSA",
+      "meaning": "Common Data Security Architecture",
+      "provider": "wikipedia"
+    },
+    "SSDP": {
+      "name": "SSDP",
+      "meaning": "Simple Service Discovery Protocol",
+      "provider": "wikipedia"
+    },
+    "RHEL": {
+      "name": "RHEL",
+      "meaning": "Red Hat Enterprise Linux",
+      "provider": "wikipedia"
+    },
+    "PEM": {
+      "name": "PEM",
+      "meaning": "Privacy-Enhanced Mail",
+      "provider": "wikipedia"
+    },
+    "GTC": {
+      "name": "GTC",
+      "meaning": "Generic Token Card",
+      "provider": "wikipedia"
+    },
+    "QDR": {
+      "name": "QDR",
+      "meaning": "Quad Data Rate",
+      "provider": "wikipedia"
+    },
+    "VMM": {
+      "name": "VMM",
+      "meaning": "Virtual Machine Monitor",
+      "provider": "wikipedia"
+    },
+    "GOMS": {
+      "name": "GOMS",
+      "meaning": "Goals, Operators, Methods, and Selection rules",
+      "provider": "wikipedia"
+    },
+    "SBS": {
+      "name": "SBS",
+      "meaning": "Small Business Server",
+      "provider": "wikipedia"
+    },
+    "FDM": {
+      "name": "FDM",
+      "meaning": "Frequency-Division Multiplexing",
+      "provider": "wikipedia"
+    },
+    "CQS": {
+      "name": "CQS",
+      "meaning": "Command–query separation",
+      "provider": "wikipedia"
+    },
+    "RTP": {
+      "name": "RTP",
+      "meaning": "Real-time Transport Protocol",
+      "provider": "wikipedia"
+    },
+    "SOW": {
+      "name": "SOW",
+      "meaning": "Statement of work",
+      "provider": "wikipedia"
+    },
+    "SSL": {
+      "name": "SSL",
+      "meaning": "Secure Sockets Layer",
+      "provider": "wikipedia"
+    },
+    "IGRP": {
+      "name": "IGRP",
+      "meaning": "Interior Gateway Routing Protocol",
+      "provider": "wikipedia"
+    },
+    "CASE": {
+      "name": "CASE",
+      "meaning": "Computer-aided software engineering",
+      "provider": "wikipedia"
+    },
+    "JFET": {
+      "name": "JFET",
+      "meaning": "Junction Field-Effect Transistor",
+      "provider": "wikipedia"
+    },
+    "QTAM": {
+      "name": "QTAM",
+      "meaning": "Queued Teleprocessing Access Method",
+      "provider": "wikipedia"
+    },
+    "RPM": {
+      "name": "RPM",
+      "meaning": "RPM Package Manager",
+      "provider": "wikipedia"
+    },
+    "FCB": {
+      "name": "FCB",
+      "meaning": "File Control Block",
+      "provider": "wikipedia"
+    },
+    "POJO": {
+      "name": "POJO",
+      "meaning": "Plain Old Java Object",
+      "provider": "wikipedia"
+    },
+    "DAT": {
+      "name": "DAT",
+      "meaning": "Digital Audio Tape",
+      "provider": "wikipedia"
+    },
+    "VPU": {
+      "name": "VPU",
+      "meaning": "Visual Processing Unit",
+      "provider": "wikipedia"
+    },
+    "DCOM": {
+      "name": "DCOM",
+      "meaning": "Distributed Component Object Model",
+      "provider": "wikipedia"
+    },
+    "ZOI": {
+      "name": "ZOI",
+      "meaning": "Zero One Infinity",
+      "provider": "wikipedia"
+    },
+    "PCIE": {
+      "name": "PCIE",
+      "meaning": "PCI Express",
+      "provider": "wikipedia"
+    },
+    "XDMCP": {
+      "name": "XDMCP",
+      "meaning": "X Display Manager Control Protocol",
+      "provider": "wikipedia"
+    },
+    "CHAP": {
+      "name": "CHAP",
+      "meaning": "Challenge-Handshake Authentication Protocol",
+      "provider": "wikipedia"
+    },
+    "ATAPI": {
+      "name": "ATAPI",
+      "meaning": "Advanced Technology Attachment Packet Interface",
+      "provider": "wikipedia"
+    },
+    "VSAT": {
+      "name": "VSAT",
+      "meaning": "Very Small Aperture Terminal",
+      "provider": "wikipedia"
+    },
+    "POTP": {
+      "name": "POTP",
+      "meaning": "Protected One-Time Password",
+      "provider": "wikipedia"
+    },
+    "FMC": {
+      "name": "FMC",
+      "meaning": "Fixed Mobile Convergence \"Mobile UC or Unified Communications over Wireless\"",
+      "provider": "wikipedia"
+    },
+    "DGD": {
+      "name": "DGD",
+      "meaning": "Dworkin's Game Driver",
+      "provider": "wikipedia"
+    },
+    "BRS": {
+      "name": "BRS",
+      "meaning": "Broadband Radio Service",
+      "provider": "wikipedia"
+    },
+    "YAML": {
+      "name": "YAML",
+      "meaning": "YAML Ain't Markup Language",
+      "provider": "wikipedia"
+    },
+    "UBA": {
+      "name": "UBA",
+      "meaning": "User behavior analytics",
+      "provider": "wikipedia"
+    },
+    "VR": {
+      "name": "VR",
+      "meaning": "Virtual Reality",
+      "provider": "wikipedia"
+    },
+    "JTAG": {
+      "name": "JTAG",
+      "meaning": "Joint Test Action Group",
+      "provider": "wikipedia"
+    }
+  }
+}
