@@ -34,6 +34,6 @@ buildPythonApplication {
 
   meta = {
     license = lib.licenses.gpl3;
-    mainProgram = "pycronyms_guess";
+    mainProgram = "pycronyms";
   };
 }

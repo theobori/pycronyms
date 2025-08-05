@@ -4,7 +4,9 @@
 
 [![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
 
-This GitHub repository is a fun project, the main purpose of which is to maintain JSON files containing acronyms and initialism. These JSON files are generated using the Python module pycronyms, which exposes a library as well as a CLI.
+This GitHub repository is a fun project, the main purpose of which is to maintain [JSON files](pycronyms_output) containing acronyms and initialism. These JSON files are generated using the Python module pycronyms, which exposes a library as well as a CLI.
+
+This project is inspired by [hosts](https://github.com/StevenBlack/hosts), which maintains hosts files for name resolution.
 
 ## Definition
 
@@ -12,7 +14,7 @@ It's important to clarify what an acronym is before reading any further.
 
 An abbreviation is the reduction of a word to a few letters.
 An initialism is an abbreviation made up of initial letters.
-An Acronym is an acronym pronounced like a word.
+An Acronym is an initialism pronounced like a word.
 
 ## How it works
 
@@ -26,7 +28,7 @@ The library's entry point is the `Pycronyms` class, which manages acronym provid
 
 ### Acronyms
 
-In the library, acronyms and initialisms are represented by Python objects called `Acronym`. These are [Pydantic](https://docs.pydantic.dev/latest/)data models which normalize the values and check that the acronym conforms. For example, the name of the acronym must match its meaning.
+In the library, acronyms and initialisms are represented by Python objects called `Acronym`. These are [Pydantic](https://docs.pydantic.dev/latest/) data models which normalize the values and check that the acronym conforms. For example, the name of the acronym must match its meaning.
 
 ## Logging
 

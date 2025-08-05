@@ -12,7 +12,7 @@ from collections import defaultdict
 from pycronyms.pycronyms import Pycronyms
 from pycronyms.providers import Wikipedia
 from pycronyms.providers import Custom
-from pycronyms._common import create_recursive_dict
+from pycronyms._common import create_recursive_dict, sorted_recursive
 from pycronyms.provider_helper import AcronymsDict
 
 logger = logging.getLogger(__file__)
@@ -247,7 +247,7 @@ def generate(dir: Path) -> NoReturn:
     os.makedirs(dir, exist_ok=True)
     logger.info(f"Created the directory {dir.absolute()} if needed")
 
-    acronyms_dict = pycronms.acronyms_dict
+    acronyms_dict = sorted_recursive(pycronms.acronyms_dict)
 
     try:
         write_acronyms(acronyms_dict, dir)
