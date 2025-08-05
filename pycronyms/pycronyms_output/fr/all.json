@@ -2,7 +2,6 @@
   "common": {
     "COM": {
       "meaning": "Collectivité d’outre-mer",
-      "name": "COM",
       "provider": "custom"
     },
     "TGV": {
@@ -13,19 +12,16 @@
         }
       ],
       "meaning": "Très Grande Vitesse",
-      "name": "TGV",
       "provider": "custom"
     }
   },
   "computer_science": {
     "DD": {
       "meaning": "Disque dur",
-      "name": "DD",
       "provider": "custom"
     },
     "UC": {
       "meaning": "Unité Centrale",
-      "name": "UC",
       "provider": "custom"
     }
   }

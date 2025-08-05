@@ -1,8 +1,9 @@
 from typing import Set, Any, Self, Dict
+from collections import deque
 
 from pycronyms._common import normalize_str, remove_parenthesis_content
 
-from pydantic import BaseModel, model_validator, Field
+from pydantic import BaseModel, model_validator, Field, RootModel
 
 
 def is_acronym_meaning_valid(acronym: str, meaning: str) -> bool:
@@ -130,3 +131,85 @@ class Acronym(BaseModel):
             )
 
         return self
+
+    def to_dict(self) -> dict:
+        """Returns a dctionnary that represent the Acronym object.
+
+        Returns:
+            dict: The dict.
+        """
+
+        d = {}
+
+        d["name"] = self.name
+        d["meaning"] = self.meaning
+        d["provider"] = self.provider
+
+        if len(self.extras) == 0:
+            return d
+
+        d["extras"] = []
+
+        st = deque(self.extras)
+        while st:
+            extra = st.pop()
+
+            value = {
+                "meaning": extra.meaning,
+                "provider": extra.provider,
+            }
+
+            d["extras"].append(value)
+
+            for e in extra.extras:
+                st.append(e)
+
+        return d
+
+    @staticmethod
+    def from_dict(d: dict) -> Self:
+        """Returns an Acronym object from a dictionnary. We assume
+        that the dictionnary is well formed.
+
+        Args:
+            d (dict): The dictionnary.
+
+        Returns:
+            Self: The Acronym object.
+        """
+
+        acronym = Acronym(name=d["name"], meaning=d["meaning"], provider=d["provider"])
+
+        if "extras" in d:
+            extras = d["extras"]
+
+            for extra in extras:
+                extra_acronym = Acronym(
+                    name=d["name"],
+                    meaning=extra["meaning"],
+                    provider=extra["provider"],
+                )
+                acronym.add_extra(extra_acronym)
+
+        return acronym
+
+    def get_meanings(self) -> Set[str]:
+        """Returns every meanings of the acronym in a hashset.
+
+        Returns:
+            Set[str]: The meanings.
+        """
+
+        def inner(acronym: Self) -> Set[str]:
+            meanings: Set[str] = {acronym.meaning}
+
+            for extra in acronym.extras:
+                extras = inner(extra)
+
+                meanings = meanings.union(extras)
+
+            return meanings
+
+        meanings = inner(self)
+
+        return meanings

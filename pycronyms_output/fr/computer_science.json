@@ -1,12 +1,10 @@
 {
   "DD": {
     "meaning": "Disque dur",
-    "name": "DD",
     "provider": "custom"
   },
   "UC": {
     "meaning": "Unité Centrale",
-    "name": "UC",
     "provider": "custom"
   }
 }

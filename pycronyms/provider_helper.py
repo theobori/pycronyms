@@ -9,8 +9,14 @@ from pycronyms.acronym import Acronym
 from pycronyms.exceptions import MissingAcronymError, FetchAcronymsError
 from pycronyms.provider import Provider
 
+from pydantic import BaseModel, Field
+
 type Acronyms = Dict[Language, Dict[Category, Dict[str, Acronym]]]
 type AcronymsDict = Dict[str, Dict[str, Dict[str, dict]]]
+
+
+class AcronymsDictSchema(BaseModel):
+    pass
 
 
 class ProviderHelper(Provider):
@@ -42,24 +48,17 @@ class ProviderHelper(Provider):
             AcronymsDict: The dictionnary new object.
         """
 
-        d: Acronyms = create_recursive_dict(Acronym, depth=3)
+        d: AcronymsDict = create_recursive_dict(Acronym, depth=3)
 
         for language, lv in self._acronyms.items():
             for category, cv in lv.items():
                 for acronym_name, acronym in cv.items():
+                    acronym_dict = acronym.to_dict()
+                    del acronym_dict["name"]
+
                     d[language.iso_639_1_code][category.value][acronym_name] = (
-                        acronym.model_dump()
+                        acronym_dict
                     )
-
-                    if len(acronym.extras) == 0:
-                        continue
-
-                    extras = d[language.iso_639_1_code][category.value][acronym_name][
-                        "extras"
-                    ]
-
-                    for i in range(len(extras)):
-                        del extras[i]["name"]
 
         return d
 

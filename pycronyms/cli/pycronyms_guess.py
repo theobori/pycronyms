@@ -4,19 +4,20 @@ import logging
 import sys
 import random
 
-from typing import NoReturn, Any, Optional, Tuple, Set
+from typing import NoReturn, Any, Optional, Tuple, Set, Dict, Union
 from argparse import ArgumentParser, _SubParsersAction
 from pathlib import Path
 
 from pycronyms.language import Language
 from pycronyms.category import Category
 from pycronyms.exceptions import PycronymsError
-from pycronyms.provider_helper import AcronymsDict
+from pycronyms.provider_helper import AcronymsDict, Acronyms
+from pycronyms.acronym import Acronym
+from pycronyms._common import create_recursive_dict
 
 from pycronyms.cli.pycronyms_generate import OUTPUT_DIRNAME
 
 from thefuzz import process
-
 
 logger = logging.getLogger(__file__)
 
@@ -41,7 +42,7 @@ def create_subparser_guess(
         required=False,
         default=None,
         type=str,
-        choices=[l.iso_639_1_code for l in Language],
+        choices=Language._member_map_.values(),
     )
     parser.add_argument(
         "-c",
@@ -81,40 +82,21 @@ def read_json_file(path: Path) -> Any:
     return obj
 
 
-def get_meanings(acronym_dict: dict) -> Set[str]:
-    """Return a set containing every meaning of a given acronym.
-
-    Args:
-        acronym_dict (dict): Every acronym dict.
-
-    Returns:
-        Set[str]: The acronym meanings.
-    """
-
-    meanings: Set[str] = {acronym_dict["meaning"]}
-
-    if "extras" in acronym_dict:
-        extras = [extra["meaning"] for extra in acronym_dict["extras"]]
-        meanings = meanings.union(extras)
-
-    return meanings
-
-
-def get_meanings_controller(
-    acronyms_dict: AcronymsDict,
-    language: Optional[str],
-    category: Optional[str],
+def get_metadatas(
+    acronyms: Acronyms,
+    language: Optional[Language],
+    category: Optional[Category],
     name: Optional[str],
 ) -> Tuple[str, Set[str], str, str]:
-    """Get the meanings CLI controller, it returns an acronym meaning with
+    """Get the acronym metadatas, it returns an acronym meaning with
     specific given parameters. If there are no language and no category,
     they will be selected randomly, same behavior for the name.
 
     Args:
-        acronyms_dict (AcronymsDict): Every acronyms dict.
-        language (Optional[str]): The optional acronym language
-        category (Optional[str]): The optional acronym category
-        name (Optional[str]): The acronym name
+        acronyms (AcronymsDict): Every acronyms dict.
+        language (Optional[Language]): The optional acronym language
+        category (Optional[Category]): The optional acronym category
+        name (Optional[str]): The optional acronym name
 
     Raises:
         PycronymsError: It has found zero acronyms
@@ -126,27 +108,27 @@ def get_meanings_controller(
     """
 
     if language and category:
-        if not language in acronyms_dict:
+        if not language in acronyms:
             raise PycronymsError(f"The language {language} has zero acronyms.")
 
-        categories_dict = acronyms_dict[language]
-        if not category in categories_dict:
+        categories = acronyms[language]
+        if not category in categories:
             raise PycronymsError(
                 f"The category {category} with the langugage {language} has zero acronyms."
             )
 
-        acronyms_dict = categories_dict[category]
+        acronyms = categories[category]
     elif language is None and category is None:
         if name:
             raise PycronymsError(
                 "The name parameter should not be used without the others."
             )
 
-        language = random.choice(list(acronyms_dict))
-        categories_dict = acronyms_dict[language]
+        language = random.choice(list(acronyms))
+        categories = acronyms[language]
 
-        category = random.choice(list(categories_dict))
-        acronyms_dict = categories_dict[category]
+        category = random.choice(list(categories))
+        acronyms = categories[category]
     else:
         raise PycronymsError(
             "When specyfing parameters, you must at least have language and category."
@@ -154,11 +136,11 @@ def get_meanings_controller(
 
     acronym_name: str
     if name is None:
-        acronym_name = random.choice(list(acronyms_dict))
+        acronym_name = random.choice(list(acronyms))
     else:
         name = name.upper()
 
-        if not name in acronyms_dict:
+        if not name in acronyms:
             raise PycronymsError(
                 f"The acronym '{name}' has not been fetched "
                 f"with the language '{language}' "
@@ -167,30 +149,30 @@ def get_meanings_controller(
 
         acronym_name = name.upper()
 
-    acronym_dict = acronyms_dict[acronym_name]
-    meanings = get_meanings(acronym_dict)
+    acronym: Acronym = acronyms[acronym_name]
+    meanings = acronym.get_meanings()
 
     return acronym_name, meanings, language, category
 
 
 def guess_meanings(
-    name: str, meanings: Set[str], language: str, category: str
+    name: str, meanings: Set[str], language: Language, category: Category
 ) -> NoReturn:
     """Guess game run loop.
 
     Args:
         name (str): The acronym name
         meanings (Set[str]): The acronym meanings.
-        language (str): The acronym language.
-        category (str): The acronym category.
+        language (Language): The acronym language.
+        category (Category): The acronym category.
     """
 
     total_amount = len(meanings)
 
     print(
         f"The acronym '{name}' has {len(meanings)} meanings "
-        f"with the language '{language}' "
-        f"and the category '{category}'.\n"
+        f"with the language '{language.iso_639_1_code}' "
+        f"and the category '{category.value}'.\n"
         "To leave the guessing game, write 'quit'"
     )
 
@@ -232,27 +214,63 @@ def guess_meanings(
     )
 
 
-def guess(language: str, category: str, name: str, dir: Path) -> NoReturn:
+def get_acronyms_from_json_path(path: Path) -> Acronyms:
+    """Build a dict of acronyms with language and category.
+
+    Args:
+        path (Path): The directory path.
+
+    Returns:
+        Acronyms: The acronyms dict.
+    """
+
+    acronyms_dict: AcronymsDict = read_json_file(path)
+
+    acronyms: Acronyms = create_recursive_dict(Acronym, 3)
+
+    for lk, lv in acronyms_dict.items():
+        for ck, cv in lv.items():
+            for acronym_name, d in cv.items():
+                d["name"] = acronym_name
+
+                acronym = Acronym.from_dict(d)
+
+                l = Language._value2member_map_[lk]
+                c = Category._value2member_map_[ck]
+
+                acronyms[l][c][acronym_name] = acronym
+
+    return acronyms
+
+
+def guess(
+    iso_639_1_code: Optional[str], category_str: Optional[str], name: str, dir: Path
+) -> NoReturn:
     """Guess game, the goal is to found the meaning of an selected acronym.
 
     Args:
-        language (str): _description_
-        category (str): _description_
-        name (str): _description_
-        dir (Path): _description_
+        iso_639_1_code (str): The language code.
+        category_str (str): The category as string/
+        name (str): The acronym name.
+        dir (Path): The output directory.
     """
 
-    try:
-        acronyms_dict = read_json_file(dir / "all.json")
-    except Exception as e:
-        print(e, file=sys.stderr)
-        sys.exit(1)
+    language = (
+        None if iso_639_1_code is None else Language._value2member_map_[iso_639_1_code]
+    )
+    category = (
+        None if category_str is None else Category._value2member_map_[category_str]
+    )
 
+    acronyms: Acronyms
+    meanings: Set[str]
     try:
-        name, meanings, language, category = get_meanings_controller(
-            acronyms_dict, language, category, name
+        acronyms = get_acronyms_from_json_path(dir / "all.json")
+
+        name, meanings, language, category = get_metadatas(
+            acronyms, language, category, name
         )
-    except PycronymsError as e:
+    except (PycronymsError, Exception) as e:
         print(e, file=sys.stderr)
         sys.exit(1)
 

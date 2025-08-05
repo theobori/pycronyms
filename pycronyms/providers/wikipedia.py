@@ -151,7 +151,4 @@ class Wikipedia(ProviderHelper):
             case Category.COMMON:
                 pass
 
-        for a in acronyms:
-            print(a)
-
         return acronyms
