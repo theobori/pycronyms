@@ -63,7 +63,7 @@ class Acronym(BaseModel):
     meaning: str = Field(min_length=5)
     # The provider
     provider: str = Field(min_length=1, default="unknown")
-    # The Acronym objects in this set must not have a non-empty extras field
+    # This field is used to store extras meanings
     extras: Set["Acronym"] = set()
 
     def __hash__(self):
@@ -136,7 +136,7 @@ class Acronym(BaseModel):
         """Returns a dctionnary that represent the Acronym object.
 
         Returns:
-            dict: The dict.
+            dict: The dictionnary.
         """
 
         d = {}

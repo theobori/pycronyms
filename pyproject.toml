@@ -8,7 +8,8 @@ version = "0.0.1"
 dependencies = [
   "orjson",
   "pydantic",
-  "wikipedia"
+  "wikipedia",
+  "thefuzz"
 ]
 requires-python = ">=3.13.5"
 authors = [
@@ -33,7 +34,7 @@ pycronyms = "pycronyms.cli.pycronyms:main"
 [project.urls]
 Homepage = "https://github.com/theobori/pycronyms"
 Documentation = "https://github.com/theobori/pycronyms"
-Repository = "https://github.com/me/spam.git"
+Repository = "https://github.com/theobori/pycronyms"
 
 [tool.setuptools]
 packages = ["pycronyms"]

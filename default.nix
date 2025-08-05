@@ -33,7 +33,7 @@ buildPythonApplication {
   pythonImportsCheck = [ "pycronyms" ];
 
   meta = {
-    license = lib.licenses.gpl3;
+    license = lib.licenses.mit;
     mainProgram = "pycronyms";
   };
 }

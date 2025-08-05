@@ -9,14 +9,8 @@ from pycronyms.acronym import Acronym
 from pycronyms.exceptions import MissingAcronymError, FetchAcronymsError
 from pycronyms.provider import Provider
 
-from pydantic import BaseModel, Field
-
 type Acronyms = Dict[Language, Dict[Category, Dict[str, Acronym]]]
 type AcronymsDict = Dict[str, Dict[str, Dict[str, dict]]]
-
-
-class AcronymsDictSchema(BaseModel):
-    pass
 
 
 class ProviderHelper(Provider):
