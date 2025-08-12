@@ -80,7 +80,3 @@ If you're looking for examples of how to use the library, you can have a look at
 ## Contribute
 
 If you want to help the project, you can follow the guidelines in [CONTRIBUTING.md](./CONTRIBUTING.md).
-
-## Ideas
-
-For the moment, since there are not that much acronyms and initialisms, the generation output format can be JSON. But perhaps when there is more data, it will be more appropriate to have an SQLite database. The current all.json file size is 164.00 KiB

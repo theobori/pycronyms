@@ -1,7 +1,7 @@
 import logging
 
 from time import time
-from typing import Set, Self, Dict, List
+from typing import Set, Self, List, Callable
 from collections import OrderedDict
 
 from pycronyms.provider_helper import ProviderHelper, Provider
@@ -46,7 +46,17 @@ class Pycronyms(ProviderHelper):
 
         for provider in self.__providers.values():
             try:
-                fetched_acronyms = provider.fetch_acronyms(language, category)
+                f: Callable[[Language, Category], Set[Acronym]]
+
+                if isinstance(provider, ProviderHelper):
+                    # Using the `_fetch_acronyms` to avoid storing acronyms data in each providers.
+                    # Data should be store in this class instance only.
+                    f = provider._fetch_acronyms
+                else:
+                    f = provider.fetch_acronyms
+
+                fetched_acronyms = f(language, category)
+
                 amount = len(fetched_acronyms)
 
                 if amount > 0:

@@ -223,6 +223,10 @@
         "meaning": "Authentication Header",
         "provider": "wikipedia"
       },
+      "AHCI": {
+        "meaning": "Advanced Host Controller Interface",
+        "provider": "wikipedia"
+      },
       "AI": {
         "meaning": "Artificial Intelligence",
         "provider": "wikipedia"
@@ -1188,7 +1192,7 @@
         "provider": "wikipedia"
       },
       "CSO": {
-        "meaning": "Chief security officer]]",
+        "meaning": "Chief security officer",
         "provider": "wikipedia"
       },
       "CSP": {
@@ -1671,6 +1675,10 @@
         "meaning": "Digital Signal Processor",
         "provider": "wikipedia"
       },
+      "DSRC": {
+        "meaning": "Dedicated short-range communications",
+        "provider": "wikipedia"
+      },
       "DSSS": {
         "meaning": "Direct-sequence spread spectrum",
         "provider": "wikipedia"
@@ -1703,6 +1711,10 @@
       },
       "DTR": {
         "meaning": "Data Terminal Ready or Data transfer rate",
+        "provider": "wikipedia"
+      },
+      "DTSTTCPW": {
+        "meaning": "\"do the simplest thing that could possibly work\"",
         "provider": "wikipedia"
       },
       "DV": {
@@ -1951,6 +1963,10 @@
       },
       "ERD": {
         "meaning": "Entity–Relationship Diagram",
+        "provider": "wikipedia"
+      },
+      "ERGS": {
+        "meaning": "Electronic Route Guidance System",
         "provider": "wikipedia"
       },
       "ERM": {
@@ -2481,6 +2497,10 @@
         "meaning": "Hurd of Interfaces Representing Depth",
         "provider": "wikipedia"
       },
+      "HLR": {
+        "meaning": "Home location register",
+        "provider": "wikipedia"
+      },
       "HLS": {
         "meaning": "HTTP Live Streaming",
         "provider": "wikipedia"
@@ -2933,6 +2953,10 @@
         "meaning": "Interval Temporal Logic",
         "provider": "wikipedia"
       },
+      "ITS": {
+        "meaning": "Intelligent transportation system",
+        "provider": "wikipedia"
+      },
       "ITU": {
         "meaning": "International Telecommunication Union",
         "provider": "wikipedia"
@@ -3087,6 +3111,10 @@
       },
       "KINK": {
         "meaning": "Kerberized Internet Negotiation of Keys",
+        "provider": "wikipedia"
+      },
+      "KML": {
+        "meaning": "Keyhole Markup Language",
         "provider": "wikipedia"
       },
       "KPK": {
@@ -3333,6 +3361,10 @@
       },
       "MAPI": {
         "meaning": "Messaging Application Programming Interface",
+        "provider": "wikipedia"
+      },
+      "MAPS": {
+        "meaning": "Mail Abuse Prevention System",
         "provider": "wikipedia"
       },
       "MAU": {
@@ -3609,6 +3641,10 @@
         "meaning": "Mozilla Public License",
         "provider": "wikipedia"
       },
+      "MQTT": {
+        "meaning": "Message Queues Telemetry Transport",
+        "provider": "wikipedia"
+      },
       "MS": {
         "meaning": "Memory Stick",
         "provider": "wikipedia"
@@ -3769,6 +3805,10 @@
       },
       "NDIS": {
         "meaning": "Network Driver Interface Specification",
+        "provider": "wikipedia"
+      },
+      "NDP": {
+        "meaning": "Neighbor Discovery Protocol",
         "provider": "wikipedia"
       },
       "NDPS": {
@@ -3939,6 +3979,10 @@
         "meaning": "Non-Uniform Rational B-Spline",
         "provider": "wikipedia"
       },
+      "NVME": {
+        "meaning": "NVM Express",
+        "provider": "wikipedia"
+      },
       "NVR": {
         "meaning": "Network Video Recorder",
         "provider": "wikipedia"
@@ -4061,6 +4105,10 @@
         "meaning": "Object Request Broker",
         "provider": "wikipedia"
       },
+      "ORBS": {
+        "meaning": "Open Relay Behavior-modification System",
+        "provider": "wikipedia"
+      },
       "ORM": {
         "meaning": "Object–Relational Mapping",
         "provider": "wikipedia"
@@ -4147,6 +4195,10 @@
       },
       "OWASP": {
         "meaning": "Open Worldwide Application Security Project",
+        "provider": "wikipedia"
+      },
+      "OWE": {
+        "meaning": "Opportunistic Wireless Encryption",
         "provider": "wikipedia"
       },
       "PAAS": {
@@ -6157,6 +6209,10 @@
           }
         ],
         "meaning": "Wireless Access Point",
+        "provider": "wikipedia"
+      },
+      "WAVE": {
+        "meaning": "Wireless access in vehicular environments",
         "provider": "wikipedia"
       },
       "WBEM": {
