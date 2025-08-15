@@ -66,10 +66,10 @@ class Acronym(BaseModel):
     # This field is used to store extras meanings
     extras: Set["Acronym"] = set()
 
-    def __hash__(self):
+    def __hash__(self) -> int:
         return hash(self.name + "__" + self.meaning.lower())
 
-    def __eq__(self, value: Self):
+    def __eq__(self, value: Self) -> bool:
         return self.name == value.name and self.meaning.lower() == value.meaning.lower()
 
     def add_extra(self, extra: Self):

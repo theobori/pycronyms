@@ -1,4 +1,5 @@
 from typing import Optional
+from pathlib import Path
 
 from pycronyms.language import Language
 from pycronyms.category import Category
@@ -24,7 +25,7 @@ class FetchAcronymsError(PycronymsError):
         self.language = language
         self.category = category
 
-    def __str__(self):
+    def __str__(self) -> str:
         if self.language is None or self.category is None:
             return self.message or "An error occured during acronyms fetching"
 
@@ -45,9 +46,33 @@ class MissingAcronymError(PycronymsError):
         self.language = language
         self.category = category
 
-    def __str__(self):
+    def __str__(self) -> str:
         return (
             f"The acronym '{self.name}' "
-            f"with language {self.language.value} and "
-            f"category {self.category.fancy()} is missing"
+            f"with language '{self.language.value}' and "
+            f"category '{self.category.fancy()}' is missing"
         )
+
+
+class HandlerError(PycronymsError):
+    """Any handler error."""
+
+    def __init__(
+        self, handler_name: str, filepath: Path, details: Optional[str] = None
+    ):
+        super().__init__()
+
+        self.handler_name = handler_name
+        self.filepath = filepath
+        self.details = details
+
+    def __str__(self) -> str:
+        out = (
+            f"There is an error with the handler '{self.handler_name}' "
+            f"and the filepath '{self.filepath}'."
+        )
+
+        if self.details:
+            out += f"\nWith the following details: {self.details}."
+
+        return out

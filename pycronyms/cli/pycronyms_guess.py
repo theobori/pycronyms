@@ -4,14 +4,14 @@ import logging
 import sys
 import random
 
-from typing import NoReturn, Any, Optional, Tuple, Set, Dict, Union
+from typing import NoReturn, Any, Optional, Tuple, Set
 from argparse import ArgumentParser, _SubParsersAction
 from pathlib import Path
 
 from pycronyms.language import Language
 from pycronyms.category import Category
 from pycronyms.exceptions import PycronymsError
-from pycronyms.provider_helper import AcronymsDict, Acronyms
+from pycronyms.acronyms import AcronymsDict, Acronyms
 from pycronyms.acronym import Acronym
 from pycronyms._common import create_recursive_dict
 
@@ -221,7 +221,7 @@ def get_acronyms_from_json_path(path: Path) -> Acronyms:
         path (Path): The directory path.
 
     Returns:
-        Acronyms: The acronyms dict.
+        Acronyms: The acronyms.
     """
 
     acronyms_dict: AcronymsDict = read_json_file(path)

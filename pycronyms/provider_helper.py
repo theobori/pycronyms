@@ -1,4 +1,4 @@
-from typing import Dict, Set
+from typing import Set
 from abc import abstractmethod
 from functools import cache
 
@@ -8,9 +8,7 @@ from pycronyms.category import Category
 from pycronyms.acronym import Acronym
 from pycronyms.exceptions import MissingAcronymError, FetchAcronymsError
 from pycronyms.provider import Provider
-
-type Acronyms = Dict[Language, Dict[Category, Dict[str, Acronym]]]
-type AcronymsDict = Dict[str, Dict[str, Dict[str, dict]]]
+from pycronyms.acronyms import Acronyms, AcronymsDict, dict_from_acronyms
 
 
 class ProviderHelper(Provider):
@@ -31,7 +29,7 @@ class ProviderHelper(Provider):
         return self._amount
 
     @property
-    def acronyms(self) -> dict:
+    def acronyms(self) -> Acronyms:
         return self._acronyms
 
     @property
@@ -42,19 +40,7 @@ class ProviderHelper(Provider):
             AcronymsDict: The dictionnary new object.
         """
 
-        d: AcronymsDict = create_recursive_dict(Acronym, depth=3)
-
-        for language, lv in self._acronyms.items():
-            for category, cv in lv.items():
-                for acronym_name, acronym in cv.items():
-                    acronym_dict = acronym.to_dict()
-                    del acronym_dict["name"]
-
-                    d[language.iso_639_1_code][category.value][acronym_name] = (
-                        acronym_dict
-                    )
-
-        return d
+        return dict_from_acronyms(self._acronyms)
 
     @abstractmethod
     def _fetch_acronyms(self, language: Language, category: Category) -> Set[Acronym]:
