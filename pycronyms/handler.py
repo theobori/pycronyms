@@ -11,23 +11,25 @@ class Handler(ABC, Generic[T]):
 
     name: str
 
-    def __init__(self, filepath: Path, data: Optional[T] = None):
-        self.filepath = filepath
-        self.data = data
-
+    @classmethod
     @abstractmethod
-    def read(self) -> T:
+    def read(cls, filepath: Path) -> T:
         """This method should read the filepath data and returns it in an arbitrary format.
+
+        Args:
+            filepath (Path): The destination JSON file path.
 
         Returns:
             T: The data.
         """
 
+    @classmethod
     @abstractmethod
-    def write(self, data: Optional[T] = None) -> NoReturn:
+    def write(cls, filepath: Path, data: T) -> NoReturn:
         """This method should write data to the file passed via the constructor method.
         It should write self.data or data if its non-none.
 
         Args:
-            data (Optional[T]): An optional parameter to override the written data.
+            filepath (Path): The destination JSON file path.
+            data (T): An optional parameter to override the written data.
         """

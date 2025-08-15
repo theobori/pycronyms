@@ -9,6 +9,7 @@ from pycronyms.acronym import Acronym
 from pycronyms.exceptions import MissingAcronymError, FetchAcronymsError
 from pycronyms.provider import Provider
 from pycronyms.acronyms import Acronyms, AcronymsDict, dict_from_acronyms
+from pycronyms.statistics import Statistics
 
 
 class ProviderHelper(Provider):
@@ -19,14 +20,14 @@ class ProviderHelper(Provider):
 
     def __init__(self):
         self._acronyms: Acronyms = create_recursive_dict(Acronym, depth=3)
-        self._amount = 0
+        self.statistics = Statistics()
 
     def __repr__(self) -> str:
         return f"Acronyms provider '{self.name}'"
 
     @property
     def amount(self) -> int:
-        return self._amount
+        return self.statistics.total
 
     @property
     def acronyms(self) -> Acronyms:
@@ -72,7 +73,7 @@ class ProviderHelper(Provider):
 
         acronyms = self._fetch_acronyms(language, category)
 
-        self._amount += len(acronyms)
+        self.statistics.increase(language, category, len(acronyms))
 
         return acronyms
 

@@ -8,6 +8,8 @@
   setuptools,
   setuptools-scm,
   thefuzz,
+  matplotlib,
+  pandas,
 }:
 buildPythonApplication {
   pname = "pycronyms";
@@ -26,6 +28,8 @@ buildPythonApplication {
     pydantic
     wikipedia
     thefuzz
+    matplotlib
+    pandas
   ];
 
   nativeCheckInputs = [ pytestCheckHook ];

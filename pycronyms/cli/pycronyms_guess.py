@@ -194,7 +194,7 @@ def guess_meanings(
             return
 
         matched_meaning, score = process.extractOne(meaning, meanings)
-        if score < 90:
+        if score < 96:
             print(f"Incorrect, '{meaning}' is not a meaning of the acronym '{name}'.")
             continue
 

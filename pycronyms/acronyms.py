@@ -10,6 +10,16 @@ type Acronyms = Dict[Language, Dict[Category, Dict[str, Acronym]]]
 type AcronymsDict = Dict[str, Dict[str, Dict[str, dict]]]
 
 
+def create_acronyms() -> Acronyms:
+    """Create an empty Acronyms data structure.
+
+    Returns:
+        Acronyms: The empty acronyms.
+    """
+
+    return create_recursive_dict(Acronym, 3)
+
+
 def dict_from_acronyms(acronyms: Acronyms) -> AcronymsDict:
     """Returns a dictionnary where each container is a Python built-in dictionnary.
 

@@ -2,6 +2,7 @@ import re
 
 from typing import Type, Any, Dict
 from collections import defaultdict, deque
+from datetime import datetime
 
 
 def normalize_str(value: str) -> str:
@@ -142,3 +143,13 @@ def sorted_recursive(obj: Any, *args: tuple, **kwargs: Dict[str, Any]) -> Any:
     sorted_obj = inner(obj)
 
     return sorted_obj
+
+
+def get_current_date(format: str = "%Y-%m-%d") -> str:
+    """Returns the current date as a string with a given format.
+
+    Returns:
+        str: The date.
+    """
+
+    return datetime.today().strftime(format)

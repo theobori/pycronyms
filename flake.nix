@@ -32,6 +32,8 @@
               setuptools
               setuptools-scm
               thefuzz
+              matplotlib
+              pandas
               ;
           };
         };
