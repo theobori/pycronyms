@@ -63,14 +63,14 @@ pycronyms --help
 Here are a few examples.
 
 ```bash
-# Generations
-pycronyms generate
-pycronyms generate --dir output_dir
+# Fetch
+pycronyms fetch
+pycronyms fetch --dir output_dir
 
 # Guess game
 pycronyms guess --category computer_science --language en
 pycronyms guess --category computer_science --language en --name CPU
-pycronyms guess --category computer_science --language en --dir custom_generation_dir
+pycronyms guess --category computer_science --language en --dir custom_input_dir
 ```
 
 ### Module

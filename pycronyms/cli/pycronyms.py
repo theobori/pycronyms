@@ -1,9 +1,7 @@
-import sys
-
 from typing import NoReturn
 from argparse import ArgumentParser
 
-from pycronyms.cli.pycronyms_generate import generate, create_subparser_generate
+from pycronyms.cli.pycronyms_fetch import fetch, create_subparser_fetch
 from pycronyms.cli.pycronyms_guess import guess, create_subparser_guess
 
 
@@ -27,14 +25,14 @@ def main() -> NoReturn:
     subparsers = parser.add_subparsers(dest="subparser_name")
 
     create_subparser_guess(subparsers)
-    create_subparser_generate(subparsers)
+    create_subparser_fetch(subparsers)
 
     args = parser.parse_args()
 
     subparser_name = args.subparser_name
 
     match subparser_name:
-        case "generate":
-            generate(args.dir)
+        case "fetch":
+            fetch(args.dir)
         case "guess":
             guess(args.language, args.category, args.name, args.dir)

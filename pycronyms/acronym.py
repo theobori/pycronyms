@@ -99,21 +99,6 @@ class Acronym(BaseModel):
         # Remove every whitespace character
         self.name = "".join(self.name.split()).upper()
 
-    def model_dump(self, *args, **kwargs) -> Dict[str, Any]:
-        """Must be override."""
-
-        d = super().model_dump(*args, **kwargs, exclude=["extras"])
-
-        if len(self.extras) == 0:
-            return d
-
-        d["extras"] = []
-
-        for extra in self.extras:
-            d["extras"].append(extra.model_dump())
-
-        return d
-
     @model_validator(mode="after")
     def check_meaning(self) -> Self:
         """Additional validation for the acronym meaning.

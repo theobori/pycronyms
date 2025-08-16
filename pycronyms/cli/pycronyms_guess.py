@@ -14,7 +14,7 @@ from pycronyms.acronyms import Acronyms
 from pycronyms.acronym import Acronym
 from pycronyms.handlers import HandlerJSON
 
-from pycronyms.cli.pycronyms_generate import OUTPUT_DIRNAME
+from pycronyms.cli.pycronyms_fetch import OUTPUT_DIRNAME
 
 from thefuzz import process
 

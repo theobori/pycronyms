@@ -24,7 +24,7 @@ description = ""
 readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE"]
-keywords = ["acronyms", "aggregator", "generation", "guess"]
+keywords = ["acronyms", "aggregator", "fetcher", "guess"]
 classifiers = [
   "Development Status :: 4 - Beta",
   "Programming Language :: Python"
