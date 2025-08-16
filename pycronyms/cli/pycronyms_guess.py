@@ -1,19 +1,18 @@
 import os
-import orjson
 import logging
 import sys
 import random
 
-from typing import NoReturn, Any, Optional, Tuple, Set
+from typing import NoReturn, Optional, Tuple, Set
 from argparse import ArgumentParser, _SubParsersAction
 from pathlib import Path
 
 from pycronyms.language import Language
 from pycronyms.category import Category
 from pycronyms.exceptions import PycronymsError
-from pycronyms.acronyms import AcronymsDict, Acronyms
+from pycronyms.acronyms import Acronyms
 from pycronyms.acronym import Acronym
-from pycronyms._common import create_recursive_dict
+from pycronyms.handlers import HandlerJSON
 
 from pycronyms.cli.pycronyms_generate import OUTPUT_DIRNAME
 
@@ -63,23 +62,6 @@ def create_subparser_guess(
     )
 
     return parser
-
-
-def read_json_file(path: Path) -> Any:
-    """Convert the Python object to a Python bytes object, then writting
-        it to the given file.
-
-    Args:
-        obj (Any): The Python object.
-        path (Path): The file path.
-    """
-
-    obj: Any
-
-    with open(path, "rb") as f:
-        obj = orjson.loads(f.read())
-
-    return obj
 
 
 def get_metadatas(
@@ -157,41 +139,41 @@ def get_metadatas(
 
 def guess_meanings(
     name: str, meanings: Set[str], language: Language, category: Category
-) -> NoReturn:
-    """Guess game run loop.
+) -> bool:
+    """Guess game run loop. Returns false if the user has left.
 
     Args:
         name (str): The acronym name
         meanings (Set[str]): The acronym meanings.
         language (Language): The acronym language.
         category (Category): The acronym category.
+
+    Returns:
+        bool: Guess game state.
     """
 
     total_amount = len(meanings)
 
-    print(
-        f"The acronym '{name}' has {len(meanings)} meanings "
-        f"with the language '{language.iso_639_1_code}' "
-        f"and the category '{category.value}'.\n"
-        "To leave the guessing game, write 'quit'"
-    )
-
-    print()
-
     while meanings:
-        meaning = input(f"Guess the meaning of '{name}'> ")
+        meaning = input(
+            f"('{language.iso_639_1_code}', '{category.fancy_value()}') Guess the meaning of '{name}'> "
+        )
 
         if len(meaning) == 0:
             continue
 
-        if meaning == "quit":
+        c = meaning in {"continue", "c"}
+
+        if meaning in {"quit", "q"} or c:
             print()
             print(f"The following meanings were missing.")
 
             for meaning in meanings:
                 print("-", meaning)
 
-            return
+            print()
+
+            return c
 
         matched_meaning, score = process.extractOne(meaning, meanings)
         if score < 96:
@@ -213,34 +195,7 @@ def guess_meanings(
         f"Congratulation, you found the {total_amount} meanings of the acronym {name}!"
     )
 
-
-def get_acronyms_from_json_path(path: Path) -> Acronyms:
-    """Build a dict of acronyms with language and category.
-
-    Args:
-        path (Path): The directory path.
-
-    Returns:
-        Acronyms: The acronyms.
-    """
-
-    acronyms_dict: AcronymsDict = read_json_file(path)
-
-    acronyms: Acronyms = create_recursive_dict(Acronym, 3)
-
-    for lk, lv in acronyms_dict.items():
-        for ck, cv in lv.items():
-            for acronym_name, d in cv.items():
-                d["name"] = acronym_name
-
-                acronym = Acronym.from_dict(d)
-
-                l = Language._value2member_map_[lk]
-                c = Category._value2member_map_[ck]
-
-                acronyms[l][c][acronym_name] = acronym
-
-    return acronyms
+    return True
 
 
 def guess(
@@ -255,27 +210,37 @@ def guess(
         dir (Path): The output directory.
     """
 
-    language = (
+    user_name = name
+    user_language = (
         None if iso_639_1_code is None else Language._value2member_map_[iso_639_1_code]
     )
-    category = (
+    user_category = (
         None if category_str is None else Category._value2member_map_[category_str]
     )
 
-    acronyms: Acronyms
-    meanings: Set[str]
     try:
-        acronyms = get_acronyms_from_json_path(dir / "all.json")
+        acronyms = HandlerJSON.read(dir / "all.json")
 
-        name, meanings, language, category = get_metadatas(
-            acronyms, language, category, name
+        print(
+            "To leave the guessing game, write 'quit' or 'q', to continue write 'continue' or 'c'."
         )
+
+        print()
+
+        run = True
+        while run:
+            name, meanings, language, category = get_metadatas(
+                acronyms, user_language, user_category, user_name
+            )
+
+            if len(meanings) == 0:
+                raise PycronymsError(f"There are no meanings for the acronym {name}")
+
+            del acronyms[language][category][name]
+
+            run = guess_meanings(name, meanings, language, category)
+            if user_name and run:
+                break
     except (PycronymsError, Exception) as e:
         print(e, file=sys.stderr)
         sys.exit(1)
-
-    if len(meanings) == 0:
-        print(f"There are no meanings for the acronym {name}", file=sys.stderr)
-        sys.exit(1)
-
-    guess_meanings(name, meanings, language, category)
