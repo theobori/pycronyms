@@ -30,7 +30,7 @@ def dict_from_acronyms(acronyms: Acronyms) -> AcronymsDict:
         AcronymsDict: The dictionnary new object.
     """
 
-    d: AcronymsDict = create_recursive_dict(Acronym, depth=3)
+    d: AcronymsDict = create_recursive_dict(dict, depth=3)
 
     for language, lv in acronyms.items():
         for category, cv in lv.items():
@@ -53,7 +53,7 @@ def acronyms_from_dict(acronyms_dict: AcronymsDict) -> Acronyms:
         Acronyms: The acronyms.
     """
 
-    acronyms: Acronyms = create_recursive_dict(Acronym, depth=3)
+    acronyms = create_acronyms()
 
     for lk, lv in acronyms_dict.items():
         for ck, cv in lv.items():

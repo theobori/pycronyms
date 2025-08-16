@@ -1,4 +1,4 @@
-from typing import Any, Optional, NoReturn
+from typing import Any, NoReturn
 from pathlib import Path
 
 from pycronyms.handler_acronyms import HandlerAcronyms

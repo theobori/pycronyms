@@ -4,7 +4,7 @@
 
 [![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
 
-This GitHub repository is a fun project, the main purpose of which is to maintain [JSON files](pycronyms_output) containing acronyms and initialism. These JSON files are generated using the Python module pycronyms, which exposes a library as well as a CLI.
+This GitHub repository is a fun project, the main purpose of which is to maintain a [dataset](pycronyms_output) containing acronyms and initialism. These files are generated using the Python module pycronyms, which exposes a library as well as a CLI.
 
 This project is inspired by [hosts](https://github.com/StevenBlack/hosts), which maintains hosts files for name resolution.
 
@@ -26,6 +26,10 @@ Each acronym is associated with a language and an associated category. Acronym p
 
 The library's entry point is the `Pycronyms` class, which manages acronym providers and can retrieve all possible acronyms.
 
+There are multiple output formats, listed below.
+- [JSON](pycronyms/handlers/json.py)
+- [CSV](pycronyms/handlers/csv.py)
+- 
 ### Acronyms
 
 In the library, acronyms and initialisms are represented by Python objects called `Acronym`. These are [Pydantic](https://docs.pydantic.dev/latest/) data models which normalize the values and check that the acronym conforms. For example, the name of the acronym must match its meaning.

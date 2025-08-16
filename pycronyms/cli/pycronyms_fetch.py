@@ -12,7 +12,7 @@ from pycronyms.providers import Wikipedia
 from pycronyms.providers import Custom
 from pycronyms._common import sorted_recursive
 from pycronyms.acronyms import Acronyms
-from pycronyms.handlers import HandlerJSON
+from pycronyms.handlers import HandlerJSON, HandlerCSV
 from pycronyms.handler_acronyms import HandlerAcronyms
 from pycronyms.statistics import Statistics
 
@@ -46,6 +46,7 @@ The matrix below shows the number of acronyms fetched by language and category.
 
 EXT_HANDLERS_ACRONYMS: Dict[str, type[HandlerAcronyms]] = {
     "json": HandlerJSON,
+    "csv": HandlerCSV,
 }
 
 
@@ -199,7 +200,7 @@ def write_acronyms(acronyms: Acronyms, dir: Path) -> NoReturn:
         dir (Path): The base directory path.
     """
 
-    basepath = dir / "all"
+    basepath = dir / "acronyms"
 
     for ext, handler_acronyms_class in EXT_HANDLERS_ACRONYMS.items():
         filepath = Path(f"{basepath}.{ext}")

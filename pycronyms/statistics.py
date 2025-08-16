@@ -41,6 +41,13 @@ class Statistics:
 
     @property
     def dataframe(self) -> pd.DataFrame:
+        """Returns a pandas dataframe representing the acronyms statistics.
+        It implies the CSV filepath if there is one.
+
+        Returns:
+            pd.DataFrame: A pandas dataframe.
+        """
+
         data = {}
         data["date"] = [get_current_date()]
         data["total"] = [self.total]

@@ -219,7 +219,7 @@ def guess(
     )
 
     try:
-        acronyms = HandlerJSON.read(dir / "all.json")
+        acronyms = HandlerJSON.read(dir / "acronyms.json")
 
         print(
             "To leave the guessing game, write 'quit' or 'q', to continue write 'continue' or 'c'."

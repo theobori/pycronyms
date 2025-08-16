@@ -1,0 +1,1564 @@
+name,language,category,provider,meaning
+2B1Q,en,computer_science,wikipedia,2 binary 1 quaternary
+3GPP,en,computer_science,wikipedia,3rd Generation Partnership Project – 3G comms
+3GPP2,en,computer_science,wikipedia,3rd Generation Partnership Project 2
+AAA,en,computer_science,wikipedia,"Authentication, authorization, and accounting"
+AABB,en,computer_science,wikipedia,Axis Aligned Bounding Box
+AAC,en,computer_science,wikipedia,Advanced Audio Coding
+AAL,en,computer_science,wikipedia,ATM Adaptation Layer
+AALC,en,computer_science,wikipedia,ATM Adaptation Layer Connection
+AARP,en,computer_science,wikipedia,AppleTalk Address Resolution Protocol
+ABAC,en,computer_science,wikipedia,Attribute-Based Access Control
+ABCL,en,computer_science,wikipedia,Actor-Based Concurrent Language
+ABI,en,computer_science,wikipedia,Application Binary Interface
+ABM,en,computer_science,wikipedia,Asynchronous Balanced Mode
+ABR,en,computer_science,wikipedia,Area Border Router
+ABR,en,computer_science,wikipedia,Auto Baud-Rate detection
+AC,en,computer_science,wikipedia,Acoustic Coupler
+AC,en,computer_science,wikipedia,Alternating Current
+AC,en,computer_science,wikipedia,Authorization certificate
+ACD,en,computer_science,wikipedia,Automatic Call Distributor
+ACE,en,computer_science,wikipedia,Advanced Computing Environment
+ACID,en,computer_science,wikipedia,Atomicity Consistency Isolation Durability
+ACK,en,computer_science,wikipedia,Amsterdam Compiler Kit
+ACK,en,computer_science,wikipedia,ACKnowledgement
+ACL,en,computer_science,wikipedia,Access Control List
+ACL,en,computer_science,wikipedia,Active Current Loop
+ACM,en,computer_science,wikipedia,Association for Computing Machinery
+ACME,en,computer_science,wikipedia,Automated Classification of Medical Entities
+ACP,en,computer_science,wikipedia,Airline Control Program
+ACPI,en,computer_science,wikipedia,Advanced Configuration and Power Interface
+ACR,en,computer_science,wikipedia,Attenuation to Crosstalk Ratio
+ACR,en,computer_science,wikipedia,Allowed Cell Rate
+AD,en,computer_science,wikipedia,Administrative Domain
+AD,en,computer_science,wikipedia,Active Directory
+ADB,en,computer_science,wikipedia,Apple Desktop Bus
+ADC,en,computer_science,wikipedia,Analog-to-Digital Converter
+ADC,en,computer_science,wikipedia,Apple Display Connector
+ADCCP,en,computer_science,wikipedia,Advanced Data Communications Control Procedures
+ADDS,en,computer_science,wikipedia,Applied Digital Data Systems
+ADO,en,computer_science,wikipedia,ActiveX Data Objects
+ADSL,en,computer_science,wikipedia,Asymmetric Digital Subscriber Line
+ADT,en,computer_science,wikipedia,Abstract Data Type
+AE,en,computer_science,wikipedia,Adaptive Equalizer
+AE,en,computer_science,wikipedia,Authenticated encryption
+AEAD,en,computer_science,wikipedia,Authenticated encryption with associated data
+AES,en,computer_science,wikipedia,Advanced Encryption Standard
+AF,en,computer_science,wikipedia,Anisotropic Filtering
+AFP,en,computer_science,wikipedia,Apple Filing Protocol
+AGI,en,computer_science,wikipedia,Artificial General Intelligence
+AGP,en,computer_science,wikipedia,Accelerated Graphics Port
+AH,en,computer_science,wikipedia,Authentication Header
+AH,en,computer_science,wikipedia,Active Hub
+AHCI,en,computer_science,wikipedia,Advanced Host Controller Interface
+AI,en,computer_science,wikipedia,Artificial Intelligence
+AJAX,en,computer_science,wikipedia,Asynchronous JavaScript and XML
+AL,en,computer_science,wikipedia,Access List
+AL,en,computer_science,wikipedia,Active Link
+ALAC,en,computer_science,wikipedia,Apple Lossless Audio Codec
+ALE,en,computer_science,wikipedia,Annualized loss expectancy
+ALSA,en,computer_science,wikipedia,Advanced Linux Sound Architecture
+ALU,en,computer_science,wikipedia,Arithmetic and Logical Unit
+AM,en,computer_science,wikipedia,Active Matrix
+AM,en,computer_science,wikipedia,Allied Mastercomputer
+AM,en,computer_science,wikipedia,Amplitude Modulation
+AM,en,computer_science,wikipedia,Access Method
+AM,en,computer_science,wikipedia,Active Monitor
+AMD,en,computer_science,wikipedia,Advanced Micro Devices
+AMOLED,en,computer_science,wikipedia,Active-Matrix Organic Light-Emitting Diode
+AMQP,en,computer_science,wikipedia,Advanced Message Queuing Protocol
+AMR,en,computer_science,wikipedia,Audio Modem Riser
+ANN,en,computer_science,wikipedia,Artificial Neural Network
+ANSI,en,computer_science,wikipedia,American National Standards Institute
+ANT,en,computer_science,wikipedia,Another Neat Tool
+AOE,en,computer_science,wikipedia,ATA over Ethernet
+AOP,en,computer_science,wikipedia,Aspect-Oriented Programming
+AOT,en,computer_science,wikipedia,Ahead-Of-Time
+AP,en,computer_science,wikipedia,Access point
+APCI,en,computer_science,wikipedia,Application-Layer Protocol Control Information
+API,en,computer_science,wikipedia,Application Programming Interface
+APIC,en,computer_science,wikipedia,Advanced Programmable Interrupt Controller
+APIPA,en,computer_science,wikipedia,Automatic Private IP Addressing
+APL,en,computer_science,wikipedia,A Programming Language
+APR,en,computer_science,wikipedia,Apache Portable Runtime
+APT,en,computer_science,wikipedia,Advanced persistent threat
+ARC,en,computer_science,wikipedia,Adaptive Replacement Cache
+ARC,en,computer_science,wikipedia,Advanced RISC Computing
+ARIN,en,computer_science,wikipedia,American Registry for Internet Numbers
+ARM,en,computer_science,wikipedia,Advanced RISC Machines
+ARO,en,computer_science,wikipedia,Annualized rate of occurrence
+AROS,en,computer_science,wikipedia,AROS Research Operating System
+ARP,en,computer_science,wikipedia,Address Resolution Protocol
+ARPA,en,computer_science,wikipedia,Address and Routing Parameter Area
+ARPA,en,computer_science,wikipedia,Advanced Research Projects Agency
+AS,en,computer_science,wikipedia,Access Server
+ASCII,en,computer_science,wikipedia,American Standard Code for Information Interchange
+ASG,en,computer_science,wikipedia,Abstract Semantic Graph
+ASIC,en,computer_science,wikipedia,Application-Specific Integrated Circuit
+ASK,en,computer_science,wikipedia,Amplitude-shift keying
+ASLR,en,computer_science,wikipedia,Address Space Layout Randomization
+ASM,en,computer_science,wikipedia,Algorithmic State Machine
+ASP,en,computer_science,wikipedia,Active Server Pages
+ASP,en,computer_science,wikipedia,Application Service Provider
+ASR,en,computer_science,wikipedia,Asynchronous Signal Routine
+AST,en,computer_science,wikipedia,Abstract Syntax Tree
+AT,en,computer_science,wikipedia,Access Time
+AT,en,computer_science,wikipedia,Advanced Technology
+AT,en,computer_science,wikipedia,Active Terminator
+ATA,en,computer_science,wikipedia,Advanced Technology Attachment
+ATAG,en,computer_science,wikipedia,Authoring Tool Accessibility Guidelines
+ATAPI,en,computer_science,wikipedia,Advanced Technology Attachment Packet Interface
+ATM,en,computer_science,wikipedia,Asynchronous Transfer Mode
+AUP,en,computer_science,wikipedia,Acceptable use policy
+AVC,en,computer_science,wikipedia,Advanced Video Coding
+AVI,en,computer_science,wikipedia,Audio Video Interleaved
+AWK,en,computer_science,wikipedia,Aho Weinberger Kernighan
+AWS,en,computer_science,wikipedia,Amazon Web Services
+AWT,en,computer_science,wikipedia,Abstract Window Toolkit
+BAAS,en,computer_science,wikipedia,Backend as a service
+BAAS,en,computer_science,wikipedia,Blockchain as a service
+BAAS,en,computer_science,wikipedia,Banking as a service
+BAL,en,computer_science,wikipedia,Basic Assembly Language
+BAM,en,computer_science,wikipedia,Block Availability Map
+BAN,en,computer_science,wikipedia,Body area network
+BAS,en,computer_science,wikipedia,Building automation systems
+BASIC,en,computer_science,wikipedia,Beginner's All-Purpose Symbolic Instruction Code
+BBS,en,computer_science,wikipedia,Bulletin Board System
+BC,en,computer_science,wikipedia,Business Continuity
+BCC,en,computer_science,wikipedia,Blind Carbon Copy
+BCD,en,computer_science,wikipedia,Binary Coded Decimal
+BCD,en,computer_science,wikipedia,Boot Configuration Data
+BCNF,en,computer_science,wikipedia,Boyce–Codd normal form
+BCP,en,computer_science,wikipedia,Business continuity planning
+BCP,en,computer_science,wikipedia,Best Current Practice
+BEEP,en,computer_science,wikipedia,Blocks Extensible Exchange Protocol
+BER,en,computer_science,wikipedia,Basic Encoding Rules
+BER,en,computer_science,wikipedia,Bit Error Rate
+BFD,en,computer_science,wikipedia,Bidirectional Forwarding Detection
+BFD,en,computer_science,wikipedia,Binary File Descriptor
+BFS,en,computer_science,wikipedia,Breadth-First Search
+BFT,en,computer_science,wikipedia,Byzantine Fault Tolerant
+BGP,en,computer_science,wikipedia,Border Gateway Protocol
+BI,en,computer_science,wikipedia,Business Intelligence
+BIA,en,computer_science,wikipedia,Business impact analysis
+BIND,en,computer_science,wikipedia,Berkeley Internet Name Domain
+BIOS,en,computer_science,wikipedia,Basic Input Output System
+BJT,en,computer_science,wikipedia,Bipolar Junction Transistor
+BMP,en,computer_science,wikipedia,Basic Multilingual Plane
+BNC,en,computer_science,wikipedia,Baby Neill Constant
+BOINC,en,computer_science,wikipedia,Berkeley Open Infrastructure for Network Computing
+BOM,en,computer_science,wikipedia,Byte Order Mark
+BPA,en,computer_science,wikipedia,Oracle Business Process Analysis Suite
+BPDU,en,computer_science,wikipedia,Bridge Protocol Data Units
+BPEL,en,computer_science,wikipedia,Business Process Execution Language
+BPL,en,computer_science,wikipedia,Broadband over Power Lines
+BPM,en,computer_science,wikipedia,Business Process Modeling
+BPM,en,computer_science,wikipedia,Business Process Management
+BPS,en,computer_science,wikipedia,bits per second
+BRM,en,computer_science,wikipedia,Business Reference Model
+BRMS,en,computer_science,wikipedia,Business Rule Management System
+BRR,en,computer_science,wikipedia,Business Readiness Rating
+BRS,en,computer_science,wikipedia,Broadband Radio Service
+BSA,en,computer_science,wikipedia,Business Software Alliance
+BSD,en,computer_science,wikipedia,Berkeley Software Distribution
+BSOD,en,computer_science,wikipedia,Blue Screen of Death
+BSS,en,computer_science,wikipedia,Basic service set
+BSS,en,computer_science,wikipedia,Block Started by Symbol
+BTAM,en,computer_science,wikipedia,Basic Telecommunications Access Method
+BURS,en,computer_science,wikipedia,Bottom-up rewrite system
+BYOD,en,computer_science,wikipedia,Bring Your Own Device
+CA,en,computer_science,wikipedia,"Computer Associates International, Inc."
+CA,en,computer_science,wikipedia,Certificate authority
+CAAS,en,computer_science,wikipedia,Content as a service
+CAD,en,computer_science,wikipedia,Computer-aided design
+CAE,en,computer_science,wikipedia,Computer-aided engineering
+CAI,en,computer_science,wikipedia,Computer-aided instruction
+CAID,en,computer_science,wikipedia,Computer-aided industrial design
+CAM,en,computer_science,wikipedia,Computer-aided manufacturing
+CAP,en,computer_science,wikipedia,Consistency availability partition tolerance
+CAPA,en,computer_science,wikipedia,Corrective and preventive action
+CAPTCHA,en,computer_science,wikipedia,Completely automated public Turing test to tell computers and humans apart
+CAQ,en,computer_science,wikipedia,Computer-aided quality assurance
+CASB,en,computer_science,wikipedia,Cloud access security broker
+CASE,en,computer_science,wikipedia,Computer-aided software engineering
+CAT,en,computer_science,wikipedia,Computer-aided translation
+CBC,en,computer_science,wikipedia,Cipher block chaining
+CBPRNG,en,computer_science,wikipedia,Counter-based pseudo-random number generator
+CBRNG,en,computer_science,wikipedia,Counter-based random number generator
+CC,en,computer_science,wikipedia,C compiler
+CC,en,computer_science,wikipedia,Creative Commons
+CC,en,computer_science,wikipedia,Carbon copy
+CCM,en,computer_science,wikipedia,Central control module
+CCMP,en,computer_science,wikipedia,CCM mode Protocol
+CD,en,computer_science,wikipedia,Compact Disc
+CD-R,en,computer_science,wikipedia,CD-Recordable
+CDE,en,computer_science,wikipedia,Common Desktop Environment
+CDMA,en,computer_science,wikipedia,Code-division multiple access
+CDN,en,computer_science,wikipedia,Content delivery network
+CDP,en,computer_science,wikipedia,Continuous data protection
+CDP,en,computer_science,wikipedia,Cisco Discovery Protocol
+CDSA,en,computer_science,wikipedia,Common Data Security Architecture
+CEI,en,computer_science,wikipedia,Comparably efficient interconnection
+CER,en,computer_science,wikipedia,Canonical Encoding Rules
+CERT,en,computer_science,wikipedia,Computer emergency response team
+CES,en,computer_science,wikipedia,Consumer Electronics Show
+CF,en,computer_science,wikipedia,Compact Flash
+CFD,en,computer_science,wikipedia,Computational fluid dynamics
+CFF,en,computer_science,wikipedia,Compact Font Format
+CFG,en,computer_science,wikipedia,Context-free grammar
+CFG,en,computer_science,wikipedia,Control-flow graph
+CG,en,computer_science,wikipedia,Computer graphics
+CGA,en,computer_science,wikipedia,Color graphics array
+CGI,en,computer_science,wikipedia,Common Gateway Interface
+CGI,en,computer_science,wikipedia,Computer-generated imagery
+CGT,en,computer_science,wikipedia,Computational Graph Theory
+CHAP,en,computer_science,wikipedia,Challenge-Handshake Authentication Protocol
+CHS,en,computer_science,wikipedia,Cylinder–head–sector
+CIA,en,computer_science,wikipedia,"Confidentiality, Integrity, Availability"
+CICS,en,computer_science,wikipedia,Customer Information Control System
+CIDR,en,computer_science,wikipedia,Classless inter-domain routing
+CIM,en,computer_science,wikipedia,Common Information Model
+CIO,en,computer_science,wikipedia,Chief information officer
+CIP,en,computer_science,wikipedia,Critical infrastructure protection
+CIR,en,computer_science,wikipedia,Committed information rate
+CIS,en,computer_science,wikipedia,Centre for Internet and Society
+CIS,en,computer_science,wikipedia,Comodo Internet Security
+CIS,en,computer_science,wikipedia,Center for Internet Security
+CIS,en,computer_science,wikipedia,Continuous ink system
+CIS,en,computer_science,wikipedia,Contact image sensor
+CIS,en,computer_science,wikipedia,Computer and information science
+CISC,en,computer_science,wikipedia,Complex-instruction-set computer
+CISO,en,computer_science,wikipedia,Chief information security officer
+CIT,en,computer_science,wikipedia,Computer Information Technology
+CIT,en,computer_science,wikipedia,Center for Information Technology
+CJK,en,computer_science,wikipedia,"Chinese, Japanese, and Korean"
+CJKV,en,computer_science,wikipedia,"Chinese, Japanese, Korean, and Vietnamese"
+CLI,en,computer_science,wikipedia,Command line interface
+CLI,en,computer_science,wikipedia,Command line interpreter
+CLR,en,computer_science,wikipedia,Common Language Runtime
+CM,en,computer_science,wikipedia,Configuration management
+CM,en,computer_science,wikipedia,Content management
+CMM,en,computer_science,wikipedia,Capability Maturity Model
+CMMI,en,computer_science,wikipedia,Capability Maturity Model Integration
+CMOS,en,computer_science,wikipedia,Complementary metal-oxide semiconductor
+CMOS,en,computer_science,wikipedia,Complementary metal–oxide–semiconductor
+CMS,en,computer_science,wikipedia,Content management system
+CN,en,computer_science,wikipedia,Canonical Name
+CN,en,computer_science,wikipedia,Common Name
+CNC,en,computer_science,wikipedia,Computerized numerical control
+CNG,en,computer_science,wikipedia,Cryptographic Next Generation
+CNR,en,computer_science,wikipedia,Communications and Networking Riser
+COM,en,computer_science,wikipedia,Component Object Model or communication
+COPE,en,computer_science,wikipedia,"Corporate-owned, personally enabled"
+CORBA,en,computer_science,wikipedia,Common Object Request Broker Architecture
+CORS,en,computer_science,wikipedia,Cross-origin resource sharing
+COTS,en,computer_science,wikipedia,Commercial off-the-shelf
+CP/CMS,en,computer_science,wikipedia,Control Program/Cambridge Monitor System
+CP/M,en,computer_science,wikipedia,Control Program/Monitor
+CPA,en,computer_science,wikipedia,Cell processor architecture
+CPAN,en,computer_science,wikipedia,Comprehensive Perl Archive Network
+CPE,en,computer_science,wikipedia,Customer premises equipment
+CPF,en,computer_science,wikipedia,Control Program Facility
+CPRI,en,computer_science,wikipedia,Common Public Radio Interface
+CPS,en,computer_science,wikipedia,Characters per second
+CPU,en,computer_science,wikipedia,Central processing unit
+CQRS,en,computer_science,wikipedia,Command Query Responsibility Segregation
+CQS,en,computer_science,wikipedia,Command–query separation
+CR,en,computer_science,wikipedia,Carriage return
+CRAN,en,computer_science,wikipedia,Comprehensive R Archive Network
+CRC,en,computer_science,wikipedia,Cyclic redundancy check
+CRL,en,computer_science,wikipedia,Certificate revocation list
+CRLF,en,computer_science,wikipedia,Carriage return line feed
+CRM,en,computer_science,wikipedia,Customer Relationship Management
+CRS,en,computer_science,wikipedia,Computer Reservations System
+CRT,en,computer_science,wikipedia,Cathode-ray tube
+CRT,en,computer_science,wikipedia,Cathode Ray Tube
+CRUD,en,computer_science,wikipedia,"Create, read, update and delete"
+CS,en,computer_science,wikipedia,Computer Science
+CS,en,computer_science,wikipedia,Cable Select
+CSE,en,computer_science,wikipedia,Computer science and engineering
+CSI,en,computer_science,wikipedia,Common System Interface
+CSM,en,computer_science,wikipedia,Compatibility support module
+CSMA/CA,en,computer_science,wikipedia,Carrier sense multiple access / collision avoidance
+CSMA/CD,en,computer_science,wikipedia,Carrier sense multiple access / collision detection
+CSO,en,computer_science,wikipedia,Chief security officer
+CSP,en,computer_science,wikipedia,Cloud service provider
+CSP,en,computer_science,wikipedia,Communicating sequential processes
+CSR,en,computer_science,wikipedia,Certificate signing request
+CSRF,en,computer_science,wikipedia,Cross-site request forgery
+CSS,en,computer_science,wikipedia,Closed-source software
+CSS,en,computer_science,wikipedia,Content-scrambling system
+CSS,en,computer_science,wikipedia,Cascading style sheets
+CSU,en,computer_science,wikipedia,Channel service unit
+CSU/DSU,en,computer_science,wikipedia,Channel service unit / data service unit
+CSV,en,computer_science,wikipedia,Comma-separated values
+CT,en,computer_science,wikipedia,Computerized tomography
+CTAN,en,computer_science,wikipedia,Comprehensive TeX Archive Network
+CTCP,en,computer_science,wikipedia,Client-to-client protocol
+CTFE,en,computer_science,wikipedia,Compile-time function execution
+CTI,en,computer_science,wikipedia,Computer telephony integration
+CTL,en,computer_science,wikipedia,Computation tree logic
+CTM,en,computer_science,wikipedia,Close To Metal
+CTS,en,computer_science,wikipedia,Clear to send
+CTSS,en,computer_science,wikipedia,Compatible Time-Sharing System
+CUA,en,computer_science,wikipedia,Common User Access
+CVC,en,computer_science,wikipedia,Card Verifiable Certificate
+CVE,en,computer_science,wikipedia,Common Vulnerabilities and Exposures
+CVS,en,computer_science,wikipedia,Concurrent Versions System
+CVSS,en,computer_science,wikipedia,Common Vulnerability Scoring System
+DAC,en,computer_science,wikipedia,Digital-to-analog converter
+DAC,en,computer_science,wikipedia,Discretionary access control
+DAL,en,computer_science,wikipedia,Database Abstraction Layer
+DAM,en,computer_science,wikipedia,Digital asset management
+DAM,en,computer_science,wikipedia,Database activity monitoring
+DAO,en,computer_science,wikipedia,Data Access Objects
+DAO,en,computer_science,wikipedia,Data Access Object
+DAO,en,computer_science,wikipedia,Disk-At-Once
+DAP,en,computer_science,wikipedia,Directory Access Protocol
+DARPA,en,computer_science,wikipedia,Defense Advanced Research Projects Agency
+DAS,en,computer_science,wikipedia,Direct Attached Storage
+DAT,en,computer_science,wikipedia,Digital Audio Tape
+DBCS,en,computer_science,wikipedia,Double Byte Character Set
+DCC,en,computer_science,wikipedia,Direct Client-to-Client
+DCCA,en,computer_science,wikipedia,Debian Common Core Alliance
+DCCP,en,computer_science,wikipedia,Datagram Congestion Control Protocol
+DCE,en,computer_science,wikipedia,Data communications equipment
+DCL,en,computer_science,wikipedia,Data Control Language
+DCMI,en,computer_science,wikipedia,Dublin Core Metadata Initiative
+DCOM,en,computer_science,wikipedia,Distributed Component Object Model
+DCS,en,computer_science,wikipedia,Distributed Control System
+DD,en,computer_science,wikipedia,Double Density
+DDE,en,computer_science,wikipedia,Dynamic Data Exchange
+DDL,en,computer_science,wikipedia,Data Definition Language
+DDOS,en,computer_science,wikipedia,Distributed Denial of Service
+DDR,en,computer_science,wikipedia,Double Data Rate
+DE,en,computer_science,wikipedia,Desktop environment
+DEC,en,computer_science,wikipedia,Digital Equipment Corporation
+DEP,en,computer_science,wikipedia,Data Execution Prevention
+DER,en,computer_science,wikipedia,Distinguished Encoding Rules
+DES,en,computer_science,wikipedia,Data Encryption Standard
+DFA,en,computer_science,wikipedia,Deterministic Finite Automaton
+DFD,en,computer_science,wikipedia,Data Flow Diagram
+DFS,en,computer_science,wikipedia,Distributed File System
+DFS,en,computer_science,wikipedia,Depth-First Search
+DGD,en,computer_science,wikipedia,Dworkin's Game Driver
+DH,en,computer_science,wikipedia,Diffie–Hellman
+DHCP,en,computer_science,wikipedia,Dynamic Host Configuration Protocol
+DIF,en,computer_science,wikipedia,Data Integrity Field
+DIMM,en,computer_science,wikipedia,Dual Inline Memory Module
+DIMM,en,computer_science,wikipedia,Dual In-line Memory Module
+DIN,en,computer_science,wikipedia,Deutsches Institut für Normung
+DIP,en,computer_science,wikipedia,Dual In-line Package
+DISM,en,computer_science,wikipedia,Deployment Image and Service Management Tool
+DLL,en,computer_science,wikipedia,Dynamic-link library
+DLNA,en,computer_science,wikipedia,Digital Living Network Alliance
+DLP,en,computer_science,wikipedia,Data loss prevention
+DMA,en,computer_science,wikipedia,Direct Memory Access
+DMARC,en,computer_science,wikipedia,"Domain-based Message Authentication, Reporting and Conformance"
+DMCA,en,computer_science,wikipedia,Digital Millennium Copyright Act
+DMI,en,computer_science,wikipedia,Desktop Management Interface
+DMI,en,computer_science,wikipedia,Direct Media Interface
+DML,en,computer_science,wikipedia,Data Manipulation Language
+DML,en,computer_science,wikipedia,Definitive Media Library
+DMR,en,computer_science,wikipedia,Dennis M. Ritchie
+DN,en,computer_science,wikipedia,Distinguished Name
+DNAT,en,computer_science,wikipedia,Destination network address translation
+DNP3,en,computer_science,wikipedia,Distributed Network Protocol 3
+DNS,en,computer_science,wikipedia,Domain Name System
+DOA,en,computer_science,wikipedia,Dead on Arrival
+DOCSIS,en,computer_science,wikipedia,Data Over Cable Service Interface Specification
+DOH,en,computer_science,wikipedia,DNS over HTTPS
+DOM,en,computer_science,wikipedia,Document Object Model
+DORA,en,computer_science,wikipedia,"Discover, Offer, Request, Acknowledge"
+DOS,en,computer_science,wikipedia,Denial of Service
+DOS,en,computer_science,wikipedia,Disk Operating System
+DOT,en,computer_science,wikipedia,DNS over TLS
+DP,en,computer_science,wikipedia,Dot Pitch
+DPC,en,computer_science,wikipedia,Deferred Procedure Call
+DPI,en,computer_science,wikipedia,Dots per inch
+DPI,en,computer_science,wikipedia,Deep packet inspection
+DPMI,en,computer_science,wikipedia,DOS Protected Mode Interface
+DPMS,en,computer_science,wikipedia,Display Power Management Signaling
+DPO,en,computer_science,wikipedia,Data Protection Officer or Data Privacy Officer
+DR,en,computer_science,wikipedia,Disaster Recovery
+DRAM,en,computer_science,wikipedia,Dynamic Random-Access Memory
+DRBG,en,computer_science,wikipedia,Deterministic random bit generator
+DRI,en,computer_science,wikipedia,Direct Rendering Infrastructure
+DRM,en,computer_science,wikipedia,Direct rendering manager
+DRM,en,computer_science,wikipedia,Digital rights management
+DRP,en,computer_science,wikipedia,Disaster recovery plan
+DSA,en,computer_science,wikipedia,Digital Signature Algorithm
+DSCP,en,computer_science,wikipedia,Differentiated services code point
+DSDL,en,computer_science,wikipedia,Document Schema Definition Languages
+DSDM,en,computer_science,wikipedia,Dynamic Systems Development Method
+DSL,en,computer_science,wikipedia,Digital Subscriber Line
+DSL,en,computer_science,wikipedia,Domain-Specific Language
+DSLAM,en,computer_science,wikipedia,Digital Subscriber Line Access Multiplexer
+DSN,en,computer_science,wikipedia,Data Set Name
+DSN,en,computer_science,wikipedia,Database Source Name
+DSP,en,computer_science,wikipedia,Digital Signal Processor
+DSRC,en,computer_science,wikipedia,Dedicated short-range communications
+DSSS,en,computer_science,wikipedia,Direct-sequence spread spectrum
+DSSSL,en,computer_science,wikipedia,Document Style Semantics and Specification Language
+DTD,en,computer_science,wikipedia,Document Type Definition
+DTE,en,computer_science,wikipedia,Data Terminal Equipment or data transfer rate
+DTE,en,computer_science,wikipedia,Data Terminal Equipment
+DTLS,en,computer_science,wikipedia,Datagram Transport Layer Security
+DTO,en,computer_science,wikipedia,Data Transfer Object
+DTR,en,computer_science,wikipedia,Data Terminal Ready or Data transfer rate
+DTSTTCPW,en,computer_science,wikipedia,"""do the simplest thing that could possibly work"""
+DV,en,computer_science,wikipedia,Domain-validated certificate
+DVD,en,computer_science,wikipedia,Digital Versatile Disc or Digital Video Disc
+DVD-R,en,computer_science,wikipedia,DVD-Recordable
+DVD-ROM,en,computer_science,wikipedia,DVD-Read-Only Memory
+DVI,en,computer_science,wikipedia,Digital Visual Interface
+DVR,en,computer_science,wikipedia,Digital Video Recorder
+DW,en,computer_science,wikipedia,Data Warehouse
+EAAF,en,computer_science,wikipedia,Enterprise Architecture Assessment Framework
+EAI,en,computer_science,wikipedia,Enterprise Application Integration
+EAP,en,computer_science,wikipedia,Extensible Authentication Protocol
+EBCDIC,en,computer_science,wikipedia,Extended Binary Coded Decimal Interchange Code
+EBML,en,computer_science,wikipedia,Extensible Binary Meta Language
+ECC,en,computer_science,wikipedia,Elliptic-curve cryptography
+ECDH,en,computer_science,wikipedia,Elliptic-curve Diffie–Hellman
+ECDHE,en,computer_science,wikipedia,Elliptic-curve Diffie–Hellman Ephemeral
+ECDSA,en,computer_science,wikipedia,Elliptic Curve Digital Signature Algorithm
+ECMA,en,computer_science,wikipedia,European Computer Manufacturers Association
+ECN,en,computer_science,wikipedia,Explicit Congestion Notification
+ECOS,en,computer_science,wikipedia,Embedded Configurable Operating System
+ECRS,en,computer_science,wikipedia,Expense and Cost Recovery System
+ECS,en,computer_science,wikipedia,Entity-Component-System
+ECU,en,computer_science,wikipedia,Electronic control unit
+EDA,en,computer_science,wikipedia,Electronic Design Automation
+EDGE,en,computer_science,wikipedia,Enhanced Data rates for GSM Evolution
+EDI,en,computer_science,wikipedia,Electronic Data Interchange
+EDO,en,computer_science,wikipedia,Extended Data Out
+EDR,en,computer_science,wikipedia,Endpoint detection and response
+EDSAC,en,computer_science,wikipedia,Electronic Delay Storage Automatic Calculator
+EDVAC,en,computer_science,wikipedia,Electronic Discrete Variable Automatic Computer
+EEPROM,en,computer_science,wikipedia,Electronically Erasable Programmable Read-Only Memory
+EFF,en,computer_science,wikipedia,Electronic Frontier Foundation
+EFI,en,computer_science,wikipedia,Extensible Firmware Interface
+EFM,en,computer_science,wikipedia,Ethernet in the first mile
+EFM,en,computer_science,wikipedia,Eight-to-Fourteen Modulation
+EFS,en,computer_science,wikipedia,Encrypting File System
+EGA,en,computer_science,wikipedia,Enhanced Graphics Array
+EGP,en,computer_science,wikipedia,Exterior Gateway Protocol
+EHA,en,computer_science,wikipedia,Ethernet Hardware Address
+EIA,en,computer_science,wikipedia,Electronics Industry Alliance
+EID,en,computer_science,wikipedia,electronic ID card
+EIDE,en,computer_science,wikipedia,Enhanced IDE
+EIGRP,en,computer_science,wikipedia,Enhanced Interior Gateway Routing Protocol
+EISA,en,computer_science,wikipedia,Extended Industry Standard Architecture
+EKE,en,computer_science,wikipedia,Encrypted key exchange
+ELF,en,computer_science,wikipedia,Executable and Linkable Format
+ELF,en,computer_science,wikipedia,Extremely Low Frequency
+ELM,en,computer_science,wikipedia,ELectronic Mail
+EMAC,en,computer_science,wikipedia,Ethernet Media Access Control
+EMCC,en,computer_science,wikipedia,Eckert–Mauchly Computer Corporation
+EMS,en,computer_science,wikipedia,Expanded Memory Specification
+ENIAC,en,computer_science,wikipedia,Electronic Numerical Integrator And Computer
+EOF,en,computer_science,wikipedia,End Of Frame
+EOF,en,computer_science,wikipedia,End of File
+EOL,en,computer_science,wikipedia,End of Life
+EOL,en,computer_science,wikipedia,End of Line
+EOM,en,computer_science,wikipedia,End of Message
+EOS,en,computer_science,wikipedia,End of Support
+EPIC,en,computer_science,wikipedia,Explicitly Parallel Instruction Computing
+EPP,en,computer_science,wikipedia,Endpoint protection platform
+EPROM,en,computer_science,wikipedia,Erasable Programmable Read-Only Memory
+ERD,en,computer_science,wikipedia,Entity–Relationship Diagram
+ERGS,en,computer_science,wikipedia,Electronic Route Guidance System
+ERM,en,computer_science,wikipedia,Entity–Relationship Model
+ERP,en,computer_science,wikipedia,Enterprise Resource Planning
+ESB,en,computer_science,wikipedia,Enterprise service bus
+ESI,en,computer_science,wikipedia,Electronically Stored Information
+ESN,en,computer_science,wikipedia,Electronic serial number
+ESP,en,computer_science,wikipedia,Encapsulating Security Payload
+ESR,en,computer_science,wikipedia,Eric Steven Raymond
+ESS,en,computer_science,wikipedia,Extended service set
+ETA,en,computer_science,wikipedia,Estimated Time of Arrival
+ETDR,en,computer_science,wikipedia,Endpoint threat detection and response
+ETL,en,computer_science,wikipedia,"Extract, Transform, Load"
+ETM,en,computer_science,wikipedia,Encrypt-then-MAC
+ETW,en,computer_science,wikipedia,Event Tracing for Windows
+EUC,en,computer_science,wikipedia,Extended Unix Code
+EULA,en,computer_science,wikipedia,End User License Agreement
+EV,en,computer_science,wikipedia,Extended Validation Certificate
+EWMH,en,computer_science,wikipedia,Extended Window Manager Hints
+EXT,en,computer_science,wikipedia,EXTended file system
+FAP,en,computer_science,wikipedia,FORTRAN Assembly Program
+FAQ,en,computer_science,wikipedia,Frequently Asked Questions
+FAST,en,computer_science,wikipedia,Flexible Authenication via Secure Tunneling
+FAT,en,computer_science,wikipedia,File Allocation Table
+FBDIMM,en,computer_science,wikipedia,Fully Buffered Dual Inline Memory Module
+FCB,en,computer_science,wikipedia,File Control Block
+FCC,en,computer_science,wikipedia,Federal Communications Commission
+FCS,en,computer_science,wikipedia,Frame Check Sequence
+FDC,en,computer_science,wikipedia,Floppy-Disk Controller
+FDD,en,computer_science,wikipedia,Frequency-Division Duplexing
+FDD,en,computer_science,wikipedia,Floppy Disk Drive
+FDDI,en,computer_science,wikipedia,Fiber Distributed Data Interface
+FDE,en,computer_science,wikipedia,Full disk encryption
+FDM,en,computer_science,wikipedia,Frequency-Division Multiplexing
+FDMA,en,computer_science,wikipedia,Frequency-Division Multiple Access
+FDS,en,computer_science,wikipedia,Fedora Directory Server
+FEC,en,computer_science,wikipedia,Forward Error Correction
+FET,en,computer_science,wikipedia,Field Effect Transistor
+FHS,en,computer_science,wikipedia,Filesystem Hierarchy Standard
+FHSS,en,computer_science,wikipedia,Frequency-hopping spread spectrum
+FICON,en,computer_science,wikipedia,FIber CONnectivity
+FIFO,en,computer_science,wikipedia,First In First Out
+FIM,en,computer_science,wikipedia,File integrity monitoring
+FIPS,en,computer_science,wikipedia,Federal Information Processing Standards
+FIRST,en,computer_science,wikipedia,Forum of Incident Response and Security Teams
+FL,en,computer_science,wikipedia,Function Level
+FLAC,en,computer_science,wikipedia,Free Lossless Audio Codec
+FLOPS,en,computer_science,wikipedia,FLoating-Point Operations Per Second
+FLOSS,en,computer_science,wikipedia,Free/Libre/Open-Source Software
+FMC,en,computer_science,wikipedia,"Fixed Mobile Convergence ""Mobile UC or Unified Communications over Wireless"""
+FOLDOC,en,computer_science,wikipedia,Free On-line Dictionary of Computing
+FOSDEM,en,computer_science,wikipedia,Free and Open-source Software Developers' European Meeting
+FOSI,en,computer_science,wikipedia,Formatted Output Specification Instance
+FOSS,en,computer_science,wikipedia,Free and Open-Source Software
+FP,en,computer_science,wikipedia,Function Programming
+FP,en,computer_science,wikipedia,Functional Programming
+FPGA,en,computer_science,wikipedia,Field-programmable gate array
+FPS,en,computer_science,wikipedia,Floating Point Systems
+FPU,en,computer_science,wikipedia,Floating-Point Unit
+FQDN,en,computer_science,wikipedia,Fully Qualified Domain Name
+FRU,en,computer_science,wikipedia,Field-Replaceable Unit
+FS,en,computer_science,wikipedia,Forward secrecy
+FS,en,computer_science,wikipedia,File System
+FSB,en,computer_science,wikipedia,Front-Side Bus
+FSF,en,computer_science,wikipedia,Free Software Foundation
+FSM,en,computer_science,wikipedia,Finite State Machine
+FTP,en,computer_science,wikipedia,File Transfer Protocol
+FTPS,en,computer_science,wikipedia,FTP-SSL or FTP Secure
+FTTC,en,computer_science,wikipedia,Fiber To The Curb
+FTTH,en,computer_science,wikipedia,Fiber To The Home
+FTTP,en,computer_science,wikipedia,Fiber To The Premises
+FUD,en,computer_science,wikipedia,Fear Uncertainty Doubt
+FWS,en,computer_science,wikipedia,Folding White Space
+FYI,en,computer_science,wikipedia,For Your Information
+GCC,en,computer_science,wikipedia,GNU Compiler Collection
+GCJ,en,computer_science,wikipedia,GNU Compiler for Java
+GCM,en,computer_science,wikipedia,Galois/Counter Mode
+GCP,en,computer_science,wikipedia,Google Cloud Platform
+GCR,en,computer_science,wikipedia,Group Coded Recording
+GDI,en,computer_science,wikipedia,Graphics Device Interface
+GDPR,en,computer_science,wikipedia,General Data Protection Regulation
+GEPOF,en,computer_science,wikipedia,Gigabit Ethernet Plastic Optical Fiber
+GERAN,en,computer_science,wikipedia,GSM EDGE Radio Access Network
+GFDL,en,computer_science,wikipedia,GNU Free Documentation License
+GIF,en,computer_science,wikipedia,Graphics Interchange Format
+GIGO,en,computer_science,wikipedia,"Garbage In, Garbage Out"
+GIMP,en,computer_science,wikipedia,GNU Image Manipulation Program
+GIMPS,en,computer_science,wikipedia,Great Internet Mersenne Prime Search
+GIS,en,computer_science,wikipedia,Geographic Information System
+GMAC,en,computer_science,wikipedia,Gigabit Ethernet Media Access Control
+GML,en,computer_science,wikipedia,Geography Markup Language
+GNOME,en,computer_science,wikipedia,GNU Network Object Model Environment
+GNU,en,computer_science,wikipedia,GNU's Not Unix
+GNUTLS,en,computer_science,wikipedia,GNU Transport Layer Security
+GOMS,en,computer_science,wikipedia,"Goals, Operators, Methods, and Selection rules"
+GPFS,en,computer_science,wikipedia,General Parallel File System
+GPG,en,computer_science,wikipedia,GNU Privacy Guard
+GPGPU,en,computer_science,wikipedia,General-Purpose Computing on Graphics Processing Units
+GPIB,en,computer_science,wikipedia,General-Purpose Instrumentation Bus
+GPL,en,computer_science,wikipedia,General Public License
+GPL,en,computer_science,wikipedia,General-Purpose Language
+GPO,en,computer_science,wikipedia,Group Policy Object
+GPRS,en,computer_science,wikipedia,General Packet Radio Service
+GPT,en,computer_science,wikipedia,GUID Partition Table
+GPU,en,computer_science,wikipedia,Graphics Processing Unit
+GRE,en,computer_science,wikipedia,Generic routing encapsulation
+GSM,en,computer_science,wikipedia,Global System for Mobile Communications
+GTC,en,computer_science,wikipedia,Generic Token Card
+GUI,en,computer_science,wikipedia,Graphical user interface
+GUID,en,computer_science,wikipedia,Globally Unique IDentifier
+GWT,en,computer_science,wikipedia,Google Web Toolkit
+HA,en,computer_science,wikipedia,High availability
+HAL,en,computer_science,wikipedia,Hardware Abstraction Layer
+HASP,en,computer_science,wikipedia,Houston Automatic Spooling Priority
+HBA,en,computer_science,wikipedia,Host Bus Adapter
+HCI,en,computer_science,wikipedia,Human—Computer Interaction
+HCL,en,computer_science,wikipedia,Hardware Compatibility List
+HD,en,computer_science,wikipedia,High Density
+HDD,en,computer_science,wikipedia,Hard Disk Drive
+HDDVD,en,computer_science,wikipedia,High Definition DVD
+HDL,en,computer_science,wikipedia,Hardware Description Language
+HDLC,en,computer_science,wikipedia,High-level Data Link Control
+HDMI,en,computer_science,wikipedia,High-Definition Multimedia Interface
+HECI,en,computer_science,wikipedia,Host Embedded Controller Interface
+HF,en,computer_science,wikipedia,High Frequency
+HFS,en,computer_science,wikipedia,Hierarchical File System
+HHD,en,computer_science,wikipedia,Hybrid Hard Drive
+HID,en,computer_science,wikipedia,Human Interface Device
+HIDS,en,computer_science,wikipedia,Host-based intrusion detection system
+HIG,en,computer_science,wikipedia,Human Interface Guidelines
+HIPS,en,computer_science,wikipedia,Host-based intrusion prevention system
+HIRD,en,computer_science,wikipedia,Hurd of Interfaces Representing Depth
+HLR,en,computer_science,wikipedia,Home location register
+HLS,en,computer_science,wikipedia,HTTP Live Streaming
+HMA,en,computer_science,wikipedia,High Memory Area
+HMAC,en,computer_science,wikipedia,Hash-based message authentication code
+HOTP,en,computer_science,wikipedia,HMAC-based one-time password
+HP,en,computer_science,wikipedia,Hewlett-Packard
+HPC,en,computer_science,wikipedia,High-Performance Computing
+HPFS,en,computer_science,wikipedia,High Performance File System
+HSDPA,en,computer_science,wikipedia,High-Speed Downlink Packet Access
+HSM,en,computer_science,wikipedia,Hierarchical storage management
+HSM,en,computer_science,wikipedia,Hardware security module
+HT,en,computer_science,wikipedia,Hyper Threading
+HTC,en,computer_science,wikipedia,High-Throughput Computing
+HTM,en,computer_science,wikipedia,Hierarchical Temporal Memory
+HTTPS,en,computer_science,wikipedia,HTTP Secure
+HURD,en,computer_science,wikipedia,Hird of Unix-Replacing Daemons
+HVD,en,computer_science,wikipedia,Holographic Versatile Disc
+I/O,en,computer_science,wikipedia,Input/output
+IAAS,en,computer_science,wikipedia,Infrastructure as a Service
+IAB,en,computer_science,wikipedia,Internet Architecture Board
+IAC,en,computer_science,wikipedia,Infrastructure as Code
+IAM,en,computer_science,wikipedia,Identity and access management
+IANA,en,computer_science,wikipedia,Internet Assigned Number Authority
+IANA,en,computer_science,wikipedia,Internet Assigned Numbers Authority
+IBCS,en,computer_science,wikipedia,Intel Binary Compatibility Standard
+IBM,en,computer_science,wikipedia,International Business Machines
+IBSS,en,computer_science,wikipedia,Independent basic service set
+IC,en,computer_science,wikipedia,Integrated Circuit
+ICAAS,en,computer_science,wikipedia,Integration Capability as a Service
+ICANN,en,computer_science,wikipedia,Internet Corporation for Assigned Names and Numbers
+ICE,en,computer_science,wikipedia,In-Circuit Emulator
+ICE,en,computer_science,wikipedia,Intrusion Countermeasure Electronics
+ICH,en,computer_science,wikipedia,I/O Controller Hub
+ICL,en,computer_science,wikipedia,International Computers Limited
+ICMP,en,computer_science,wikipedia,Internet Control Message Protocol
+ICP,en,computer_science,wikipedia,Internet Cache Protocol
+ICS,en,computer_science,wikipedia,Internet Connection Sharing
+ICS,en,computer_science,wikipedia,Industrial control system
+ICT,en,computer_science,wikipedia,Information and Communication Technology
+IDE,en,computer_science,wikipedia,Integrated Development Environment
+IDE,en,computer_science,wikipedia,Integrated Drive Electronics
+IDEA,en,computer_science,wikipedia,International Data Encryption Algorithm
+IDF,en,computer_science,wikipedia,Intermediate Data Format
+IDF,en,computer_science,wikipedia,Intermediate Distribution Frame
+IDL,en,computer_science,wikipedia,Interface Definition Language
+IDL,en,computer_science,wikipedia,Interactive Data Language
+IDN,en,computer_science,wikipedia,Internationalized domain name
+IDPS,en,computer_science,wikipedia,Intrusion detection and prevention system
+IDS,en,computer_science,wikipedia,Intrusion Detection System
+IE,en,computer_science,wikipedia,Internet Explorer
+IEC,en,computer_science,wikipedia,International Electrotechnical Commission
+IED,en,computer_science,wikipedia,Intelligent electronic device
+IEEE,en,computer_science,wikipedia,Institute for Electrical and Electronic Engineers
+IEEE,en,computer_science,wikipedia,Institute of Electrical and Electronics Engineers
+IEN,en,computer_science,wikipedia,Internet Experiment Note
+IETF,en,computer_science,wikipedia,Internet Engineering Task Force
+IFL,en,computer_science,wikipedia,Integrated Facility for Linux
+IGMP,en,computer_science,wikipedia,Internet Group Management Protocol
+IGRP,en,computer_science,wikipedia,Interior Gateway Routing Protocol
+IHV,en,computer_science,wikipedia,Independent Hardware Vendor
+IIOP,en,computer_science,wikipedia,Internet Inter-Orb Protocol
+IIS,en,computer_science,wikipedia,Internet Information Services
+IKE,en,computer_science,wikipedia,Internet Key Exchange
+IL,en,computer_science,wikipedia,Intermediate Language
+IM,en,computer_science,wikipedia,Instant Message or Instant Messaging
+IMAP,en,computer_science,wikipedia,Internet Message Access Protocol
+IME,en,computer_science,wikipedia,Input Method Editor
+IOC,en,computer_science,wikipedia,Indicator of compromise
+IOC,en,computer_science,wikipedia,Inversion of control
+IOT,en,computer_science,wikipedia,Internet of Things
+IP,en,computer_science,wikipedia,Intellectual Property
+IP,en,computer_science,wikipedia,Internet Protocol
+IPAM,en,computer_science,wikipedia,IP Address Management
+IPC,en,computer_science,wikipedia,Inter-Process Communication
+IPL,en,computer_science,wikipedia,Initial Program Load
+IPMI,en,computer_science,wikipedia,Intelligent Platform Management Interface
+IPO,en,computer_science,wikipedia,Inter Procedural Optimization
+IPP,en,computer_science,wikipedia,Internet Printing Protocol
+IPS,en,computer_science,wikipedia,Intrusion Prevention System
+IPS,en,computer_science,wikipedia,In-Plane Switching
+IPS,en,computer_science,wikipedia,Instructions Per Second
+IPV4,en,computer_science,wikipedia,Internet Protocol version 4
+IPV6,en,computer_science,wikipedia,Internet Protocol version 6
+IR,en,computer_science,wikipedia,Intermediate representation
+IRC,en,computer_science,wikipedia,Internet Relay Chat
+IRI,en,computer_science,wikipedia,Internationalized Resource Identifier
+IRP,en,computer_science,wikipedia,I/O Request Packet
+IRT,en,computer_science,wikipedia,Incident response team
+IS,en,computer_science,wikipedia,Information Systems
+ISA,en,computer_science,wikipedia,Industry Standard Architecture
+ISA,en,computer_science,wikipedia,Instruction Set Architecture
+ISAC,en,computer_science,wikipedia,Information Sharing and Analysis Center
+ISAKMP,en,computer_science,wikipedia,Internet Security Association and Key Management Protocol
+ISAM,en,computer_science,wikipedia,Indexed Sequential Access Method
+ISAP,en,computer_science,wikipedia,Information Security Automation Program
+ISATAP,en,computer_science,wikipedia,Intra-Site Automatic Tunnel Addressing Protocol
+ISC,en,computer_science,wikipedia,Internet Storm Center
+ISCSI,en,computer_science,wikipedia,Internet Small Computer System Interface
+ISDN,en,computer_science,wikipedia,Integrated Services Digital Network
+ISNS,en,computer_science,wikipedia,Internet Storage Name Service
+ISOC,en,computer_science,wikipedia,Information security operations center
+ISP,en,computer_science,wikipedia,Internet Service Provider
+ISPF,en,computer_science,wikipedia,Interactive System Productivity Facility
+ISR,en,computer_science,wikipedia,Interrupt Service Routine
+ISSA,en,computer_science,wikipedia,Information Systems Security Association
+ISV,en,computer_science,wikipedia,Independent Software Vendor
+IT,en,computer_science,wikipedia,Information Technology
+ITIL,en,computer_science,wikipedia,Information Technology Infrastructure Library
+ITL,en,computer_science,wikipedia,Interval Temporal Logic
+ITS,en,computer_science,wikipedia,Intelligent transportation system
+ITU,en,computer_science,wikipedia,International Telecommunication Union
+IV,en,computer_science,wikipedia,Initialization vector
+J2EE,en,computer_science,wikipedia,Java 2 Enterprise Edition
+J2ME,en,computer_science,wikipedia,Java 2 Micro Edition
+J2SE,en,computer_science,wikipedia,Java 2 Standard Edition
+JAAS,en,computer_science,wikipedia,Java Authentication and Authorization Service
+JAXB,en,computer_science,wikipedia,Java Architecture for XML Binding
+JAXP,en,computer_science,wikipedia,Java API for XML Processing
+JBOD,en,computer_science,wikipedia,Just a Bunch of Disks
+JCE,en,computer_science,wikipedia,Java Cryptography Extension
+JCL,en,computer_science,wikipedia,Job Control Language
+JCP,en,computer_science,wikipedia,Java Community Process
+JDK,en,computer_science,wikipedia,Java Development Kit
+JDS,en,computer_science,wikipedia,Java Desktop System
+JEE,en,computer_science,wikipedia,Java Enterprise Edition
+JES,en,computer_science,wikipedia,Job Entry Subsystem
+JFC,en,computer_science,wikipedia,Java Foundation Classes
+JFET,en,computer_science,wikipedia,Junction Field-Effect Transistor
+JFS,en,computer_science,wikipedia,IBM Journaling File System
+JINI,en,computer_science,wikipedia,Jini Is Not Initials
+JIT,en,computer_science,wikipedia,Just-In-Time
+JME,en,computer_science,wikipedia,Java Micro Edition
+JMS,en,computer_science,wikipedia,Java Message Service
+JNDI,en,computer_science,wikipedia,Java Naming and Directory Interface
+JNI,en,computer_science,wikipedia,Java Native Interface
+JNZ,en,computer_science,wikipedia,Jump non-zero
+JPEG,en,computer_science,wikipedia,Joint Photographic Experts Group
+JRE,en,computer_science,wikipedia,Java Runtime Environment
+JSE,en,computer_science,wikipedia,Java Standard Edition
+JSP,en,computer_science,wikipedia,Jackson Structured Programming
+JTAG,en,computer_science,wikipedia,Joint Test Action Group
+JVM,en,computer_science,wikipedia,Java Virtual Machine
+KB,en,computer_science,wikipedia,Knowledge Base
+KC,en,computer_science,wikipedia,Keyboard computer
+KDC,en,computer_science,wikipedia,Key distribution center
+KDE,en,computer_science,wikipedia,K Desktop Environment
+KDF,en,computer_science,wikipedia,Key derivation function
+KEK,en,computer_science,wikipedia,Key encryption key
+KINK,en,computer_science,wikipedia,Kerberized Internet Negotiation of Keys
+KML,en,computer_science,wikipedia,Keyhole Markup Language
+KPK,en,computer_science,wikipedia,Key production key
+KPOP,en,computer_science,wikipedia,Kerberized Post Office Protocol
+KRL,en,computer_science,wikipedia,Knowledge Representation Language
+KVM,en,computer_science,wikipedia,"Keyboard, Video, Mouse"
+L2TP,en,computer_science,wikipedia,Layer 2 Tunneling Protocol
+LACP,en,computer_science,wikipedia,Link Aggregation Control Protocol
+LAMP,en,computer_science,wikipedia,Linux Apache MySQL PHP
+LAMP,en,computer_science,wikipedia,Linux Apache MySQL Python
+LAMP,en,computer_science,wikipedia,Linux Apache MySQL Perl
+LAN,en,computer_science,wikipedia,Local Area Network
+LAPB,en,computer_science,wikipedia,"Link Access Procedure, Balanced"
+LB,en,computer_science,wikipedia,Load Balancer
+LBA,en,computer_science,wikipedia,Logical Block Addressing
+LBAC,en,computer_science,wikipedia,Lattice-based access control
+LCD,en,computer_science,wikipedia,Liquid Crystal Display
+LCOS,en,computer_science,wikipedia,Liquid Crystal On Silicon
+LCR,en,computer_science,wikipedia,Least Cost Routing
+LDAP,en,computer_science,wikipedia,Lightweight Directory Access Protocol
+LE,en,computer_science,wikipedia,Logical Extents
+LEAP,en,computer_science,wikipedia,Lightweight Extensible Authentication Protocol
+LED,en,computer_science,wikipedia,Light-Emitting Diode
+LF,en,computer_science,wikipedia,Low Frequency
+LF,en,computer_science,wikipedia,Line Feed
+LFS,en,computer_science,wikipedia,Linux From Scratch
+LGA,en,computer_science,wikipedia,Land Grid Array
+LGPL,en,computer_science,wikipedia,Lesser General Public License
+LIB,en,computer_science,wikipedia,LIBrary
+LIF,en,computer_science,wikipedia,Low Insertion Force
+LIFO,en,computer_science,wikipedia,Last In First Out
+LISP,en,computer_science,wikipedia,LISt Processing
+LKML,en,computer_science,wikipedia,Linux Kernel Mailing List
+LLC,en,computer_science,wikipedia,Logical link control
+LM,en,computer_science,wikipedia,Lan Manager
+LOC,en,computer_science,wikipedia,Lines of Code
+LPC,en,computer_science,wikipedia,Lars Pensjö C
+LPI,en,computer_science,wikipedia,Linux Professional Institute
+LPT,en,computer_science,wikipedia,Line Print Terminal
+LRU,en,computer_science,wikipedia,Least Recently Used
+LSB,en,computer_science,wikipedia,Least Significant Bit
+LSB,en,computer_science,wikipedia,Linux Standard Base
+LSI,en,computer_science,wikipedia,Large-Scale Integration
+LTE,en,computer_science,wikipedia,Long Term Evolution
+LTL,en,computer_science,wikipedia,Linear Temporal Logic
+LTR,en,computer_science,wikipedia,Left-to-Right
+LUG,en,computer_science,wikipedia,Linux User Group
+LUN,en,computer_science,wikipedia,Logical Unit Number
+LV,en,computer_science,wikipedia,Logical Volume
+LVD,en,computer_science,wikipedia,Low Voltage Differential
+LVM,en,computer_science,wikipedia,Logical Volume Management
+LZW,en,computer_science,wikipedia,Lempel-Ziv-Welch
+MAAS,en,computer_science,wikipedia,Monitoring as a service
+MAAS,en,computer_science,wikipedia,Mobility as a service
+MAAWG,en,computer_science,wikipedia,Messaging Anti-Abuse Working Group
+MAC,en,computer_science,wikipedia,Mandatory access control
+MAC,en,computer_science,wikipedia,Message authentication code
+MAC,en,computer_science,wikipedia,Media access control
+MAC,en,computer_science,wikipedia,Medium access control
+MAM,en,computer_science,wikipedia,Media access management
+MAN,en,computer_science,wikipedia,Metropolitan Area Network
+MAPI,en,computer_science,wikipedia,Messaging Application Programming Interface
+MAPS,en,computer_science,wikipedia,Mail Abuse Prevention System
+MAU,en,computer_science,wikipedia,Media access unit
+MAU,en,computer_science,wikipedia,Medium Attachment Unit
+MBCS,en,computer_science,wikipedia,Multi Byte Character Set
+MBD,en,computer_science,wikipedia,Model-Based Design
+MBR,en,computer_science,wikipedia,Master Boot Record
+MBSS,en,computer_science,wikipedia,Mesh basic service set
+MCA,en,computer_science,wikipedia,Microsoft Certified Architect
+MCA,en,computer_science,wikipedia,Micro Channel Architecture
+MCITP,en,computer_science,wikipedia,Microsoft Certified Information Technology Professional
+MCM,en,computer_science,wikipedia,Microsoft Certified Master
+MCP,en,computer_science,wikipedia,Microsoft Certified Professional
+MCPD,en,computer_science,wikipedia,Microsoft Certified Professional Developer
+MCTS,en,computer_science,wikipedia,Microsoft Certified Technology Specialist
+MDA,en,computer_science,wikipedia,Model-Driven Architecture
+MDA,en,computer_science,wikipedia,Monochrome Display Adapter
+MDA,en,computer_science,wikipedia,Mail Delivery Agent
+MDF,en,computer_science,wikipedia,Main Distribution Frame
+MDI,en,computer_science,wikipedia,Multiple-Document Interface
+MDM,en,computer_science,wikipedia,Master data management
+MDM,en,computer_science,wikipedia,Mobile device management
+ME,en,computer_science,wikipedia,Microsoft Edge
+ME,en,computer_science,wikipedia,[Windows] Millennium Edition
+MF,en,computer_science,wikipedia,Medium Frequency
+MFA,en,computer_science,wikipedia,Multi-factor authentication
+MFC,en,computer_science,wikipedia,Microsoft Foundation Classes
+MFD,en,computer_science,wikipedia,Multi-function device
+MFM,en,computer_science,wikipedia,Modified Frequency Modulation
+MFP,en,computer_science,wikipedia,Multi-function printer
+MFT,en,computer_science,wikipedia,Master File Table
+MGCP,en,computer_science,wikipedia,Media Gateway Control Protocol
+MIB,en,computer_science,wikipedia,Management Information Base
+MIC,en,computer_science,wikipedia,Message integrity code
+MICR,en,computer_science,wikipedia,Magnetic Ink Character Recognition or Magnetic Ink Character Reader
+MIDI,en,computer_science,wikipedia,Musical Instrument Digital Interface
+MII,en,computer_science,wikipedia,Media-independent Interface
+MIMD,en,computer_science,wikipedia,"Multiple Instruction, Multiple Data"
+MIME,en,computer_science,wikipedia,Multipurpose Internet Mail Extensions
+MIMO,en,computer_science,wikipedia,Multiple-Input Multiple-Output
+MIPS,en,computer_science,wikipedia,Million Instructions Per Second
+MIPS,en,computer_science,wikipedia,Microprocessor without Interlocked Pipeline Stages
+MIS,en,computer_science,wikipedia,Management Information Systems
+MISD,en,computer_science,wikipedia,"Multiple Instruction, Single Data"
+MIT,en,computer_science,wikipedia,Massachusetts Institute of Technology
+ML,en,computer_science,wikipedia,Machine Learning
+MMC,en,computer_science,wikipedia,Microsoft Management Console
+MMDS,en,computer_science,wikipedia,Multichannel Multipoint Distribution Service
+MMDS,en,computer_science,wikipedia,Mortality Medical Data System
+MMF,en,computer_science,wikipedia,Multi-Mode Fiber
+MMI,en,computer_science,wikipedia,Man Machine Interface.
+MMIO,en,computer_science,wikipedia,Memory-Mapped I/O
+MMORPG,en,computer_science,wikipedia,Massively Multiplayer Online Role-Playing Game
+MMS,en,computer_science,wikipedia,Multimedia Message Service
+MMU,en,computer_science,wikipedia,Memory Management Unit
+MNG,en,computer_science,wikipedia,Multiple-image Network Graphics
+MOCA,en,computer_science,wikipedia,Multimedia over Coax Alliance
+MOM,en,computer_science,wikipedia,Message-Oriented Middleware
+MOO,en,computer_science,wikipedia,MUD Object Oriented
+MOP,en,computer_science,wikipedia,Meta-Object Protocol
+MOSFET,en,computer_science,wikipedia,Metal-Oxide Semiconductor Field Effect Transistor
+MOTD,en,computer_science,wikipedia,Message Of The Day
+MOU,en,computer_science,wikipedia,Memorandum of understanding
+MOUS,en,computer_science,wikipedia,Microsoft Office User Specialist
+MPAA,en,computer_science,wikipedia,Motion Picture Association of America
+MPEG,en,computer_science,wikipedia,Motion Pictures Experts Group
+MPL,en,computer_science,wikipedia,Mozilla Public License
+MQTT,en,computer_science,wikipedia,Message Queues Telemetry Transport
+MS,en,computer_science,wikipedia,Memory Stick
+MSA,en,computer_science,wikipedia,Message submission agent
+MSA,en,computer_science,wikipedia,Master service agreement
+MSB,en,computer_science,wikipedia,Most Significant Bit
+MSI,en,computer_science,wikipedia,Medium-Scale Integration
+MSI,en,computer_science,wikipedia,Message Signaled Interrupt
+MSP,en,computer_science,wikipedia,Managed service provider
+MSS,en,computer_science,wikipedia,Managed security service
+MSSP,en,computer_science,wikipedia,Managed security service provider
+MT,en,computer_science,wikipedia,Machine Translation
+MTA,en,computer_science,wikipedia,Microsoft Technology Associate
+MTA,en,computer_science,wikipedia,Mail Transfer Agent
+MTBF,en,computer_science,wikipedia,Mean time between failures
+MTE,en,computer_science,wikipedia,MAC-then-Encrypt
+MTS,en,computer_science,wikipedia,Michigan Terminal System
+MTTF,en,computer_science,wikipedia,Mean time to failure
+MTTR,en,computer_science,wikipedia,Mean time to repair
+MTU,en,computer_science,wikipedia,Maximum Transmission Unit
+MU,en,computer_science,wikipedia,Memory Unit
+MUA,en,computer_science,wikipedia,Mail User Agent
+MUD,en,computer_science,wikipedia,Multi-User Dungeon
+MVC,en,computer_science,wikipedia,Model-View-Controller
+MVP,en,computer_science,wikipedia,Most Valuable Professional
+MVS,en,computer_science,wikipedia,Multiple Virtual Storage
+MWC,en,computer_science,wikipedia,Mobile World Congress
+MWN,en,computer_science,wikipedia,Municipal wireless network
+NAC,en,computer_science,wikipedia,Network access control
+NACK,en,computer_science,wikipedia,Negative ACKnowledgement
+NAN,en,computer_science,wikipedia,Not a Number
+NAP,en,computer_science,wikipedia,Network Access Protection
+NAPT,en,computer_science,wikipedia,Network address and port translation
+NAS,en,computer_science,wikipedia,Network-Attached Storage
+NAT,en,computer_science,wikipedia,Network address translation
+NBMA,en,computer_science,wikipedia,Non-Broadcast Multiple Access
+NCP,en,computer_science,wikipedia,NetWare Core Protocol
+NCQ,en,computer_science,wikipedia,Native Command Queuing
+NCR,en,computer_science,wikipedia,National Cash Register
+NCSA,en,computer_science,wikipedia,National Center for Supercomputing Applications
+NDIS,en,computer_science,wikipedia,Network Driver Interface Specification
+NDP,en,computer_science,wikipedia,Neighbor Discovery Protocol
+NDPS,en,computer_science,wikipedia,Novell Distributed Print Services
+NDS,en,computer_science,wikipedia,Novell Der irectory Services
+NEP,en,computer_science,wikipedia,Network Equipment Provider
+NFA,en,computer_science,wikipedia,Nondeterministic Finite Automaton
+NFC,en,computer_science,wikipedia,Near-field communication
+NFS,en,computer_science,wikipedia,Network File System
+NGSCB,en,computer_science,wikipedia,Next-Generation Secure Computing Base
+NI,en,computer_science,wikipedia,National Instruments
+NIC,en,computer_science,wikipedia,Network Interface Card
+NIC,en,computer_science,wikipedia,Network Interface Controller or Network Interface Card
+NIDS,en,computer_science,wikipedia,Network intrusion detection systems
+NIM,en,computer_science,wikipedia,No Internal Message
+NIO,en,computer_science,wikipedia,Non-blocking I/O
+NIPS,en,computer_science,wikipedia,Network-based intrusion prevention system
+NIST,en,computer_science,wikipedia,National Institute of Standards and Technology
+NLE,en,computer_science,wikipedia,Non-Linear Editing system
+NLP,en,computer_science,wikipedia,Natural Language Processing
+NLS,en,computer_science,wikipedia,Native Language Support
+NMI,en,computer_science,wikipedia,Non-Maskable Interrupt
+NNRP,en,computer_science,wikipedia,Network News Reader Protocol
+NNTP,en,computer_science,wikipedia,Network News Transfer Protocol
+NOC,en,computer_science,wikipedia,Network Operations Center
+NOOB,en,computer_science,wikipedia,Nibble out-of-band authentication
+NOP,en,computer_science,wikipedia,No OPeration
+NOS,en,computer_science,wikipedia,Network Operating System
+NP,en,computer_science,wikipedia,Nondeterministic Polynomial time
+NPL,en,computer_science,wikipedia,Netscape Public License
+NPTL,en,computer_science,wikipedia,Native POSIX Thread Library
+NPU,en,computer_science,wikipedia,Network Processing Unit
+NRZ,en,computer_science,wikipedia,Non-return-to-zero
+NRZI,en,computer_science,wikipedia,Non-return to zero inverted
+NSIS,en,computer_science,wikipedia,Nullsoft Scriptable Install System
+NSN,en,computer_science,wikipedia,Network service name
+NSS,en,computer_science,wikipedia,Network Security Services
+NSS,en,computer_science,wikipedia,Novell Storage Service
+NSS,en,computer_science,wikipedia,Name Service Switch
+NT,en,computer_science,wikipedia,New Technology
+NTFS,en,computer_science,wikipedia,New Technology File System
+NTLM,en,computer_science,wikipedia,New Technology LAN Manager
+NTP,en,computer_science,wikipedia,Network Time Protocol
+NURBS,en,computer_science,wikipedia,Non-Uniform Rational B-Spline
+NVD,en,computer_science,wikipedia,National Vulnerability Database
+NVME,en,computer_science,wikipedia,NVM Express
+NVR,en,computer_science,wikipedia,Network Video Recorder
+NVRAM,en,computer_science,wikipedia,Non-Volatile Random-Access Memory
+NVRAM,en,computer_science,wikipedia,Non-volatile RAM
+OAS,en,computer_science,wikipedia,Oracle Advanced Security
+OASIS,en,computer_science,wikipedia,Organization for the Advancement of Structured Information Standards
+OAT,en,computer_science,wikipedia,Operational Acceptance Testing
+OBSAI,en,computer_science,wikipedia,Open Base Station Architecture Initiative
+OCR,en,computer_science,wikipedia,Optical Character Recognition
+OCSP,en,computer_science,wikipedia,Online Certificate Status Protocol
+OEM,en,computer_science,wikipedia,Original Equipment Manufacturer
+OES,en,computer_science,wikipedia,Open Enterprise Server
+OFDM,en,computer_science,wikipedia,Orthogonal frequency-division multiplexing
+OFTC,en,computer_science,wikipedia,Open and Free Technology Community
+OKV,en,computer_science,wikipedia,Oracle Key Vault
+OLE,en,computer_science,wikipedia,Object Linking and Embedding
+OLED,en,computer_science,wikipedia,Organic Light Emitting Diode
+OLPC,en,computer_science,wikipedia,One Laptop per Child
+OMF,en,computer_science,wikipedia,Object Module Format
+OMG,en,computer_science,wikipedia,Object Management Group
+OMR,en,computer_science,wikipedia,Optical Mark Reader
+OMTP,en,computer_science,wikipedia,Open Mobile Terminal Platform
+ONS,en,computer_science,wikipedia,Oracle Net Services
+OO,en,computer_science,wikipedia,Object-Oriented
+OOE,en,computer_science,wikipedia,Out-of-Order Execution
+OOM,en,computer_science,wikipedia,Out Of Memory
+OOOE,en,computer_science,wikipedia,Out-of-Order Execution
+OOP,en,computer_science,wikipedia,Object-Oriented Programming
+OOTB,en,computer_science,wikipedia,Out of the box
+OPML,en,computer_science,wikipedia,Outline Processor Markup Language
+ORB,en,computer_science,wikipedia,Object Request Broker
+ORBS,en,computer_science,wikipedia,Open Relay Behavior-modification System
+ORM,en,computer_science,wikipedia,Object–Relational Mapping
+OS,en,computer_science,wikipedia,Operating System
+OS,en,computer_science,wikipedia,Open Source
+OSCON,en,computer_science,wikipedia,O'Reilly Open Source CONvention
+OSDN,en,computer_science,wikipedia,Open Source Development Network
+OSI,en,computer_science,wikipedia,Open System Interconnect
+OSI,en,computer_science,wikipedia,Open Source Initiative
+OSI,en,computer_science,wikipedia,Open Systems Interconnection
+OSPF,en,computer_science,wikipedia,Open Shortest Path First
+OSS,en,computer_science,wikipedia,Operations Support System
+OSS,en,computer_science,wikipedia,Open Sound System
+OSS,en,computer_science,wikipedia,Open-source software
+OSTG,en,computer_science,wikipedia,Open Source Technology Group
+OT,en,computer_science,wikipedia,Operational technology
+OTP,en,computer_science,wikipedia,One-time password
+OUI,en,computer_science,wikipedia,Organization Unique Identifier
+OUI,en,computer_science,wikipedia,Organizationally Unique Identifier
+OV,en,computer_science,wikipedia,Organization validation
+OVAL,en,computer_science,wikipedia,Open Vulnerability and Assessment Language
+OWASP,en,computer_science,wikipedia,Open Worldwide Application Security Project
+OWE,en,computer_science,wikipedia,Opportunistic Wireless Encryption
+PAAS,en,computer_science,wikipedia,Platform as a Service
+PAC,en,computer_science,wikipedia,Proxy auto-config
+PAM,en,computer_science,wikipedia,Privileged Access Management
+PAM,en,computer_science,wikipedia,Pluggable Authentication Module
+PAN,en,computer_science,wikipedia,Personal Area Network
+PAP,en,computer_science,wikipedia,Password Authentication Protocol
+PARC,en,computer_science,wikipedia,Palo Alto Research Center
+PAT,en,computer_science,wikipedia,Port address translation
+PATA,en,computer_science,wikipedia,Parallel ATA
+PBKDF2,en,computer_science,wikipedia,Password-Based Key Derivation Function 2
+PBS,en,computer_science,wikipedia,Portable Batch System
+PC,en,computer_science,wikipedia,Personal Computer
+PCB,en,computer_science,wikipedia,Process Control Block
+PCB,en,computer_science,wikipedia,Printed Circuit Board
+PCDOS,en,computer_science,wikipedia,Personal Computer Disc Operating System
+PCI,en,computer_science,wikipedia,Peripheral Component Interconnect
+PCIDSS,en,computer_science,wikipedia,Payment Card Industry Data Security Standard
+PCIE,en,computer_science,wikipedia,PCI Express
+PCL,en,computer_science,wikipedia,Printer Command Language
+PCM,en,computer_science,wikipedia,Pulse-Code Modulation
+PCMCIA,en,computer_science,wikipedia,Personal Computer Memory Card International Association
+PCRE,en,computer_science,wikipedia,Perl Compatible Regular Expressions
+PD,en,computer_science,wikipedia,Public Domain
+PDA,en,computer_science,wikipedia,Personal Digital Assistant
+PDF,en,computer_science,wikipedia,Portable Document Format
+PDH,en,computer_science,wikipedia,Plesiochronous Digital Hierarchy
+PDP,en,computer_science,wikipedia,Programmed Data Processor
+PDU,en,computer_science,wikipedia,Power distribution unit
+PDU,en,computer_science,wikipedia,Protocol data unit
+PE,en,computer_science,wikipedia,Portable Executable
+PE,en,computer_science,wikipedia,Physical Extents
+PEAP,en,computer_science,wikipedia,Protected Extensible Authentication Protocol
+PEM,en,computer_science,wikipedia,Privacy-Enhanced Mail
+PERL,en,computer_science,wikipedia,Practical Extraction and Reporting Language
+PFS,en,computer_science,wikipedia,Perfect forward secrecy
+PG,en,computer_science,wikipedia,Peripheral Gateway
+PGA,en,computer_science,wikipedia,Pin Grid Array
+PGA,en,computer_science,wikipedia,Programmable Gate Array
+PGO,en,computer_science,wikipedia,Profile-Guided Optimization
+PGP,en,computer_science,wikipedia,Pretty Good Privacy
+PHIPA,en,computer_science,wikipedia,Personal Health Information Protection Act
+PHR,en,computer_science,wikipedia,Personal health record
+PIC,en,computer_science,wikipedia,Programmable Interrupt Controller
+PIC,en,computer_science,wikipedia,Peripheral Interface Controller
+PID,en,computer_science,wikipedia,Process ID
+PID,en,computer_science,wikipedia,Proportional-Integral-Derivative
+PII,en,computer_science,wikipedia,Personally identifiable information
+PIM,en,computer_science,wikipedia,Personal Information Manager
+PINE,en,computer_science,wikipedia,Program for Internet News and Email
+PIO,en,computer_science,wikipedia,Programmed Input/Output
+PIPEDA,en,computer_science,wikipedia,Personal Information Protection and Electronic Documents Act
+PIR,en,computer_science,wikipedia,Public Interest Registry
+PKCS,en,computer_science,wikipedia,Public Key Cryptography Standards
+PKI,en,computer_science,wikipedia,Public Key Infrastructure
+PLC,en,computer_science,wikipedia,Programmable logic controller
+PLC,en,computer_science,wikipedia,Power-Line Communication
+PLD,en,computer_science,wikipedia,Programmable logic device
+PLT,en,computer_science,wikipedia,Power-Line Telecommunications
+PMM,en,computer_science,wikipedia,POST Memory Manager
+PNA,en,computer_science,wikipedia,Personal Navigation Assistant
+PNAC,en,computer_science,wikipedia,Port-based network access control
+PNG,en,computer_science,wikipedia,Portable Network Graphics
+PNRP,en,computer_science,wikipedia,Peer Name Resolution Protocol
+POCE,en,computer_science,wikipedia,"Personally owned, company enabled"
+POCO,en,computer_science,wikipedia,Plain Old Class Object
+POE,en,computer_science,wikipedia,Power over Ethernet
+POJO,en,computer_science,wikipedia,Plain Old Java Object
+POODLE,en,computer_science,wikipedia,Padding Oracle On Downgraded Legacy Encryption
+POP,en,computer_science,wikipedia,Point of Presence
+POP3,en,computer_science,wikipedia,"Post Office Protocol, version 3"
+POS,en,computer_science,wikipedia,Point of Sale
+POST,en,computer_science,wikipedia,Power-On Self Test
+POTP,en,computer_science,wikipedia,Protected One-Time Password
+POTS,en,computer_science,wikipedia,Plain old telephone service
+PPI,en,computer_science,wikipedia,Pixels Per Inch
+PPM,en,computer_science,wikipedia,Pages Per Minute
+PPP,en,computer_science,wikipedia,Point-to-Point Protocol
+PPPOA,en,computer_science,wikipedia,PPP over ATM
+PPPOE,en,computer_science,wikipedia,PPP over Ethernet
+PPTP,en,computer_science,wikipedia,Point-to-Point Tunneling Protocol
+PR,en,computer_science,wikipedia,Pull Request
+PRC,en,computer_science,wikipedia,Procedure Remote Call
+PROM,en,computer_science,wikipedia,Programmable Read-Only Memory
+PS/2,en,computer_science,wikipedia,Personal System/2
+PSA,en,computer_science,wikipedia,Professional Services Automation
+PSK,en,computer_science,wikipedia,Pre-shared key
+PSM,en,computer_science,wikipedia,Platform Specific Model
+PSTN,en,computer_science,wikipedia,Public Switched Telephone Network
+PSU,en,computer_science,wikipedia,Power Supply Unit
+PSVI,en,computer_science,wikipedia,Post-Schema-Validation Infoset
+PTT,en,computer_science,wikipedia,Public Telephone and Telegraph
+PTZ,en,computer_science,wikipedia,Pan–tilt–zoom camera
+PUA,en,computer_science,wikipedia,Potentially unwanted application
+PUP,en,computer_science,wikipedia,Potentially unwanted program
+PV,en,computer_science,wikipedia,Physical Volume
+PVG,en,computer_science,wikipedia,Physical Volume Group
+PVR,en,computer_science,wikipedia,Personal Video Recorder
+PVST,en,computer_science,wikipedia,Per-VLAN Spanning Tree
+QA,en,computer_science,wikipedia,Quality assurance
+QC,en,computer_science,wikipedia,Quality control
+QC,en,computer_science,wikipedia,Quick Charge
+QDR,en,computer_science,wikipedia,Quad Data Rate
+QFP,en,computer_science,wikipedia,Quad Flat Package
+QOS,en,computer_science,wikipedia,Quality of Service
+QOTD,en,computer_science,wikipedia,Quote of the Day
+QSOP,en,computer_science,wikipedia,Quarter-size small-outline package
+QTAM,en,computer_science,wikipedia,Queued Teleprocessing Access Method
+RA,en,computer_science,wikipedia,Registration authority
+RACF,en,computer_science,wikipedia,Resource Access Control Facility
+RAD,en,computer_science,wikipedia,Rapid Application Development
+RADIUS,en,computer_science,wikipedia,Remote Authentication Dial-In User Service
+RAID,en,computer_science,wikipedia,Redundant Array of Independent Disks
+RAII,en,computer_science,wikipedia,Resource Acquisition Is Initialization
+RAIT,en,computer_science,wikipedia,Redundant Array of Inexpensive Tapes
+RAM,en,computer_science,wikipedia,Random-Access Memory
+RAM,en,computer_science,wikipedia,"Reliability, Availability, and Maintainability"
+RAM,en,computer_science,wikipedia,Random Access Memory
+RAN,en,computer_science,wikipedia,Radio access network
+RARP,en,computer_science,wikipedia,Reverse ARP
+RARP,en,computer_science,wikipedia,Reverse Address Resolution Protocol
+RAS,en,computer_science,wikipedia,Remote access service
+RAS,en,computer_science,wikipedia,"Reliability, Availability, and Serviceability"
+RAT,en,computer_science,wikipedia,Radio access technology
+RAT,en,computer_science,wikipedia,Remote access trojan
+RBAC,en,computer_science,wikipedia,Role-based access control
+RC,en,computer_science,wikipedia,Release Candidate
+RC,en,computer_science,wikipedia,Run Commands
+RC,en,computer_science,wikipedia,Region Code
+RC4,en,computer_science,wikipedia,Rivest Cipher 4
+RCA,en,computer_science,wikipedia,Root Cause Analysis
+RCS,en,computer_science,wikipedia,Revision Control System
+RD,en,computer_science,wikipedia,Remote Desktop
+RD,en,computer_science,wikipedia,remove directory
+RDC,en,computer_science,wikipedia,Remote Desktop Connection
+RDF,en,computer_science,wikipedia,Resource Description Framework
+RDM,en,computer_science,wikipedia,Relational Data Model
+RDOS,en,computer_science,wikipedia,Real-time Disk Operating System
+RDP,en,computer_science,wikipedia,Remote Desktop Protocol
+RDS,en,computer_science,wikipedia,Remote Desktop Services
+RF,en,computer_science,wikipedia,Radio Frequency
+RFC,en,computer_science,wikipedia,Request For Comments
+RFI,en,computer_science,wikipedia,Radio Frequency Interference
+RGB,en,computer_science,wikipedia,"Red, Green, Blue"
+RHEL,en,computer_science,wikipedia,Red Hat Enterprise Linux
+RHL,en,computer_science,wikipedia,Red Hat Linux
+RIA,en,computer_science,wikipedia,Rich Internet Application
+RIAA,en,computer_science,wikipedia,Recording Industry Association of America
+RIMM,en,computer_science,wikipedia,Rambus In-line Memory Module
+RIP,en,computer_science,wikipedia,Routing Information Protocol
+RIP,en,computer_science,wikipedia,Raster Image Processor
+RIPE,en,computer_science,wikipedia,Réseaux IP Européens
+RIPEMD,en,computer_science,wikipedia,RIPE Message Digest
+RIPEMD,en,computer_science,wikipedia,RACE Integrity Primitives Evaluation Message Digest
+RIR,en,computer_science,wikipedia,Regional Internet registry
+RISC,en,computer_science,wikipedia,Reduced Instruction Set Computer
+RISCOS,en,computer_science,wikipedia,Reduced Instruction Set Computer Operating System
+RJE,en,computer_science,wikipedia,Remote Job Entry
+RLE,en,computer_science,wikipedia,Run-Length Encoding
+RLL,en,computer_science,wikipedia,Run-Length Limited
+RMF,en,computer_science,wikipedia,Risk Management Framework
+RMI,en,computer_science,wikipedia,Remote Method Invocation
+RMS,en,computer_science,wikipedia,Richard Matthew Stallman
+ROM,en,computer_science,wikipedia,Read-Only Memory
+RPA,en,computer_science,wikipedia,Robotic Process Automation
+RPC,en,computer_science,wikipedia,Remote Procedure Call
+RPG,en,computer_science,wikipedia,Report Program Generator
+RPM,en,computer_science,wikipedia,RPM Package Manager
+RPO,en,computer_science,wikipedia,Recovery Point Objective
+RRAS,en,computer_science,wikipedia,Routing and Remote Access Service
+RSA,en,computer_science,wikipedia,Rivest Shamir Adleman
+RSBAC,en,computer_science,wikipedia,Rule-set-based access control
+RSI,en,computer_science,wikipedia,Repetitive Strain Injury
+RSR,en,computer_science,wikipedia,Rapid Security Response
+RSS,en,computer_science,wikipedia,Remote service software
+RSS,en,computer_science,wikipedia,Radio Service Software
+RSS,en,computer_science,wikipedia,"Rich Site Summary, RDF Site Summary, or Really Simple Syndication"
+RSTP,en,computer_science,wikipedia,Rapid Spanning Tree Protocol
+RTAI,en,computer_science,wikipedia,Real-Time Application Interface
+RTBH,en,computer_science,wikipedia,Remote Triggered Black Hole Filtering
+RTC,en,computer_science,wikipedia,Real-Time Clock
+RTD,en,computer_science,wikipedia,Round-trip delay
+RTE,en,computer_science,wikipedia,Real-Time Enterprise
+RTEMS,en,computer_science,wikipedia,Real-Time Executive for Multiprocessor Systems
+RTF,en,computer_science,wikipedia,Rich Text Format
+RTL,en,computer_science,wikipedia,Right-to-Left
+RTMP,en,computer_science,wikipedia,Real Time Messaging Protocol
+RTO,en,computer_science,wikipedia,Recovery Time Objective
+RTOS,en,computer_science,wikipedia,Real-Time Operating System
+RTP,en,computer_science,wikipedia,Real-time Transport Protocol
+RTS,en,computer_science,wikipedia,Ready To Send
+RTSP,en,computer_science,wikipedia,Real-Time Streaming Protocol
+RTT,en,computer_science,wikipedia,Round-trip time
+RTTI,en,computer_science,wikipedia,Run-time Type Information
+RTU,en,computer_science,wikipedia,Remote Terminal Unit
+RWD,en,computer_science,wikipedia,Responsive Web Design
+S/MIME,en,computer_science,wikipedia,Secure/Multipurpose Internet Mail Extensions
+SA,en,computer_science,wikipedia,Security association
+SAAS,en,computer_science,wikipedia,Software as a Service
+SAE,en,computer_science,wikipedia,Simultaneous Authentication of Equals
+SAM,en,computer_science,wikipedia,Security Account Manager
+SAML,en,computer_science,wikipedia,Security Assertion Markup Language
+SAN,en,computer_science,wikipedia,Subject Alternative Name
+SAN,en,computer_science,wikipedia,Storage Area Network
+SAS,en,computer_science,wikipedia,Serial attached SCSI
+SASE,en,computer_science,wikipedia,Secure access service edge
+SASE,en,computer_science,wikipedia,Stand-alone synchronization equipment
+SASL,en,computer_science,wikipedia,Simple Authentication and Security Layer
+SASS,en,computer_science,wikipedia,Syntactically Awesome Style Sheets
+SATA,en,computer_science,wikipedia,Serial AT Attachment
+SAX,en,computer_science,wikipedia,Simple API for XML
+SBOD,en,computer_science,wikipedia,Spinning Beachball of Death
+SBS,en,computer_science,wikipedia,Small Business Server
+SCADA,en,computer_science,wikipedia,Supervisory Control and Data Acquisition
+SCAP,en,computer_science,wikipedia,Security Content Automation Protocol
+SCCM,en,computer_science,wikipedia,System Center Configuration Manager
+SCEP,en,computer_science,wikipedia,Simple Certificate Enrollment Protocol
+SCID,en,computer_science,wikipedia,Source Code in Database
+SCM,en,computer_science,wikipedia,Source Code Management
+SCM,en,computer_science,wikipedia,Software Configuration Management
+SCP,en,computer_science,wikipedia,Secure copy protocol
+SCP,en,computer_science,wikipedia,Seattle Computer Products
+SCRAM,en,computer_science,wikipedia,Salted Challenge Response Authentication Mechanism
+SCSI,en,computer_science,wikipedia,Small Computer System Interface
+SCTP,en,computer_science,wikipedia,Stream Control Transmission Protocol
+SD,en,computer_science,wikipedia,Secure Digital
+SDDC,en,computer_science,wikipedia,Software-defined data center
+SDDL,en,computer_science,wikipedia,Security Descriptor Definition Language
+SDH,en,computer_science,wikipedia,Synchronous Digital Hierarchy
+SDI,en,computer_science,wikipedia,Single-Document Interface
+SDIO,en,computer_science,wikipedia,Secure Digital Input Output
+SDK,en,computer_science,wikipedia,Software Development Kit
+SDL,en,computer_science,wikipedia,Simple DirectMedia Layer
+SDLC,en,computer_science,wikipedia,Synchronous Data Link Control
+SDLC,en,computer_science,wikipedia,Software development life cycle
+SDN,en,computer_science,wikipedia,Software-defined networking
+SDP,en,computer_science,wikipedia,Software-defined protection
+SDP,en,computer_science,wikipedia,Session Description Protocol
+SDR,en,computer_science,wikipedia,Software-Defined Radio
+SDRAM,en,computer_science,wikipedia,Synchronous Dynamic Random-Access Memory
+SDSL,en,computer_science,wikipedia,Symmetric digital subscriber line
+SE,en,computer_science,wikipedia,Single Ended
+SECC,en,computer_science,wikipedia,Single-Edged Contact Cartridge
+SED,en,computer_science,wikipedia,Self-encrypting drive
+SEH,en,computer_science,wikipedia,Structured Exception Handling
+SEI,en,computer_science,wikipedia,Software Engineering Institute
+SEO,en,computer_science,wikipedia,Search Engine Optimization
+SFD,en,computer_science,wikipedia,Start-of-frame delimiter
+SFP,en,computer_science,wikipedia,Small Form-factor Pluggable
+SFTP,en,computer_science,wikipedia,SSH File Transfer Protocol
+SFTP,en,computer_science,wikipedia,Simple File Transfer Protocol
+SFTP,en,computer_science,wikipedia,Secure File Transfer Protocol
+SGI,en,computer_science,wikipedia,"Silicon Graphics, Incorporated"
+SGML,en,computer_science,wikipedia,Standard Generalized Markup Language
+SGR,en,computer_science,wikipedia,Select Graphic Rendition]]
+SHA,en,computer_science,wikipedia,Secure Hash Algorithms
+SHDSL,en,computer_science,wikipedia,Single-pair High-speed Digital Subscriber Line
+SIEM,en,computer_science,wikipedia,Security information and event management
+SIGCAT,en,computer_science,wikipedia,Special Interest Group on CD-ROM Applications and Technology
+SIM,en,computer_science,wikipedia,Subscriber Identity Module
+SIMD,en,computer_science,wikipedia,"Single Instruction, Multiple Data"
+SIMM,en,computer_science,wikipedia,Single Inline Memory Module
+SIMM,en,computer_science,wikipedia,Single In-line Memory Module
+SIP,en,computer_science,wikipedia,Session Initiation Protocol
+SIP,en,computer_science,wikipedia,Supplementary Ideographic Plane
+SISD,en,computer_science,wikipedia,"Single Instruction, Single Data"
+SISO,en,computer_science,wikipedia,Single-Input and Single-Output
+SLA,en,computer_science,wikipedia,Service-level agreement
+SLARP,en,computer_science,wikipedia,Serial Line ARP
+SLE,en,computer_science,wikipedia,Single-loss expectancy
+SLED,en,computer_science,wikipedia,SUSE Linux Enterprise Desktop
+SLES,en,computer_science,wikipedia,SUSE Linux Enterprise Server
+SLI,en,computer_science,wikipedia,Scalable Link Interface
+SLIP,en,computer_science,wikipedia,Serial Line Internet Protocol
+SLM,en,computer_science,wikipedia,Service Level Management
+SLOC,en,computer_science,wikipedia,Source Lines of Code
+SMB,en,computer_science,wikipedia,Server Message Block
+SMBIOS,en,computer_science,wikipedia,System Management BIOS
+SME,en,computer_science,wikipedia,Subject Matter Expert
+SMF,en,computer_science,wikipedia,Single-Mode Fiber
+SMIL,en,computer_science,wikipedia,Synchronized Multimedia Integration Language
+SMP,en,computer_science,wikipedia,Symmetric Multi-Processing
+SMP,en,computer_science,wikipedia,Supplementary Multilingual Plane
+SMPS,en,computer_science,wikipedia,Switch Mode Power Supply
+SMS,en,computer_science,wikipedia,Short Message Service
+SMS,en,computer_science,wikipedia,System Management Server
+SMTP,en,computer_science,wikipedia,Simple Mail Transfer Protocol
+SNA,en,computer_science,wikipedia,Systems Network Architecture
+SNMP,en,computer_science,wikipedia,Simple Network Management Protocol
+SNP,en,computer_science,wikipedia,Secure Network Programming
+SNTP,en,computer_science,wikipedia,Simple Network Time Protocol
+SOA,en,computer_science,wikipedia,Service-Oriented Architecture
+SOAP,en,computer_science,wikipedia,Simple Object Access Protocol
+SOAP,en,computer_science,wikipedia,Symbolic Optimal Assembly Program
+SOAR,en,computer_science,wikipedia,"Security orchestration, automation and response"
+SOC,en,computer_science,wikipedia,System and Organization Controls
+SOC,en,computer_science,wikipedia,System on a chip
+SOC,en,computer_science,wikipedia,Security operations center
+SOE,en,computer_science,wikipedia,Standard Operating Environment
+SOF,en,computer_science,wikipedia,Start of frame
+SOHO,en,computer_science,wikipedia,Small Office/Home Office
+SOI,en,computer_science,wikipedia,Silicon On Insulator
+SOPA,en,computer_science,wikipedia,Stop Online Piracy Act
+SOW,en,computer_science,wikipedia,Statement of work
+SP,en,computer_science,wikipedia,Service Pack
+SPA,en,computer_science,wikipedia,Single Page Application
+SPF,en,computer_science,wikipedia,Sender Policy Framework
+SPI,en,computer_science,wikipedia,Serial Peripheral Interface
+SPI,en,computer_science,wikipedia,Stateful Packet Inspection
+SPICE,en,computer_science,wikipedia,Simple Protocol for Independent Computing Environments
+SPM,en,computer_science,wikipedia,Software project management
+SPMD,en,computer_science,wikipedia,"Single Program, Multiple Data"
+SPOF,en,computer_science,wikipedia,Single point of failure
+SQL,en,computer_science,wikipedia,Structured Query Language
+SQLI,en,computer_science,wikipedia,SQL injection
+SRAM,en,computer_science,wikipedia,Static random access memory
+SRAM,en,computer_science,wikipedia,Static Random-Access Memory
+SRTP,en,computer_science,wikipedia,Secure Real-time Transport Protocol
+SSA,en,computer_science,wikipedia,Static Single Assignment
+SSD,en,computer_science,wikipedia,Solid-State Drive
+SSD,en,computer_science,wikipedia,Software Specification Document
+SSDP,en,computer_science,wikipedia,Simple Service Discovery Protocol
+SSE,en,computer_science,wikipedia,Streaming SIMD Extensions
+SSI,en,computer_science,wikipedia,Single-System Image
+SSI,en,computer_science,wikipedia,Small-Scale Integration
+SSI,en,computer_science,wikipedia,Server Side Includes
+SSL,en,computer_science,wikipedia,Secure Sockets Layer
+SSO,en,computer_science,wikipedia,Single sign-on
+SSP,en,computer_science,wikipedia,Supplementary Special-purpose Plane
+SSSE,en,computer_science,wikipedia,Supplementary Streaming SIMD Extensions
+SSSP,en,computer_science,wikipedia,Single Source Shortest Path
+SSTC,en,computer_science,wikipedia,Security Services Technical Committee
+SSTP,en,computer_science,wikipedia,Secure Socket Tunneling Protocol
+STP,en,computer_science,wikipedia,Spanning Tree Protocol
+SUS,en,computer_science,wikipedia,Single UNIX Specification
+SUSE,en,computer_science,wikipedia,Software und System-Entwicklung
+SVC,en,computer_science,wikipedia,Scalable Video Coding
+SVD,en,computer_science,wikipedia,Structured VLSI Design
+SVG,en,computer_science,wikipedia,Scalable Vector Graphics
+SVGA,en,computer_science,wikipedia,Super Video Graphics Array
+SVOT,en,computer_science,wikipedia,Single version of the truth
+SWF,en,computer_science,wikipedia,Shock Wave Flash
+SWG,en,computer_science,wikipedia,Secure Web Gateway
+SWT,en,computer_science,wikipedia,Standard Widget Toolkit
+TACACS,en,computer_science,wikipedia,Terminal Access Controller Access-Control System
+TAO,en,computer_science,wikipedia,Track-At-Once
+TAP,en,computer_science,wikipedia,Test Access Port
+TAPI,en,computer_science,wikipedia,Telephony Application Programming Interface
+TCL,en,computer_science,wikipedia,Tool Command Language
+TCP,en,computer_science,wikipedia,Transmission Control Protocol
+TCP/IP,en,computer_science,wikipedia,Transmission Control Protocol/Internet Protocol
+TCSEC,en,computer_science,wikipedia,Trusted Computer System Evaluation Criteria
+TCU,en,computer_science,wikipedia,Telecommunication Control Unit|
+TDE,en,computer_science,wikipedia,Transparent data encryption
+TDEA,en,computer_science,wikipedia,Triple Data Encryption Algorithm
+TDES,en,computer_science,wikipedia,Triple Data Encryption Standard
+TDM,en,computer_science,wikipedia,Time-division multiplexing
+TDMA,en,computer_science,wikipedia,Time-Division Multiple Access
+TDP,en,computer_science,wikipedia,Thermal Design Power
+TEAP,en,computer_science,wikipedia,Tunnel Extensible Authentication Protocol
+TEE,en,computer_science,wikipedia,Trusted execution environment
+TFT,en,computer_science,wikipedia,Thin-Film Transistor
+TFTP,en,computer_science,wikipedia,Trivial File Transfer Protocol
+TGT,en,computer_science,wikipedia,Ticket Granting Ticket
+TI,en,computer_science,wikipedia,Texas Instruments
+TIA,en,computer_science,wikipedia,Telecommunications Industry Alliance
+TIFF,en,computer_science,wikipedia,Tagged Image File Format
+TKIP,en,computer_science,wikipedia,Temporal Key Integrity Protocol
+TLA,en,computer_science,wikipedia,Three-Letter Acronym
+TLD,en,computer_science,wikipedia,Top-Level Domain
+TLS,en,computer_science,wikipedia,Thread-Local Storage
+TLS,en,computer_science,wikipedia,Transport Layer Security
+TLV,en,computer_science,wikipedia,Type—length—value
+TM,en,computer_science,wikipedia,Translation memory
+TMM,en,computer_science,wikipedia,Testing Maturity Model
+TMS,en,computer_science,wikipedia,Translation management system
+TNC,en,computer_science,wikipedia,Terminal Node Controller
+TNC,en,computer_science,wikipedia,Threaded Neill-Concelman connector
+TOFU,en,computer_science,wikipedia,Trust On First Use
+TOTP,en,computer_science,wikipedia,Time-based one-time password
+TPF,en,computer_science,wikipedia,Transaction Processing Facility
+TPM,en,computer_science,wikipedia,Trusted Platform Module
+TRON,en,computer_science,wikipedia,The Real-time Operating system Nucleus
+TRSDOS,en,computer_science,wikipedia,Tandy Radio Shack – Disk Operating System
+TSO,en,computer_science,wikipedia,Time Sharing Option
+TSP,en,computer_science,wikipedia,Traveling Salesman Problem
+TSR,en,computer_science,wikipedia,Terminate and Stay Resident
+TTL,en,computer_science,wikipedia,Transistor—Transistor Logic
+TTL,en,computer_science,wikipedia,Time To Live
+TTLS,en,computer_science,wikipedia,Tunneled Transport Layer Security
+TTS,en,computer_science,wikipedia,Text-to-Speech
+TUCOWS,en,computer_science,wikipedia,The Ultimate Collection of Winsock Software
+TUG,en,computer_science,wikipedia,TeX Users Group
+TWAIN,en,computer_science,wikipedia,Technology Without An Interesting Name
+UAAG,en,computer_science,wikipedia,User Agent Accessibility Guidelines
+UAC,en,computer_science,wikipedia,User Account Control
+UART,en,computer_science,wikipedia,Universal Asynchronous Receiver/Transmitter
+UAS,en,computer_science,wikipedia,Unmanned aircraft system
+UAT,en,computer_science,wikipedia,User Acceptance Testing
+UAV,en,computer_science,wikipedia,Unmanned aerial vehicle
+UB,en,computer_science,wikipedia,Undefined Behavior
+UBA,en,computer_science,wikipedia,User behavior analytics
+UCS,en,computer_science,wikipedia,Universal Character Set
+UDDI,en,computer_science,wikipedia,"Universal Description, Discovery, and Integration"
+UDMA,en,computer_science,wikipedia,Ultra DMA
+UDP,en,computer_science,wikipedia,User Datagram Protocol
+UEBA,en,computer_science,wikipedia,User and entity behavior analytics
+UEFI,en,computer_science,wikipedia,Unified Extensible Firmware Interface
+UEM,en,computer_science,wikipedia,Unified endpoint management
+UHF,en,computer_science,wikipedia,Ultra High Frequency
+UI,en,computer_science,wikipedia,User Interface
+ULA,en,computer_science,wikipedia,Uncommitted Logic Array
+ULSI,en,computer_science,wikipedia,Ultra Large Scale Integration
+UMA,en,computer_science,wikipedia,Upper Memory Area
+UMB,en,computer_science,wikipedia,Upper Memory Block
+UML,en,computer_science,wikipedia,Unified Modeling Language
+UML,en,computer_science,wikipedia,User-Mode Linux
+UMPC,en,computer_science,wikipedia,Ultra-Mobile Personal Computer
+UMTS,en,computer_science,wikipedia,Universal Mobile Telecommunications System
+UNC,en,computer_science,wikipedia,Universal Naming Convention
+UPS,en,computer_science,wikipedia,Uninterruptible Power Supply or Uninterrupted Power Supply
+URI,en,computer_science,wikipedia,Uniform Resource Identifier
+URL,en,computer_science,wikipedia,Uniform Resource Locator
+URN,en,computer_science,wikipedia,Uniform Resource Name
+USB,en,computer_science,wikipedia,Universal Serial Bus
+USR,en,computer_science,wikipedia,User System Resources
+USR,en,computer_science,wikipedia,U.S. Robotics
+UTF,en,computer_science,wikipedia,Unicode Transformation Format
+UTM,en,computer_science,wikipedia,Unified Threat Management
+UTP,en,computer_science,wikipedia,Unshielded Twisted Pair
+UTRAN,en,computer_science,wikipedia,Universal Terrestrial Radio Access Network
+UVC,en,computer_science,wikipedia,Universal Virtual Computer
+UWP,en,computer_science,wikipedia,Universal Windows Platform
+VAR,en,computer_science,wikipedia,Value at risk
+VB,en,computer_science,wikipedia,Visual Basic
+VBA,en,computer_science,wikipedia,Visual Basic for Applications
+VBS,en,computer_science,wikipedia,Visual Basic Script
+VC,en,computer_science,wikipedia,Virtual circuit
+VCPI,en,computer_science,wikipedia,Virtual Control Program Interface
+VDC,en,computer_science,wikipedia,Virtual data center
+VDE,en,computer_science,wikipedia,Virtual Desktop Environment
+VDI,en,computer_science,wikipedia,Virtual Desktop Infrastructure
+VDM,en,computer_science,wikipedia,Virtual DOS machine
+VDS,en,computer_science,wikipedia,Virtual dedicated server
+VDSL,en,computer_science,wikipedia,Very High Bitrate Digital Subscriber Line
+VDU,en,computer_science,wikipedia,Visual Display Unit
+VESA,en,computer_science,wikipedia,Video Electronics Standards Association
+VFAT,en,computer_science,wikipedia,Virtual File Allocation Table
+VFO,en,computer_science,wikipedia,Variable-frequency oscillator
+VFS,en,computer_science,wikipedia,Virtual File System
+VG,en,computer_science,wikipedia,Volume Group
+VGA,en,computer_science,wikipedia,Video Graphics Array
+VHD,en,computer_science,wikipedia,Virtual Hard Disk
+VHF,en,computer_science,wikipedia,Very High Frequency
+VLAN,en,computer_science,wikipedia,Virtual Local Area Network
+VLB,en,computer_science,wikipedia,Vesa Local Bus
+VLF,en,computer_science,wikipedia,Very Low Frequency
+VLIW,en,computer_science,wikipedia,Very Long Instruction Word
+VLSI,en,computer_science,wikipedia,Very-Large-Scale Integration
+VLSM,en,computer_science,wikipedia,Variable-length subnet masking
+VM,en,computer_science,wikipedia,Virtual Memory
+VM,en,computer_science,wikipedia,Virtual Machine
+VMM,en,computer_science,wikipedia,Virtual Machine Monitor
+VNC,en,computer_science,wikipedia,Virtual Network Computing
+VOD,en,computer_science,wikipedia,Video On Demand
+VOIP,en,computer_science,wikipedia,Voice over Internet Protocol
+VOLTE,en,computer_science,wikipedia,Voice Over Long Term Evolution
+VPC,en,computer_science,wikipedia,Virtual private cloud
+VPN,en,computer_science,wikipedia,Virtual private network
+VPS,en,computer_science,wikipedia,Virtual private server
+VPU,en,computer_science,wikipedia,Visual Processing Unit
+VR,en,computer_science,wikipedia,Virtual Reality
+VRAM,en,computer_science,wikipedia,Video Random-Access Memory
+VRML,en,computer_science,wikipedia,Virtual Reality Modeling Language
+VSAM,en,computer_science,wikipedia,Virtual Storage-Access Method
+VSAT,en,computer_science,wikipedia,Very Small Aperture Terminal
+VT,en,computer_science,wikipedia,Video Terminal
+VTAM,en,computer_science,wikipedia,Virtual Telecommunications Access Method
+VTL,en,computer_science,wikipedia,Virtual Tape Library
+WAF,en,computer_science,wikipedia,Web application firewall
+WAFS,en,computer_science,wikipedia,Wide Area File Services
+WAI,en,computer_science,wikipedia,Web Accessibility Initiative
+WAIS,en,computer_science,wikipedia,Wide Area Information Server
+WAN,en,computer_science,wikipedia,Wide-area network
+WAN,en,computer_science,wikipedia,Wide Area Network
+WAP,en,computer_science,wikipedia,Wireless Access Point
+WAP,en,computer_science,wikipedia,Wireless Application Protocol
+WAVE,en,computer_science,wikipedia,Wireless access in vehicular environments
+WBEM,en,computer_science,wikipedia,Web-Based Enterprise Management
+WCAG,en,computer_science,wikipedia,Web Content Accessibility Guidelines
+WCF,en,computer_science,wikipedia,Windows Communication Foundation
+WDDM,en,computer_science,wikipedia,Windows Display Driver Model
+WDM,en,computer_science,wikipedia,Wavelength-Division Multiplexing
+WEP,en,computer_science,wikipedia,Wired Equivalent Privacy
+WFI,en,computer_science,wikipedia,Wait For Interrupt
+WIDE,en,computer_science,wikipedia,Widely Integrated Distributed Environment
+WIDS,en,computer_science,wikipedia,Wireless intrusion detection system
+WINS,en,computer_science,wikipedia,Windows Internet Name Service
+WIPS,en,computer_science,wikipedia,Wireless intrusion prevention system
+WLAN,en,computer_science,wikipedia,Wireless Local Area Network
+WLC,en,computer_science,wikipedia,Wireless LAN Controller
+WMA,en,computer_science,wikipedia,Windows Media Audio
+WMI,en,computer_science,wikipedia,Windows Management Instrumentation
+WMV,en,computer_science,wikipedia,Windows Media Video
+WNS,en,computer_science,wikipedia,Windows Push Notification Service
+WOL,en,computer_science,wikipedia,Wake-on-LAN
+WOR,en,computer_science,wikipedia,Wake-on-Ring
+WORA,en,computer_science,wikipedia,"Write once, run anywhere"
+WORE,en,computer_science,wikipedia,"Write once, run everywhere"
+WORM,en,computer_science,wikipedia,Write Once Read Many
+WPA,en,computer_science,wikipedia,Wi-Fi Protected Access
+WPAN,en,computer_science,wikipedia,Wireless Personal Area Network
+WPF,en,computer_science,wikipedia,Windows Presentation Foundation
+WPS,en,computer_science,wikipedia,Wi-Fi Protected Setup
+WSDL,en,computer_science,wikipedia,Web Services Description Language
+WSFL,en,computer_science,wikipedia,Web Services Flow Language
+WTLS,en,computer_science,wikipedia,Wireless Transport Layer Security
+WUSB,en,computer_science,wikipedia,Wireless Universal Serial Bus
+WWAN,en,computer_science,wikipedia,Wireless Wide Area Network
+WWDC,en,computer_science,wikipedia,World Wide Developer Conference
+WWN,en,computer_science,wikipedia,World Wide Name
+WWW,en,computer_science,wikipedia,World Wide Web
+WYSIWYG,en,computer_science,wikipedia,What You See Is What You Get
+WZC,en,computer_science,wikipedia,Wireless Zero Configuration
+XCBL,en,computer_science,wikipedia,XML Common Business Library
+XDM,en,computer_science,wikipedia,X Window Display Manager
+XDMCP,en,computer_science,wikipedia,X Display Manager Control Protocol
+XNS,en,computer_science,wikipedia,Xerox Network Systems
+XPI,en,computer_science,wikipedia,XPInstall
+XPS,en,computer_science,wikipedia,XML Paper Specification
+XSD,en,computer_science,wikipedia,XML Schema Definition
+XUL,en,computer_science,wikipedia,XML User Interface Language
+YACC,en,computer_science,wikipedia,Yet Another Compiler Compiler
+YAGNI,en,computer_science,wikipedia,You Aren't Gonna Need It
+YAML,en,computer_science,wikipedia,YAML Ain't Markup Language
+YARN,en,computer_science,wikipedia,Yet Another Resource Negotiator
+YAST,en,computer_science,wikipedia,Yet another Setup Tool
+ZCAV,en,computer_science,wikipedia,Zone Constant Angular Velocity
+ZCS,en,computer_science,wikipedia,Zero Code Suppression
+ZIF,en,computer_science,wikipedia,Zero Insertion Force
+ZIFS,en,computer_science,wikipedia,Zero Insertion Force Socket
+ZIP,en,computer_science,wikipedia,ZIP file archive
+ZISC,en,computer_science,wikipedia,Zero Instruction Set Computer
+ZMA,en,computer_science,wikipedia,Zone Multicast Address
+ZOI,en,computer_science,wikipedia,Zero One Infinity
+ZOPE,en,computer_science,wikipedia,Z Object Publishing Environment
+ZPL,en,computer_science,wikipedia,Z-level Programming Language
+COM,fr,common,custom,Collectivité d’outre-mer
+TGV,fr,common,custom,Très Grande Vitesse
+TGV,fr,common,custom,Train à Grande Vitesse
+DD,fr,computer_science,custom,Disque dur
+UC,fr,computer_science,custom,Unité Centrale
