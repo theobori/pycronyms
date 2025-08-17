@@ -14,8 +14,14 @@ from pycronyms._common import get_current_date
 class Statistics:
     """This object is used to count the acronyms with multiple point of view."""
 
-    def __init__(self, filepath_csv: Optional[Path] = None):
+    def __init__(
+        self,
+        csv_source_path: Optional[Path] = None,
+        csv_destination_path: Optional[Path] = None,
+    ):
         # Assuming this fields will never be updated from outside the object
+        #
+        # Acronyms statistics
         self.language_and_category: Dict[Language, Dict[Category, int]] = (
             create_recursive_dict(int, depth=2)
         )
@@ -23,7 +29,9 @@ class Statistics:
         self.category: Dict[Category, int] = defaultdict(int)
         self.total = 0
 
-        self.filepath_csv = filepath_csv
+        # CSV files if needed
+        self.csv_source_path = csv_source_path
+        self.csv_destination_path = csv_destination_path
 
     def increase(self, language: Language, category: Category, amount: int):
         """Increase the amount of acronyms.
@@ -57,8 +65,8 @@ class Statistics:
 
         df = pd.DataFrame(data)
 
-        if self.filepath_csv and self.filepath_csv.exists():
-            df_csv = pd.read_csv(self.filepath_csv)
+        if self.csv_source_path and self.csv_source_path.exists():
+            df_csv = pd.read_csv(self.csv_source_path)
 
             row = df.loc[0]
 
@@ -76,8 +84,8 @@ class Statistics:
 
         df = self.dataframe
 
-        if self.filepath_csv:
-            df.to_csv(self.filepath_csv, index=False, header=True)
+        if self.csv_destination_path:
+            df.to_csv(self.csv_destination_path, index=False, header=True)
 
     def create_plot(self, filepath: Path) -> NoReturn:
         """Create and write to a PNG file a plot. The data is the statistics

@@ -240,7 +240,7 @@ def write_statistics(statistics: Statistics, acronyms_graph_filepath: Path) -> N
 
     statistics.append_to_csv()
     logger.info(
-        f"Successfully wrote the CSV data to {statistics.filepath_csv.absolute()}"
+        f"Successfully wrote the CSV data to {statistics.csv_destination_path.absolute()}"
     )
 
     statistics.create_plot(acronyms_graph_filepath)
@@ -269,25 +269,47 @@ def fetch(dir: Path) -> NoReturn:
     pycronms.fetch_all()
     logger.info(f"Fetched {pycronms.amount} acronyms.")
 
+    # The following instructions work as a transaction, everything must pass.
+    # Otherwise nothing must persist.
+
+    # Temporary directory
+    tmp_dir = Path(".pycronyms_build")
+    # Remove it before to clean
+    shutil.rmtree(tmp_dir, ignore_errors=True)
+
+    os.makedirs(tmp_dir, exist_ok=True)
+    logger.info(f"Created the temporary build directory {dir.absolute()}.")
+
     os.makedirs(dir, exist_ok=True)
-    logger.info(f"Created the directory {dir.absolute()} if needed")
+    logger.info(f"Created the directory {dir.absolute()} if needed.")
 
     acronyms = sorted_recursive(pycronms.acronyms)
 
     statistics = pycronms.statistics
-    statistics.filepath_csv = dir / "statistics.csv"
-    acronyms_graph_filepath = dir / "acronyms_graph.png"
+    statistics.csv_source_path = dir / "statistics.csv"
+    statistics.csv_destination_path = tmp_dir / "statistics.csv"
+
+    acronyms_graph_filename = "acronyms_graph.png"
+    acronyms_graph_filepath = tmp_dir / acronyms_graph_filename
 
     try:
-        write_acronyms(acronyms, dir)
+        write_acronyms(acronyms, tmp_dir)
         write_statistics(statistics, acronyms_graph_filepath)
         write_markdown_summary(
-            statistics, dir / "README.md", "/" / acronyms_graph_filepath
+            statistics, tmp_dir / "README.md", "/" / dir / acronyms_graph_filename
         )
     except Exception as e:
         logger.exception(e)
 
-        shutil.rmtree(dir, ignore_errors=True)
-        logger.info(f"Removed the folder {dir.absolute()}")
+        shutil.rmtree(tmp_dir, ignore_errors=True)
+        logger.info(f"Removed the folder {tmp_dir.absolute()}")
 
         sys.exit(1)
+
+    # Remove the directory to replace it with the temporay directory
+    shutil.rmtree(dir, ignore_errors=True)
+    # Move the temporary directory
+    shutil.move(tmp_dir, dir)
+    # Remove the temporary directory
+    shutil.rmtree(tmp_dir, ignore_errors=True)
+    logger.info(f"Removed the folder {tmp_dir.absolute()}")
