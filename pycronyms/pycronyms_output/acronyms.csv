@@ -45,6 +45,7 @@ AE,en,computer_science,wikipedia,Authenticated encryption
 AEAD,en,computer_science,wikipedia,Authenticated encryption with associated data
 AES,en,computer_science,wikipedia,Advanced Encryption Standard
 AF,en,computer_science,wikipedia,Anisotropic Filtering
+AFIPS,en,computer_science,wikipedia,American Federation of Information Processing Societies
 AFP,en,computer_science,wikipedia,Apple Filing Protocol
 AGI,en,computer_science,wikipedia,Artificial General Intelligence
 AGP,en,computer_science,wikipedia,Accelerated Graphics Port
@@ -227,6 +228,7 @@ CIS,en,computer_science,wikipedia,Center for Internet Security
 CIS,en,computer_science,wikipedia,Continuous ink system
 CIS,en,computer_science,wikipedia,Contact image sensor
 CIS,en,computer_science,wikipedia,Computer and information science
+CISA,en,computer_science,wikipedia,Cybersecurity and Infrastructure Security Agency
 CISC,en,computer_science,wikipedia,Complex-instruction-set computer
 CISO,en,computer_science,wikipedia,Chief information security officer
 CIT,en,computer_science,wikipedia,Computer Information Technology
@@ -293,6 +295,7 @@ CSU,en,computer_science,wikipedia,Channel service unit
 CSU/DSU,en,computer_science,wikipedia,Channel service unit / data service unit
 CSV,en,computer_science,wikipedia,Comma-separated values
 CT,en,computer_science,wikipedia,Computerized tomography
+CTAKES,en,computer_science,wikipedia,clinical Text Analysis and Knowledge Extraction System
 CTAN,en,computer_science,wikipedia,Comprehensive TeX Archive Network
 CTCP,en,computer_science,wikipedia,Client-to-client protocol
 CTFE,en,computer_science,wikipedia,Compile-time function execution
@@ -512,6 +515,7 @@ FIFO,en,computer_science,wikipedia,First In First Out
 FIM,en,computer_science,wikipedia,File integrity monitoring
 FIPS,en,computer_science,wikipedia,Federal Information Processing Standards
 FIRST,en,computer_science,wikipedia,Forum of Incident Response and Security Teams
+FISMA,en,computer_science,wikipedia,Federal Information Security Management Act of 2002
 FL,en,computer_science,wikipedia,Function Level
 FLAC,en,computer_science,wikipedia,Free Lossless Audio Codec
 FLOPS,en,computer_science,wikipedia,FLoating-Point Operations Per Second
@@ -541,6 +545,7 @@ FTTP,en,computer_science,wikipedia,Fiber To The Premises
 FUD,en,computer_science,wikipedia,Fear Uncertainty Doubt
 FWS,en,computer_science,wikipedia,Folding White Space
 FYI,en,computer_science,wikipedia,For Your Information
+GC,en,computer_science,wikipedia,Garbage collection
 GCC,en,computer_science,wikipedia,GNU Compiler Collection
 GCJ,en,computer_science,wikipedia,GNU Compiler for Java
 GCM,en,computer_science,wikipedia,Galois/Counter Mode
@@ -572,6 +577,7 @@ GPO,en,computer_science,wikipedia,Group Policy Object
 GPRS,en,computer_science,wikipedia,General Packet Radio Service
 GPT,en,computer_science,wikipedia,GUID Partition Table
 GPU,en,computer_science,wikipedia,Graphics Processing Unit
+GRASP,en,computer_science,wikipedia,General Responsibility Assignment Software Patterns
 GRE,en,computer_science,wikipedia,Generic routing encapsulation
 GSM,en,computer_science,wikipedia,Global System for Mobile Communications
 GTC,en,computer_science,wikipedia,Generic Token Card
@@ -764,6 +770,7 @@ LB,en,computer_science,wikipedia,Load Balancer
 LBA,en,computer_science,wikipedia,Logical Block Addressing
 LBAC,en,computer_science,wikipedia,Lattice-based access control
 LCD,en,computer_science,wikipedia,Liquid Crystal Display
+LCDP,en,computer_science,wikipedia,Low-code development platform
 LCOS,en,computer_science,wikipedia,Liquid Crystal On Silicon
 LCR,en,computer_science,wikipedia,Least Cost Routing
 LDAP,en,computer_science,wikipedia,Lightweight Directory Access Protocol
@@ -910,6 +917,7 @@ NAPT,en,computer_science,wikipedia,Network address and port translation
 NAS,en,computer_science,wikipedia,Network-Attached Storage
 NAT,en,computer_science,wikipedia,Network address translation
 NBMA,en,computer_science,wikipedia,Non-Broadcast Multiple Access
+NCDP,en,computer_science,wikipedia,No-code development platform
 NCP,en,computer_science,wikipedia,NetWare Core Protocol
 NCQ,en,computer_science,wikipedia,Native Command Queuing
 NCR,en,computer_science,wikipedia,National Cash Register
@@ -943,6 +951,7 @@ NOP,en,computer_science,wikipedia,No OPeration
 NOS,en,computer_science,wikipedia,Network Operating System
 NP,en,computer_science,wikipedia,Nondeterministic Polynomial time
 NPL,en,computer_science,wikipedia,Netscape Public License
+NPPD,en,computer_science,wikipedia,National Protection and Programs Directorate
 NPTL,en,computer_science,wikipedia,Native POSIX Thread Library
 NPU,en,computer_science,wikipedia,Network Processing Unit
 NRZ,en,computer_science,wikipedia,Non-return-to-zero
@@ -1139,7 +1148,10 @@ RBAC,en,computer_science,wikipedia,Role-based access control
 RC,en,computer_science,wikipedia,Release Candidate
 RC,en,computer_science,wikipedia,Run Commands
 RC,en,computer_science,wikipedia,Region Code
+RC2,en,computer_science,wikipedia,Rivest Cipher 2
 RC4,en,computer_science,wikipedia,Rivest Cipher 4
+RC5,en,computer_science,wikipedia,Rivest Cipher 5
+RC6,en,computer_science,wikipedia,Rivest Cipher 6
 RCA,en,computer_science,wikipedia,Root Cause Analysis
 RCS,en,computer_science,wikipedia,Revision Control System
 RD,en,computer_science,wikipedia,Remote Desktop
@@ -1259,9 +1271,8 @@ SEI,en,computer_science,wikipedia,Software Engineering Institute
 SEO,en,computer_science,wikipedia,Search Engine Optimization
 SFD,en,computer_science,wikipedia,Start-of-frame delimiter
 SFP,en,computer_science,wikipedia,Small Form-factor Pluggable
-SFTP,en,computer_science,wikipedia,SSH File Transfer Protocol
-SFTP,en,computer_science,wikipedia,Simple File Transfer Protocol
 SFTP,en,computer_science,wikipedia,Secure File Transfer Protocol
+SFTP,en,computer_science,wikipedia,Simple File Transfer Protocol
 SGI,en,computer_science,wikipedia,"Silicon Graphics, Incorporated"
 SGML,en,computer_science,wikipedia,Standard Generalized Markup Language
 SGR,en,computer_science,wikipedia,Select Graphic Rendition]]
@@ -1297,6 +1308,7 @@ SMPS,en,computer_science,wikipedia,Switch Mode Power Supply
 SMS,en,computer_science,wikipedia,Short Message Service
 SMS,en,computer_science,wikipedia,System Management Server
 SMTP,en,computer_science,wikipedia,Simple Mail Transfer Protocol
+SMTPS,en,computer_science,wikipedia,Simple Mail Transfer Protocol Secure
 SNA,en,computer_science,wikipedia,Systems Network Architecture
 SNMP,en,computer_science,wikipedia,Simple Network Management Protocol
 SNP,en,computer_science,wikipedia,Secure Network Programming
@@ -1327,6 +1339,7 @@ SQL,en,computer_science,wikipedia,Structured Query Language
 SQLI,en,computer_science,wikipedia,SQL injection
 SRAM,en,computer_science,wikipedia,Static random access memory
 SRAM,en,computer_science,wikipedia,Static Random-Access Memory
+SRP,en,computer_science,wikipedia,Single-responsibility principle
 SRTP,en,computer_science,wikipedia,Secure Real-time Transport Protocol
 SSA,en,computer_science,wikipedia,Static Single Assignment
 SSD,en,computer_science,wikipedia,Solid-State Drive
@@ -1421,6 +1434,7 @@ UEFI,en,computer_science,wikipedia,Unified Extensible Firmware Interface
 UEM,en,computer_science,wikipedia,Unified endpoint management
 UHF,en,computer_science,wikipedia,Ultra High Frequency
 UI,en,computer_science,wikipedia,User Interface
+UIMA,en,computer_science,wikipedia,Unstructured Information Management Architecture
 ULA,en,computer_science,wikipedia,Uncommitted Logic Array
 ULSI,en,computer_science,wikipedia,Ultra Large Scale Integration
 UMA,en,computer_science,wikipedia,Upper Memory Area
@@ -1502,6 +1516,7 @@ WBEM,en,computer_science,wikipedia,Web-Based Enterprise Management
 WCAG,en,computer_science,wikipedia,Web Content Accessibility Guidelines
 WCF,en,computer_science,wikipedia,Windows Communication Foundation
 WDDM,en,computer_science,wikipedia,Windows Display Driver Model
+WDM,en,computer_science,wikipedia,Windows Driver Model
 WDM,en,computer_science,wikipedia,Wavelength-Division Multiplexing
 WEP,en,computer_science,wikipedia,Wired Equivalent Privacy
 WFI,en,computer_science,wikipedia,Wait For Interrupt

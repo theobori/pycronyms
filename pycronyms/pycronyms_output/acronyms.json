@@ -201,6 +201,10 @@
         "meaning": "Anisotropic Filtering",
         "provider": "wikipedia"
       },
+      "AFIPS": {
+        "meaning": "American Federation of Information Processing Societies",
+        "provider": "wikipedia"
+      },
       "AFP": {
         "meaning": "Apple Filing Protocol",
         "provider": "wikipedia"
@@ -969,6 +973,10 @@
           }
         ]
       },
+      "CISA": {
+        "meaning": "Cybersecurity and Infrastructure Security Agency",
+        "provider": "wikipedia"
+      },
       "CISC": {
         "meaning": "Complex-instruction-set computer",
         "provider": "wikipedia"
@@ -1249,6 +1257,10 @@
       },
       "CT": {
         "meaning": "Computerized tomography",
+        "provider": "wikipedia"
+      },
+      "CTAKES": {
+        "meaning": "clinical Text Analysis and Knowledge Extraction System",
         "provider": "wikipedia"
       },
       "CTAN": {
@@ -2163,6 +2175,10 @@
         "meaning": "Forum of Incident Response and Security Teams",
         "provider": "wikipedia"
       },
+      "FISMA": {
+        "meaning": "Federal Information Security Management Act of 2002",
+        "provider": "wikipedia"
+      },
       "FL": {
         "meaning": "Function Level",
         "provider": "wikipedia"
@@ -2281,6 +2297,10 @@
       },
       "FYI": {
         "meaning": "For Your Information",
+        "provider": "wikipedia"
+      },
+      "GC": {
+        "meaning": "Garbage collection",
         "provider": "wikipedia"
       },
       "GCC": {
@@ -2407,6 +2427,10 @@
       },
       "GPU": {
         "meaning": "Graphics Processing Unit",
+        "provider": "wikipedia"
+      },
+      "GRASP": {
+        "meaning": "General Responsibility Assignment Software Patterns",
         "provider": "wikipedia"
       },
       "GRE": {
@@ -3203,6 +3227,10 @@
         "meaning": "Liquid Crystal Display",
         "provider": "wikipedia"
       },
+      "LCDP": {
+        "meaning": "Low-code development platform",
+        "provider": "wikipedia"
+      },
       "LCOS": {
         "meaning": "Liquid Crystal On Silicon",
         "provider": "wikipedia"
@@ -3815,6 +3843,10 @@
         "meaning": "Non-Broadcast Multiple Access",
         "provider": "wikipedia"
       },
+      "NCDP": {
+        "meaning": "No-code development platform",
+        "provider": "wikipedia"
+      },
       "NCP": {
         "meaning": "NetWare Core Protocol",
         "provider": "wikipedia"
@@ -3947,6 +3979,10 @@
       },
       "NPL": {
         "meaning": "Netscape Public License",
+        "provider": "wikipedia"
+      },
+      "NPPD": {
+        "meaning": "National Protection and Programs Directorate",
         "provider": "wikipedia"
       },
       "NPTL": {
@@ -4773,8 +4809,20 @@
           }
         ]
       },
+      "RC2": {
+        "meaning": "Rivest Cipher 2",
+        "provider": "wikipedia"
+      },
       "RC4": {
         "meaning": "Rivest Cipher 4",
+        "provider": "wikipedia"
+      },
+      "RC5": {
+        "meaning": "Rivest Cipher 5",
+        "provider": "wikipedia"
+      },
+      "RC6": {
+        "meaning": "Rivest Cipher 6",
         "provider": "wikipedia"
       },
       "RCA": {
@@ -5274,13 +5322,9 @@
         "provider": "wikipedia"
       },
       "SFTP": {
-        "meaning": "SSH File Transfer Protocol",
+        "meaning": "Secure File Transfer Protocol",
         "provider": "wikipedia",
         "extras": [
-          {
-            "meaning": "Secure File Transfer Protocol",
-            "provider": "wikipedia"
-          },
           {
             "meaning": "Simple File Transfer Protocol",
             "provider": "wikipedia"
@@ -5435,6 +5479,10 @@
         "meaning": "Simple Mail Transfer Protocol",
         "provider": "wikipedia"
       },
+      "SMTPS": {
+        "meaning": "Simple Mail Transfer Protocol Secure",
+        "provider": "wikipedia"
+      },
       "SNA": {
         "meaning": "Systems Network Architecture",
         "provider": "wikipedia"
@@ -5562,6 +5610,10 @@
             "provider": "wikipedia"
           }
         ]
+      },
+      "SRP": {
+        "meaning": "Single-responsibility principle",
+        "provider": "wikipedia"
       },
       "SRTP": {
         "meaning": "Secure Real-time Transport Protocol",
@@ -5949,6 +6001,10 @@
         "meaning": "User Interface",
         "provider": "wikipedia"
       },
+      "UIMA": {
+        "meaning": "Unstructured Information Management Architecture",
+        "provider": "wikipedia"
+      },
       "ULA": {
         "meaning": "Uncommitted Logic Array",
         "provider": "wikipedia"
@@ -6284,8 +6340,14 @@
         "provider": "wikipedia"
       },
       "WDM": {
-        "meaning": "Wavelength-Division Multiplexing",
-        "provider": "wikipedia"
+        "meaning": "Windows Driver Model",
+        "provider": "wikipedia",
+        "extras": [
+          {
+            "meaning": "Wavelength-Division Multiplexing",
+            "provider": "wikipedia"
+          }
+        ]
       },
       "WEP": {
         "meaning": "Wired Equivalent Privacy",
