@@ -17,6 +17,6 @@ The matrix below shows the number of acronyms fetched by language and category.
 | Category\Language | en | fr | es | de | it | Total |
 | - | - | - | - | - | - | - |
 | **common** | 0 | 3 | 0 | 0 | 0 | 3 |
-| **computer_science** | 1573 | 2 | 0 | 0 | 0 | 1575 |
-| **Total** | 1573 | 5 | 0 | 0 | 0 | 1578 |
+| **computer_science** | 1582 | 2 | 0 | 0 | 0 | 1584 |
+| **Total** | 1582 | 5 | 0 | 0 | 0 | 1587 |
 

@@ -760,7 +760,11 @@
         "provider": "wikipedia"
       },
       "CAPA": {
-        "meaning": "Corrective and preventive action",
+        "meaning": "Corrective and preventive actiont",
+        "provider": "wikipedia"
+      },
+      "CAPI": {
+        "meaning": "Cryptographic Application Programming Interface",
         "provider": "wikipedia"
       },
       "CAPTCHA": {
@@ -1215,6 +1219,10 @@
         "meaning": "Cloud service provider",
         "provider": "wikipedia",
         "extras": [
+          {
+            "meaning": "Cryptographic Service Provider",
+            "provider": "wikipedia"
+          },
           {
             "meaning": "Communicating sequential processes",
             "provider": "wikipedia"
@@ -1705,6 +1713,10 @@
       },
       "DSRC": {
         "meaning": "Dedicated short-range communications",
+        "provider": "wikipedia"
+      },
+      "DSS": {
+        "meaning": "Digital Signature Standard",
         "provider": "wikipedia"
       },
       "DSSS": {
@@ -2981,6 +2993,10 @@
         "meaning": "Interrupt Service Routine",
         "provider": "wikipedia"
       },
+      "ISRG": {
+        "meaning": "Internet Security Research Group",
+        "provider": "wikipedia"
+      },
       "ISSA": {
         "meaning": "Information Systems Security Association",
         "provider": "wikipedia"
@@ -3832,8 +3848,14 @@
         "provider": "wikipedia"
       },
       "NAS": {
-        "meaning": "Network-Attached Storage",
-        "provider": "wikipedia"
+        "meaning": "Network-attached storage",
+        "provider": "wikipedia",
+        "extras": [
+          {
+            "meaning": "Network access server",
+            "provider": "wikipedia"
+          }
+        ]
       },
       "NAT": {
         "meaning": "Network address translation",
@@ -4411,6 +4433,10 @@
       },
       "PERL": {
         "meaning": "Practical Extraction and Reporting Language",
+        "provider": "wikipedia"
+      },
+      "PES": {
+        "meaning": "Proposed Encryption Standard",
         "provider": "wikipedia"
       },
       "PFS": {
@@ -5313,6 +5339,16 @@
         "meaning": "Search Engine Optimization",
         "provider": "wikipedia"
       },
+      "SFC": {
+        "meaning": "System File Checker",
+        "provider": "wikipedia",
+        "extras": [
+          {
+            "meaning": "Sequential function chart",
+            "provider": "wikipedia"
+          }
+        ]
+      },
       "SFD": {
         "meaning": "Start-of-frame delimiter",
         "provider": "wikipedia"
@@ -5801,6 +5837,10 @@
       },
       "TFTP": {
         "meaning": "Trivial File Transfer Protocol",
+        "provider": "wikipedia"
+      },
+      "TGS": {
+        "meaning": "Ticket Granting Service",
         "provider": "wikipedia"
       },
       "TGT": {

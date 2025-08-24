@@ -177,7 +177,8 @@ CAI,en,computer_science,wikipedia,Computer-aided instruction
 CAID,en,computer_science,wikipedia,Computer-aided industrial design
 CAM,en,computer_science,wikipedia,Computer-aided manufacturing
 CAP,en,computer_science,wikipedia,Consistency availability partition tolerance
-CAPA,en,computer_science,wikipedia,Corrective and preventive action
+CAPA,en,computer_science,wikipedia,Corrective and preventive actiont
+CAPI,en,computer_science,wikipedia,Cryptographic Application Programming Interface
 CAPTCHA,en,computer_science,wikipedia,Completely automated public Turing test to tell computers and humans apart
 CAQ,en,computer_science,wikipedia,Computer-aided quality assurance
 CASB,en,computer_science,wikipedia,Cloud access security broker
@@ -286,6 +287,7 @@ CSMA/CD,en,computer_science,wikipedia,Carrier sense multiple access / collision 
 CSO,en,computer_science,wikipedia,Chief security officer
 CSP,en,computer_science,wikipedia,Cloud service provider
 CSP,en,computer_science,wikipedia,Communicating sequential processes
+CSP,en,computer_science,wikipedia,Cryptographic Service Provider
 CSR,en,computer_science,wikipedia,Certificate signing request
 CSRF,en,computer_science,wikipedia,Cross-site request forgery
 CSS,en,computer_science,wikipedia,Closed-source software
@@ -401,6 +403,7 @@ DSN,en,computer_science,wikipedia,Data Set Name
 DSN,en,computer_science,wikipedia,Database Source Name
 DSP,en,computer_science,wikipedia,Digital Signal Processor
 DSRC,en,computer_science,wikipedia,Dedicated short-range communications
+DSS,en,computer_science,wikipedia,Digital Signature Standard
 DSSS,en,computer_science,wikipedia,Direct-sequence spread spectrum
 DSSSL,en,computer_science,wikipedia,Document Style Semantics and Specification Language
 DTD,en,computer_science,wikipedia,Document Type Definition
@@ -709,6 +712,7 @@ ISOC,en,computer_science,wikipedia,Information security operations center
 ISP,en,computer_science,wikipedia,Internet Service Provider
 ISPF,en,computer_science,wikipedia,Interactive System Productivity Facility
 ISR,en,computer_science,wikipedia,Interrupt Service Routine
+ISRG,en,computer_science,wikipedia,Internet Security Research Group
 ISSA,en,computer_science,wikipedia,Information Systems Security Association
 ISV,en,computer_science,wikipedia,Independent Software Vendor
 IT,en,computer_science,wikipedia,Information Technology
@@ -914,7 +918,8 @@ NACK,en,computer_science,wikipedia,Negative ACKnowledgement
 NAN,en,computer_science,wikipedia,Not a Number
 NAP,en,computer_science,wikipedia,Network Access Protection
 NAPT,en,computer_science,wikipedia,Network address and port translation
-NAS,en,computer_science,wikipedia,Network-Attached Storage
+NAS,en,computer_science,wikipedia,Network-attached storage
+NAS,en,computer_science,wikipedia,Network access server
 NAT,en,computer_science,wikipedia,Network address translation
 NBMA,en,computer_science,wikipedia,Non-Broadcast Multiple Access
 NCDP,en,computer_science,wikipedia,No-code development platform
@@ -1054,6 +1059,7 @@ PE,en,computer_science,wikipedia,Physical Extents
 PEAP,en,computer_science,wikipedia,Protected Extensible Authentication Protocol
 PEM,en,computer_science,wikipedia,Privacy-Enhanced Mail
 PERL,en,computer_science,wikipedia,Practical Extraction and Reporting Language
+PES,en,computer_science,wikipedia,Proposed Encryption Standard
 PFS,en,computer_science,wikipedia,Perfect forward secrecy
 PG,en,computer_science,wikipedia,Peripheral Gateway
 PGA,en,computer_science,wikipedia,Pin Grid Array
@@ -1269,6 +1275,8 @@ SED,en,computer_science,wikipedia,Self-encrypting drive
 SEH,en,computer_science,wikipedia,Structured Exception Handling
 SEI,en,computer_science,wikipedia,Software Engineering Institute
 SEO,en,computer_science,wikipedia,Search Engine Optimization
+SFC,en,computer_science,wikipedia,System File Checker
+SFC,en,computer_science,wikipedia,Sequential function chart
 SFD,en,computer_science,wikipedia,Start-of-frame delimiter
 SFP,en,computer_science,wikipedia,Small Form-factor Pluggable
 SFTP,en,computer_science,wikipedia,Secure File Transfer Protocol
@@ -1386,6 +1394,7 @@ TEAP,en,computer_science,wikipedia,Tunnel Extensible Authentication Protocol
 TEE,en,computer_science,wikipedia,Trusted execution environment
 TFT,en,computer_science,wikipedia,Thin-Film Transistor
 TFTP,en,computer_science,wikipedia,Trivial File Transfer Protocol
+TGS,en,computer_science,wikipedia,Ticket Granting Service
 TGT,en,computer_science,wikipedia,Ticket Granting Ticket
 TI,en,computer_science,wikipedia,Texas Instruments
 TIA,en,computer_science,wikipedia,Telecommunications Industry Alliance
