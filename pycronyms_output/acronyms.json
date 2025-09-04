@@ -569,6 +569,10 @@
           }
         ]
       },
+      "BCS": {
+        "meaning": "British Computer Society",
+        "provider": "wikipedia"
+      },
       "BEEP": {
         "meaning": "Blocks Extensible Exchange Protocol",
         "provider": "wikipedia"
@@ -1877,6 +1881,10 @@
         "meaning": "Electronically Erasable Programmable Read-Only Memory",
         "provider": "wikipedia"
       },
+      "EF": {
+        "meaning": "Exposure factor",
+        "provider": "wikipedia"
+      },
       "EFF": {
         "meaning": "Electronic Frontier Foundation",
         "provider": "wikipedia"
@@ -1992,6 +2000,16 @@
       "EOS": {
         "meaning": "End of Support",
         "provider": "wikipedia"
+      },
+      "EPC": {
+        "meaning": "Evolved Packet Core",
+        "provider": "wikipedia",
+        "extras": [
+          {
+            "meaning": "Electronic Product Code",
+            "provider": "wikipedia"
+          }
+        ]
       },
       "EPIC": {
         "meaning": "Explicitly Parallel Instruction Computing",
@@ -2899,6 +2917,10 @@
           }
         ]
       },
+      "IPSJ": {
+        "meaning": "Information Processing Society of Japan",
+        "provider": "wikipedia"
+      },
       "IPV4": {
         "meaning": "Internet Protocol version 4",
         "provider": "wikipedia"
@@ -3147,6 +3169,18 @@
       },
       "JVM": {
         "meaning": "Java Virtual Machine",
+        "provider": "wikipedia"
+      },
+      "JWE": {
+        "meaning": "JSON Web Encryption",
+        "provider": "wikipedia"
+      },
+      "JWS": {
+        "meaning": "JSON Web Signature",
+        "provider": "wikipedia"
+      },
+      "JWT": {
+        "meaning": "JSON Web Token",
         "provider": "wikipedia"
       },
       "KB": {
@@ -3575,6 +3609,10 @@
       },
       "MIC": {
         "meaning": "Message integrity code",
+        "provider": "wikipedia"
+      },
+      "MICKEY": {
+        "meaning": "Mutual Irregular Clocking KEYstream generator",
         "provider": "wikipedia"
       },
       "MICR": {
@@ -4688,11 +4726,17 @@
         "provider": "wikipedia"
       },
       "PV": {
-        "meaning": "Physical Volume",
-        "provider": "wikipedia"
+        "meaning": "Physical volume",
+        "provider": "wikipedia",
+        "extras": [
+          {
+            "meaning": "Process variable",
+            "provider": "wikipedia"
+          }
+        ]
       },
       "PVG": {
-        "meaning": "Physical Volume Group",
+        "meaning": "Physical volume group",
         "provider": "wikipedia"
       },
       "PVR": {
@@ -4723,6 +4767,10 @@
       },
       "QFP": {
         "meaning": "Quad Flat Package",
+        "provider": "wikipedia"
+      },
+      "QIF": {
+        "meaning": "Quicken Interchange Format",
         "provider": "wikipedia"
       },
       "QOS": {
@@ -5137,7 +5185,13 @@
       },
       "SAE": {
         "meaning": "Simultaneous Authentication of Equals",
-        "provider": "wikipedia"
+        "provider": "wikipedia",
+        "extras": [
+          {
+            "meaning": "System Architecture Evolution",
+            "provider": "wikipedia"
+          }
+        ]
       },
       "SAM": {
         "meaning": "Security Account Manager",
@@ -5249,6 +5303,10 @@
       },
       "SD": {
         "meaning": "Secure Digital",
+        "provider": "wikipedia"
+      },
+      "SDD": {
+        "meaning": "Software design description",
         "provider": "wikipedia"
       },
       "SDDC": {
@@ -5719,6 +5777,10 @@
         "meaning": "Secure Socket Tunneling Protocol",
         "provider": "wikipedia"
       },
+      "STOMP": {
+        "meaning": "Simple Text Oriented Messaging Protocol",
+        "provider": "wikipedia"
+      },
       "STP": {
         "meaning": "Spanning Tree Protocol",
         "provider": "wikipedia"
@@ -5733,7 +5795,13 @@
       },
       "SVC": {
         "meaning": "Scalable Video Coding",
-        "provider": "wikipedia"
+        "provider": "wikipedia",
+        "extras": [
+          {
+            "meaning": "Static VAR compensator",
+            "provider": "wikipedia"
+          }
+        ]
       },
       "SVD": {
         "meaning": "Structured VLSI Design",
@@ -5781,6 +5849,10 @@
       },
       "TCL": {
         "meaning": "Tool Command Language",
+        "provider": "wikipedia"
+      },
+      "TCM": {
+        "meaning": "The Computer Museum",
         "provider": "wikipedia"
       },
       "TCP": {
@@ -5845,6 +5917,10 @@
       },
       "TGT": {
         "meaning": "Ticket Granting Ticket",
+        "provider": "wikipedia"
+      },
+      "THE": {
+        "meaning": "The Hessling Editor",
         "provider": "wikipedia"
       },
       "TI": {
@@ -5956,6 +6032,20 @@
       "TTLS": {
         "meaning": "Tunneled Transport Layer Security",
         "provider": "wikipedia"
+      },
+      "TTP": {
+        "meaning": "Trusted third party",
+        "provider": "wikipedia",
+        "extras": [
+          {
+            "meaning": "Tesla Transport Protocol",
+            "provider": "wikipedia"
+          },
+          {
+            "meaning": "Time-Triggered Protocol",
+            "provider": "wikipedia"
+          }
+        ]
       },
       "TTS": {
         "meaning": "Text-to-Speech",
@@ -6365,6 +6455,10 @@
       },
       "WBEM": {
         "meaning": "Web-Based Enterprise Management",
+        "provider": "wikipedia"
+      },
+      "WBS": {
+        "meaning": "Work breakdown structure",
         "provider": "wikipedia"
       },
       "WCAG": {

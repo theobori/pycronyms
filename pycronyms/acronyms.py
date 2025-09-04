@@ -17,7 +17,7 @@ def create_acronyms() -> Acronyms:
         Acronyms: The empty acronyms.
     """
 
-    return create_recursive_dict(Acronym, 3)
+    return create_recursive_dict(Acronym, depth=3)
 
 
 def dict_from_acronyms(acronyms: Acronyms) -> AcronymsDict:
@@ -68,4 +68,4 @@ def acronyms_from_dict(acronyms_dict: AcronymsDict) -> Acronyms:
 
                 acronyms[l][c][acronym_name] = acronym
 
-        return acronyms
+    return acronyms

@@ -132,6 +132,7 @@ BCD,en,computer_science,wikipedia,Boot Configuration Data
 BCNF,en,computer_science,wikipedia,Boyce–Codd normal form
 BCP,en,computer_science,wikipedia,Business continuity planning
 BCP,en,computer_science,wikipedia,Best Current Practice
+BCS,en,computer_science,wikipedia,British Computer Society
 BEEP,en,computer_science,wikipedia,Blocks Extensible Exchange Protocol
 BER,en,computer_science,wikipedia,Basic Encoding Rules
 BER,en,computer_science,wikipedia,Bit Error Rate
@@ -443,6 +444,7 @@ EDR,en,computer_science,wikipedia,Endpoint detection and response
 EDSAC,en,computer_science,wikipedia,Electronic Delay Storage Automatic Calculator
 EDVAC,en,computer_science,wikipedia,Electronic Discrete Variable Automatic Computer
 EEPROM,en,computer_science,wikipedia,Electronically Erasable Programmable Read-Only Memory
+EF,en,computer_science,wikipedia,Exposure factor
 EFF,en,computer_science,wikipedia,Electronic Frontier Foundation
 EFI,en,computer_science,wikipedia,Extensible Firmware Interface
 EFM,en,computer_science,wikipedia,Ethernet in the first mile
@@ -470,6 +472,8 @@ EOL,en,computer_science,wikipedia,End of Life
 EOL,en,computer_science,wikipedia,End of Line
 EOM,en,computer_science,wikipedia,End of Message
 EOS,en,computer_science,wikipedia,End of Support
+EPC,en,computer_science,wikipedia,Evolved Packet Core
+EPC,en,computer_science,wikipedia,Electronic Product Code
 EPIC,en,computer_science,wikipedia,Explicitly Parallel Instruction Computing
 EPP,en,computer_science,wikipedia,Endpoint protection platform
 EPROM,en,computer_science,wikipedia,Erasable Programmable Read-Only Memory
@@ -689,6 +693,7 @@ IPP,en,computer_science,wikipedia,Internet Printing Protocol
 IPS,en,computer_science,wikipedia,Intrusion Prevention System
 IPS,en,computer_science,wikipedia,In-Plane Switching
 IPS,en,computer_science,wikipedia,Instructions Per Second
+IPSJ,en,computer_science,wikipedia,Information Processing Society of Japan
 IPV4,en,computer_science,wikipedia,Internet Protocol version 4
 IPV6,en,computer_science,wikipedia,Internet Protocol version 6
 IR,en,computer_science,wikipedia,Intermediate representation
@@ -751,6 +756,9 @@ JSE,en,computer_science,wikipedia,Java Standard Edition
 JSP,en,computer_science,wikipedia,Jackson Structured Programming
 JTAG,en,computer_science,wikipedia,Joint Test Action Group
 JVM,en,computer_science,wikipedia,Java Virtual Machine
+JWE,en,computer_science,wikipedia,JSON Web Encryption
+JWS,en,computer_science,wikipedia,JSON Web Signature
+JWT,en,computer_science,wikipedia,JSON Web Token
 KB,en,computer_science,wikipedia,Knowledge Base
 KC,en,computer_science,wikipedia,Keyboard computer
 KDC,en,computer_science,wikipedia,Key distribution center
@@ -853,6 +861,7 @@ MFT,en,computer_science,wikipedia,Master File Table
 MGCP,en,computer_science,wikipedia,Media Gateway Control Protocol
 MIB,en,computer_science,wikipedia,Management Information Base
 MIC,en,computer_science,wikipedia,Message integrity code
+MICKEY,en,computer_science,wikipedia,Mutual Irregular Clocking KEYstream generator
 MICR,en,computer_science,wikipedia,Magnetic Ink Character Recognition or Magnetic Ink Character Reader
 MIDI,en,computer_science,wikipedia,Musical Instrument Digital Interface
 MII,en,computer_science,wikipedia,Media-independent Interface
@@ -1120,8 +1129,9 @@ PTT,en,computer_science,wikipedia,Public Telephone and Telegraph
 PTZ,en,computer_science,wikipedia,Pan–tilt–zoom camera
 PUA,en,computer_science,wikipedia,Potentially unwanted application
 PUP,en,computer_science,wikipedia,Potentially unwanted program
-PV,en,computer_science,wikipedia,Physical Volume
-PVG,en,computer_science,wikipedia,Physical Volume Group
+PV,en,computer_science,wikipedia,Physical volume
+PV,en,computer_science,wikipedia,Process variable
+PVG,en,computer_science,wikipedia,Physical volume group
 PVR,en,computer_science,wikipedia,Personal Video Recorder
 PVST,en,computer_science,wikipedia,Per-VLAN Spanning Tree
 QA,en,computer_science,wikipedia,Quality assurance
@@ -1129,6 +1139,7 @@ QC,en,computer_science,wikipedia,Quality control
 QC,en,computer_science,wikipedia,Quick Charge
 QDR,en,computer_science,wikipedia,Quad Data Rate
 QFP,en,computer_science,wikipedia,Quad Flat Package
+QIF,en,computer_science,wikipedia,Quicken Interchange Format
 QOS,en,computer_science,wikipedia,Quality of Service
 QOTD,en,computer_science,wikipedia,Quote of the Day
 QSOP,en,computer_science,wikipedia,Quarter-size small-outline package
@@ -1228,6 +1239,7 @@ S/MIME,en,computer_science,wikipedia,Secure/Multipurpose Internet Mail Extension
 SA,en,computer_science,wikipedia,Security association
 SAAS,en,computer_science,wikipedia,Software as a Service
 SAE,en,computer_science,wikipedia,Simultaneous Authentication of Equals
+SAE,en,computer_science,wikipedia,System Architecture Evolution
 SAM,en,computer_science,wikipedia,Security Account Manager
 SAML,en,computer_science,wikipedia,Security Assertion Markup Language
 SAN,en,computer_science,wikipedia,Subject Alternative Name
@@ -1254,6 +1266,7 @@ SCRAM,en,computer_science,wikipedia,Salted Challenge Response Authentication Mec
 SCSI,en,computer_science,wikipedia,Small Computer System Interface
 SCTP,en,computer_science,wikipedia,Stream Control Transmission Protocol
 SD,en,computer_science,wikipedia,Secure Digital
+SDD,en,computer_science,wikipedia,Software design description
 SDDC,en,computer_science,wikipedia,Software-defined data center
 SDDL,en,computer_science,wikipedia,Security Descriptor Definition Language
 SDH,en,computer_science,wikipedia,Synchronous Digital Hierarchy
@@ -1364,10 +1377,12 @@ SSSE,en,computer_science,wikipedia,Supplementary Streaming SIMD Extensions
 SSSP,en,computer_science,wikipedia,Single Source Shortest Path
 SSTC,en,computer_science,wikipedia,Security Services Technical Committee
 SSTP,en,computer_science,wikipedia,Secure Socket Tunneling Protocol
+STOMP,en,computer_science,wikipedia,Simple Text Oriented Messaging Protocol
 STP,en,computer_science,wikipedia,Spanning Tree Protocol
 SUS,en,computer_science,wikipedia,Single UNIX Specification
 SUSE,en,computer_science,wikipedia,Software und System-Entwicklung
 SVC,en,computer_science,wikipedia,Scalable Video Coding
+SVC,en,computer_science,wikipedia,Static VAR compensator
 SVD,en,computer_science,wikipedia,Structured VLSI Design
 SVG,en,computer_science,wikipedia,Scalable Vector Graphics
 SVGA,en,computer_science,wikipedia,Super Video Graphics Array
@@ -1380,6 +1395,7 @@ TAO,en,computer_science,wikipedia,Track-At-Once
 TAP,en,computer_science,wikipedia,Test Access Port
 TAPI,en,computer_science,wikipedia,Telephony Application Programming Interface
 TCL,en,computer_science,wikipedia,Tool Command Language
+TCM,en,computer_science,wikipedia,The Computer Museum
 TCP,en,computer_science,wikipedia,Transmission Control Protocol
 TCP/IP,en,computer_science,wikipedia,Transmission Control Protocol/Internet Protocol
 TCSEC,en,computer_science,wikipedia,Trusted Computer System Evaluation Criteria
@@ -1396,6 +1412,7 @@ TFT,en,computer_science,wikipedia,Thin-Film Transistor
 TFTP,en,computer_science,wikipedia,Trivial File Transfer Protocol
 TGS,en,computer_science,wikipedia,Ticket Granting Service
 TGT,en,computer_science,wikipedia,Ticket Granting Ticket
+THE,en,computer_science,wikipedia,The Hessling Editor
 TI,en,computer_science,wikipedia,Texas Instruments
 TIA,en,computer_science,wikipedia,Telecommunications Industry Alliance
 TIFF,en,computer_science,wikipedia,Tagged Image File Format
@@ -1422,6 +1439,9 @@ TSR,en,computer_science,wikipedia,Terminate and Stay Resident
 TTL,en,computer_science,wikipedia,Transistor—Transistor Logic
 TTL,en,computer_science,wikipedia,Time To Live
 TTLS,en,computer_science,wikipedia,Tunneled Transport Layer Security
+TTP,en,computer_science,wikipedia,Trusted third party
+TTP,en,computer_science,wikipedia,Time-Triggered Protocol
+TTP,en,computer_science,wikipedia,Tesla Transport Protocol
 TTS,en,computer_science,wikipedia,Text-to-Speech
 TUCOWS,en,computer_science,wikipedia,The Ultimate Collection of Winsock Software
 TUG,en,computer_science,wikipedia,TeX Users Group
@@ -1522,6 +1542,7 @@ WAP,en,computer_science,wikipedia,Wireless Access Point
 WAP,en,computer_science,wikipedia,Wireless Application Protocol
 WAVE,en,computer_science,wikipedia,Wireless access in vehicular environments
 WBEM,en,computer_science,wikipedia,Web-Based Enterprise Management
+WBS,en,computer_science,wikipedia,Work breakdown structure
 WCAG,en,computer_science,wikipedia,Web Content Accessibility Guidelines
 WCF,en,computer_science,wikipedia,Windows Communication Foundation
 WDDM,en,computer_science,wikipedia,Windows Display Driver Model
