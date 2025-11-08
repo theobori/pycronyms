@@ -66,6 +66,7 @@ AM,en,computer_science,wikipedia,Amplitude Modulation
 AM,en,computer_science,wikipedia,Access Method
 AM,en,computer_science,wikipedia,Active Monitor
 AMD,en,computer_science,wikipedia,Advanced Micro Devices
+AMI,en,computer_science,wikipedia,Amazon Machine Image
 AMOLED,en,computer_science,wikipedia,Active-Matrix Organic Light-Emitting Diode
 AMQP,en,computer_science,wikipedia,Advanced Message Queuing Protocol
 AMR,en,computer_science,wikipedia,Audio Modem Riser
@@ -192,6 +193,8 @@ CC,en,computer_science,wikipedia,C compiler
 CC,en,computer_science,wikipedia,Creative Commons
 CC,en,computer_science,wikipedia,Carbon copy
 CCM,en,computer_science,wikipedia,Central control module
+CCM,en,computer_science,wikipedia,Combined Cipher Machine
+CCM,en,computer_science,wikipedia,Cloud Controls Matrix
 CCMP,en,computer_science,wikipedia,CCM mode Protocol
 CD,en,computer_science,wikipedia,Compact Disc
 CD-R,en,computer_science,wikipedia,CD-Recordable
@@ -216,6 +219,7 @@ CGI,en,computer_science,wikipedia,Common Gateway Interface
 CGI,en,computer_science,wikipedia,Computer-generated imagery
 CGT,en,computer_science,wikipedia,Computational Graph Theory
 CHAP,en,computer_science,wikipedia,Challenge-Handshake Authentication Protocol
+CHRP,en,computer_science,wikipedia,Common Hardware Reference Platform
 CHS,en,computer_science,wikipedia,Cylinder–head–sector
 CIA,en,computer_science,wikipedia,"Confidentiality, Integrity, Availability"
 CICS,en,computer_science,wikipedia,Customer Information Control System
@@ -252,6 +256,7 @@ CN,en,computer_science,wikipedia,Common Name
 CNC,en,computer_science,wikipedia,Computerized numerical control
 CNG,en,computer_science,wikipedia,Cryptographic Next Generation
 CNR,en,computer_science,wikipedia,Communications and Networking Riser
+CNRI,en,computer_science,wikipedia,Corporation for National Research Initiatives
 COM,en,computer_science,wikipedia,Component Object Model or communication
 COPE,en,computer_science,wikipedia,"Corporate-owned, personally enabled"
 CORBA,en,computer_science,wikipedia,Common Object Request Broker Architecture
@@ -278,8 +283,9 @@ CRS,en,computer_science,wikipedia,Computer Reservations System
 CRT,en,computer_science,wikipedia,Cathode-ray tube
 CRT,en,computer_science,wikipedia,Cathode Ray Tube
 CRUD,en,computer_science,wikipedia,"Create, read, update and delete"
-CS,en,computer_science,wikipedia,Computer Science
+CS,en,computer_science,wikipedia,Computer—Science
 CS,en,computer_science,wikipedia,Cable Select
+CSA,en,computer_science,wikipedia,Cloud Security Alliance
 CSE,en,computer_science,wikipedia,Computer science and engineering
 CSI,en,computer_science,wikipedia,Common System Interface
 CSM,en,computer_science,wikipedia,Compatibility support module
@@ -426,6 +432,7 @@ EAI,en,computer_science,wikipedia,Enterprise Application Integration
 EAP,en,computer_science,wikipedia,Extensible Authentication Protocol
 EBCDIC,en,computer_science,wikipedia,Extended Binary Coded Decimal Interchange Code
 EBML,en,computer_science,wikipedia,Extensible Binary Meta Language
+EBS,en,computer_science,wikipedia,Elastic Block Store
 ECC,en,computer_science,wikipedia,Elliptic-curve cryptography
 ECDH,en,computer_science,wikipedia,Elliptic-curve Diffie–Hellman
 ECDHE,en,computer_science,wikipedia,Elliptic-curve Diffie–Hellman Ephemeral
@@ -464,6 +471,7 @@ ELF,en,computer_science,wikipedia,Extremely Low Frequency
 ELM,en,computer_science,wikipedia,ELectronic Mail
 EMAC,en,computer_science,wikipedia,Ethernet Media Access Control
 EMCC,en,computer_science,wikipedia,Eckert–Mauchly Computer Corporation
+EMM,en,computer_science,wikipedia,Enterprise mobility management
 EMS,en,computer_science,wikipedia,Expanded Memory Specification
 ENIAC,en,computer_science,wikipedia,Electronic Numerical Integrator And Computer
 EOF,en,computer_science,wikipedia,End Of Frame
@@ -528,6 +536,7 @@ FLAC,en,computer_science,wikipedia,Free Lossless Audio Codec
 FLOPS,en,computer_science,wikipedia,FLoating-Point Operations Per Second
 FLOSS,en,computer_science,wikipedia,Free/Libre/Open-Source Software
 FMC,en,computer_science,wikipedia,"Fixed Mobile Convergence ""Mobile UC or Unified Communications over Wireless"""
+FNV,en,computer_science,wikipedia,Fowler–Noll–Vo
 FOLDOC,en,computer_science,wikipedia,Free On-line Dictionary of Computing
 FOSDEM,en,computer_science,wikipedia,Free and Open-source Software Developers' European Meeting
 FOSI,en,computer_science,wikipedia,Formatted Output Specification Instance
@@ -552,6 +561,7 @@ FTTP,en,computer_science,wikipedia,Fiber To The Premises
 FUD,en,computer_science,wikipedia,Fear Uncertainty Doubt
 FWS,en,computer_science,wikipedia,Folding White Space
 FYI,en,computer_science,wikipedia,For Your Information
+GADS,en,computer_science,wikipedia,Gateway Algorithms and Data Structures
 GC,en,computer_science,wikipedia,Garbage collection
 GCC,en,computer_science,wikipedia,GNU Compiler Collection
 GCJ,en,computer_science,wikipedia,GNU Compiler for Java
@@ -560,6 +570,7 @@ GCP,en,computer_science,wikipedia,Google Cloud Platform
 GCR,en,computer_science,wikipedia,Group Coded Recording
 GDI,en,computer_science,wikipedia,Graphics Device Interface
 GDPR,en,computer_science,wikipedia,General Data Protection Regulation
+GEM,en,computer_science,wikipedia,Graphics Environment Manager
 GEPOF,en,computer_science,wikipedia,Gigabit Ethernet Plastic Optical Fiber
 GERAN,en,computer_science,wikipedia,GSM EDGE Radio Access Network
 GFDL,en,computer_science,wikipedia,GNU Free Documentation License
@@ -730,6 +741,7 @@ J2EE,en,computer_science,wikipedia,Java 2 Enterprise Edition
 J2ME,en,computer_science,wikipedia,Java 2 Micro Edition
 J2SE,en,computer_science,wikipedia,Java 2 Standard Edition
 JAAS,en,computer_science,wikipedia,Java Authentication and Authorization Service
+JATS,en,computer_science,wikipedia,Journal Article Tag Suite
 JAXB,en,computer_science,wikipedia,Java Architecture for XML Binding
 JAXP,en,computer_science,wikipedia,Java API for XML Processing
 JBOD,en,computer_science,wikipedia,Just a Bunch of Disks
@@ -767,6 +779,9 @@ KDF,en,computer_science,wikipedia,Key derivation function
 KEK,en,computer_science,wikipedia,Key encryption key
 KINK,en,computer_science,wikipedia,Kerberized Internet Negotiation of Keys
 KML,en,computer_science,wikipedia,Keyhole Markup Language
+KMS,en,computer_science,wikipedia,Knowledge Management System
+KMS,en,computer_science,wikipedia,Key Management Server
+KMS,en,computer_science,wikipedia,Kernal Mode Setting
 KPK,en,computer_science,wikipedia,Key production key
 KPOP,en,computer_science,wikipedia,Kerberized Post Office Protocol
 KRL,en,computer_science,wikipedia,Knowledge Representation Language
@@ -929,6 +944,7 @@ NAP,en,computer_science,wikipedia,Network Access Protection
 NAPT,en,computer_science,wikipedia,Network address and port translation
 NAS,en,computer_science,wikipedia,Network-attached storage
 NAS,en,computer_science,wikipedia,Network access server
+NASL,en,computer_science,wikipedia,Nessus Attack Scripting Language
 NAT,en,computer_science,wikipedia,Network address translation
 NBMA,en,computer_science,wikipedia,Non-Broadcast Multiple Access
 NCDP,en,computer_science,wikipedia,No-code development platform
@@ -949,6 +965,7 @@ NI,en,computer_science,wikipedia,National Instruments
 NIC,en,computer_science,wikipedia,Network Interface Card
 NIC,en,computer_science,wikipedia,Network Interface Controller or Network Interface Card
 NIDS,en,computer_science,wikipedia,Network intrusion detection systems
+NII,en,computer_science,wikipedia,National Information Infrastructure
 NIM,en,computer_science,wikipedia,No Internal Message
 NIO,en,computer_science,wikipedia,Non-blocking I/O
 NIPS,en,computer_science,wikipedia,Network-based intrusion prevention system
@@ -1040,6 +1057,7 @@ PAM,en,computer_science,wikipedia,Privileged Access Management
 PAM,en,computer_science,wikipedia,Pluggable Authentication Module
 PAN,en,computer_science,wikipedia,Personal Area Network
 PAP,en,computer_science,wikipedia,Password Authentication Protocol
+PAPR,en,computer_science,wikipedia,Power Architecture Platform Reference
 PARC,en,computer_science,wikipedia,Palo Alto Research Center
 PAT,en,computer_science,wikipedia,Port address translation
 PATA,en,computer_science,wikipedia,Parallel ATA
@@ -1278,6 +1296,7 @@ SDLC,en,computer_science,wikipedia,Synchronous Data Link Control
 SDLC,en,computer_science,wikipedia,Software development life cycle
 SDN,en,computer_science,wikipedia,Software-defined networking
 SDP,en,computer_science,wikipedia,Software-defined protection
+SDP,en,computer_science,wikipedia,Software-defined perimeter
 SDP,en,computer_science,wikipedia,Session Description Protocol
 SDR,en,computer_science,wikipedia,Software-Defined Radio
 SDRAM,en,computer_science,wikipedia,Synchronous Dynamic Random-Access Memory
@@ -1373,6 +1392,7 @@ SSI,en,computer_science,wikipedia,Server Side Includes
 SSL,en,computer_science,wikipedia,Secure Sockets Layer
 SSO,en,computer_science,wikipedia,Single sign-on
 SSP,en,computer_science,wikipedia,Supplementary Special-purpose Plane
+SSRF,en,computer_science,wikipedia,Server-side request forgery
 SSSE,en,computer_science,wikipedia,Supplementary Streaming SIMD Extensions
 SSSP,en,computer_science,wikipedia,Single Source Shortest Path
 SSTC,en,computer_science,wikipedia,Security Services Technical Committee
@@ -1511,6 +1531,7 @@ VLAN,en,computer_science,wikipedia,Virtual Local Area Network
 VLB,en,computer_science,wikipedia,Vesa Local Bus
 VLF,en,computer_science,wikipedia,Very Low Frequency
 VLIW,en,computer_science,wikipedia,Very Long Instruction Word
+VLK,en,computer_science,wikipedia,Volume Licensing Key
 VLSI,en,computer_science,wikipedia,Very-Large-Scale Integration
 VLSM,en,computer_science,wikipedia,Variable-length subnet masking
 VM,en,computer_science,wikipedia,Virtual Memory
@@ -1552,6 +1573,8 @@ WEP,en,computer_science,wikipedia,Wired Equivalent Privacy
 WFI,en,computer_science,wikipedia,Wait For Interrupt
 WIDE,en,computer_science,wikipedia,Widely Integrated Distributed Environment
 WIDS,en,computer_science,wikipedia,Wireless intrusion detection system
+WIMG,en,computer_science,wikipedia,"Write-Through Access , Cache-Inhibited Access , Memory Coherence , and Guarded"
+WIMP,en,computer_science,wikipedia,"""windows, icons, menus, pointer"""
 WINS,en,computer_science,wikipedia,Windows Internet Name Service
 WIPS,en,computer_science,wikipedia,Wireless intrusion prevention system
 WLAN,en,computer_science,wikipedia,Wireless Local Area Network
@@ -1589,6 +1612,7 @@ XSD,en,computer_science,wikipedia,XML Schema Definition
 XUL,en,computer_science,wikipedia,XML User Interface Language
 YACC,en,computer_science,wikipedia,Yet Another Compiler Compiler
 YAGNI,en,computer_science,wikipedia,You Aren't Gonna Need It
+YAML,en,computer_science,wikipedia,Yet Another Multicolumn Layout
 YAML,en,computer_science,wikipedia,YAML Ain't Markup Language
 YARN,en,computer_science,wikipedia,Yet Another Resource Negotiator
 YAST,en,computer_science,wikipedia,Yet another Setup Tool

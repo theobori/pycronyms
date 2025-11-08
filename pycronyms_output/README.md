@@ -7,7 +7,7 @@ This markdown file expose metrics produced by the acronyms retrieval using the `
 
 Below are graphs showing the evolution of the number of acronyms over time.
 
-![acronyms_graph](/pycronyms/pycronyms_output/acronyms_graph.png)
+![acronyms_graph](/pycronyms_output/acronyms_graph.png)
 
 
 
@@ -17,6 +17,6 @@ The matrix below shows the number of acronyms fetched by language and category.
 | Category\Language | en | fr | es | de | it | Total |
 | - | - | - | - | - | - | - |
 | **common** | 0 | 3 | 0 | 0 | 0 | 3 |
-| **computer_science** | 1603 | 2 | 0 | 0 | 0 | 1605 |
-| **Total** | 1603 | 5 | 0 | 0 | 0 | 1608 |
+| **computer_science** | 1627 | 2 | 0 | 0 | 0 | 1629 |
+| **Total** | 1627 | 5 | 0 | 0 | 0 | 1632 |
 
